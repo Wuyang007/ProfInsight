@@ -12,7 +12,7 @@ import sys
 sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
-# from help_functions.professor_profile import draw_network
+from help_functions.professor_profile import create_base_chart
 
 
 #--------------------------------------------------------------------------------------------
@@ -272,5 +272,39 @@ elif selected_section == "Professor overview":
     """)
     #with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
     st.image('datasets/chart/professor_university_network.png', caption='')
-    st.write('Zoom in to discover different universities and their amazing academic communities! 🔍')
+    st.write('Interactive version could be found in github 🔍')
+
+    st.header("2. Academic Metrics Overview")
+
+    st.subheader("📏 Publication Frequency vs Impact Factor")
+    # Load Data
+    df = pd.read_csv('datasets/tables/professor_profile.csv')
+    df = df[['university_name', 'professor_name', 'ave_if', 'num_of_pub', 'overall_impact', 'impact_level','Community Contribution']]
+    
+    # Brief Description
+    st.markdown("""
+        In this section, we display key academic metrics for top Biomedical Engineering professors. 
+        These metrics include:
+        - **Publication frequency**
+        - **Average impact factor**
+        - **Overall contribution to the community**
+        
+        Explore how these factors are connected and how they contribute to the advancement of the field.
+    """)
+
+    
+    # Display the base chart with a clear description
+    st.markdown("Below is the visualization of publication frequency versus impact factor. This chart helps to understand the relationship between how often professors publish and the overall quality and impact of their research.")
+    st.write('\n')
+    st.write('\n')
+    base_chart = create_base_chart(df)
+    col1, col2, col3 = st.columns([0.5,4,1])
+    with col2:
+        st.altair_chart(base_chart)
+
+    # Spacer for better page layout
+    st.markdown('<br>', unsafe_allow_html=True)
+
+    st.divider() 
+
     

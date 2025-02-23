@@ -1,0 +1,1882 @@
+,university_name,professor_name,ave_if,num_of_pub,overall_impact,impact_level,Community Contribution
+0,University of Pittsburgh,Miller C Mark,63.55,0.2,35.88594930459248,3,Tier 3
+1,Georgia Institute of Technology,Ross Ethier,3.9720430107526874,9.3,52.149527365507076,3,Tier 3
+2,University of California Los Angeles,Joseph Distefano,15.74,0.5,15.675662857373448,1,Tier 5
+3,Massachusetts Institute of Technology,Bruce Tidor,10.2,1.0,18.228469868503627,2,Tier 4
+4,Massachusetts Institute of Technology,James J Collins,21.724999999999998,12.4,581.5960075222138,5,Tier 1
+5,University of California San Francisco,Michael Keiser,7.555172413793104,2.9,36.32482013011593,3,Tier 3
+6,University of Sydney,Jinglei Lv,5.907407407407407,2.7,24.866228389172903,2,Tier 4
+7,University of Cambridge,Joan Lasenby,12.820000000000002,1.0,24.25828150308411,2,Tier 4
+8,Harvard University,Robert D Howe,4.733333333333334,2.1,14.661491631115462,1,Tier 5
+9,University of Tokyo,Hiroyuki Takahashi,4.189839572192513,18.7,112.09554410899766,4,Tier 2
+10,University of Oxford,Coussios Constantin,7.556818181818182,4.4,55.12852755495719,3,Tier 3
+11,University of Washington,Elizabeth Wayne,9.06111111111111,1.8,28.297581865951354,2,Tier 4
+12,University of California Los Angeles,Ricky Taira,4.49,1.0,6.535938036628091,0,Tier 6
+13,Cornell University,Mridusmita Saikia,9.0625,0.8,12.579112797091158,1,Tier 5
+14,University of Toronto,Aaron Wheeler,8.72686567164179,6.7,100.4957432755797,4,Tier 2
+15,University of Pennsylvania,Yihui Shen,7.0874999999999995,0.8,9.251375886996541,1,Tier 5
+16,University of Oxford,Zavatsky Amy,2.0666666666666664,0.9,2.230131915311922,0,Tier 6
+17,Duke University,Louis E Defrate,3.8358490566037733,5.3,28.451341985103877,2,Tier 4
+18,University of Washington,Ivan M Pelivanov,3.0,0.1,0.3948222038857478,0,Tier 6
+19,Shanghai Jiao Tong University,Fu Wang,7.430508474576272,5.9,72.38109999878967,4,Tier 2
+20,Massachusetts Institute of Technology,Steven R Tannenbaum,5.688235294117647,3.4,29.86763655203313,2,Tier 4
+21,University of California San Diego,Bing Ren,23.795890410958904,14.6,767.3266925140498,5,Tier 1
+22,Georgia Institute of Technology,Denis Tsygankov,4.904999999999999,2.0,14.599189986983493,1,Tier 5
+23,Nanyang Technological University,Wei Ning Chen,5.0280000000000005,5.0,37.64558849164399,3,Tier 3
+24,University of Sydney,Clara Tran,9.414285714285715,0.7,11.543360481917164,1,Tier 5
+25,Rice University,Rebekah Drezek,6.4,1.7,17.305091057971023,2,Tier 4
+26,University of Oxford,Denison Tim,34.46,0.5,41.745925691813326,3,Tier 3
+27,National University of Singapore,Huang Zhiwei,5.764285714285713,2.8,25.008630223991666,2,Tier 4
+28,University of Pittsburgh,Niepa Tagbo,7.68,0.5,6.392511667642087,0,Tier 6
+29,University of Cambridge,Fumiya Iida,4.8630434782608685,4.6,33.219494705008046,3,Tier 3
+30,Imperial College London,Martyn G Boutelle,4.539130434782609,2.3,15.238550700353205,1,Tier 5
+31,Carnegie Mellon University,Barbara Shinn-cunningham,3.8348837209302333,4.3,23.075903049732506,2,Tier 4
+32,Imperial College London,Claudia Clopath,10.1525,8.0,144.97937883886993,5,Tier 1
+33,University of Pittsburgh,Schwerdt Helen,3.6999999999999997,0.4,2.0526369686012407,0,Tier 6
+34,University of Pittsburgh,Boninger Michael,4.146601941747575,10.3,60.94704560145235,4,Tier 2
+35,Georgia Institute of Technology,David Myers,12.120689655172415,2.9,65.58539858130065,4,Tier 2
+36,Georgia Institute of Technology,Hua Wang,11.6375,1.6,34.39098384510299,3,Tier 3
+37,University of Pennsylvania,Nathaniel A Dyment,6.142307692307692,2.6,25.141304507332407,2,Tier 4
+38,Nanyang Technological University,Song Juha,6.745833333333333,2.4,26.09190271197435,2,Tier 4
+39,Georgia Institute of Technology,Alyssa Panitch,6.63,1.0,10.638782016708616,1,Tier 5
+40,University of California San Francisco,Michelle Wang,7.885714285714285,0.7,9.250161967267841,1,Tier 5
+41,University of Hong Kong,William W Lu,6.840000000000001,8.0,88.49324365541133,4,Tier 2
+42,Stanford University,Stephen Quake,15.059677419354838,18.6,551.8010605561803,5,Tier 1
+43,Johns Hopkins University,Paul Bottomley,4.370967741935484,3.1,19.59222210860202,2,Tier 4
+44,University of Hong Kong,Quan Hao,6.3,4.4,43.91656495217065,3,Tier 3
+45,University of Pittsburgh,Wagner R William,17.666666666666668,0.3,10.865870463380288,1,Tier 5
+46,Georgia Institute of Technology,Melissa Kemp,6.029545454545456,4.4,41.572715511403956,3,Tier 3
+47,University of Michigan,James Weiland,3.224137931034482,2.9,12.528959752083228,1,Tier 5
+48,University of Pennsylvania,Ning Jiang,15.407692307692308,1.3,39.683991554953224,3,Tier 3
+49,University of Pennsylvania,Ravi Radhakrishnan,7.793846153846153,6.5,84.64535732135191,4,Tier 2
+50,Massachusetts Institute of Technology,Peter Dedon,8.608620689655174,11.6,171.05073900411531,5,Tier 1
+51,Johns Hopkins University,Alison Hill,9.113793103448277,2.9,45.92212267859679,3,Tier 3
+52,University of Toronto,Patricia Trbovich,3.4823529411764707,5.1,24.26113742053197,2,Tier 4
+53,University of California Los Angeles,Jennifer Wilson,14.794594594594598,3.7,107.35704778872105,4,Tier 2
+54,University of Toronto,Sara S Nunes,9.717241379310344,2.9,49.753855039816486,3,Tier 3
+55,Georgia Institute of Technology,Muralidhar Padala,5.364705882352942,1.7,13.8797395756619,1,Tier 5
+56,University of Sydney,Behnam Akhavan,9.473684210526315,1.9,31.57928052104369,2,Tier 4
+57,University of Pittsburgh,Edwards W Barry,5.253333333333333,1.5,11.92984928568741,1,Tier 5
+58,University of California San Diego,Duygu Kuzum,12.399999999999999,2.1,48.864831010575934,3,Tier 3
+59,University of Tokyo,Kouhei Tsumoto,5.02974358974359,19.5,146.88143898604224,5,Tier 1
+60,University of California San Francisco,Daniel Vigneron,4.328181818181817,11.0,68.6711871892982,4,Tier 2
+61,University of Pittsburgh,Leuba Sanford,7.959999999999999,0.5,6.685152812199575,0,Tier 6
+62,University of Cambridge,Tim Wilkinson,5.3999999999999995,0.3,2.4695251560314273,0,Tier 6
+63,Shanghai Jiao Tong University,Junfeng Sun,3.9875000000000003,4.8,27.046875844836517,2,Tier 4
+64,Cornell University,Yi Wang,5.506735751295337,19.3,162.80776144193635,5,Tier 1
+65,University of Toronto,Axel Gunther,8.722222222222221,0.9,13.490450215186987,1,Tier 5
+66,Columbia University,Andrew Marks,11.171698113207547,5.3,108.24924075421066,4,Tier 2
+67,Shanghai Jiao Tong University,Jingfeng Bai,3.577777777777778,0.9,4.428526137493114,0,Tier 6
+68,Shanghai Jiao Tong University,Xianting Ding,6.618354430379747,15.8,167.72376908012433,5,Tier 1
+69,Cornell University,Andrew I Schafer,9.633333333333333,0.3,5.091455938896105,0,Tier 6
+70,Columbia University,Sanja Vickovic,17.725,0.4,14.547648401257668,1,Tier 5
+71,Duke University,Joel Collier,12.441025641025641,3.9,91.12443288369512,4,Tier 2
+72,University of Washington,Wendy Thomas,5.390625,3.2,26.284449141140968,2,Tier 4
+73,University of California Los Angeles,Yuhua Zhang,3.09,1.0,4.0968314736675335,0,Tier 6
+74,University of Pennsylvania,Lukasz Bugaj,8.342105263157894,1.9,26.936935288089774,2,Tier 4
+75,University of Pittsburgh,Sejdic Ervin,4.94056603773585,10.6,78.07765318314017,4,Tier 2
+76,University of Cambridge,Michael Sutcliffe,4.148148148148149,2.7,15.983857067196277,1,Tier 5
+77,University of California San Francisco,Atul Butte,9.13851851851852,13.5,214.5006012175406,5,Tier 1
+78,Johns Hopkins University,Eileen Haase,3.2,0.4,1.7119751807396406,0,Tier 6
+79,Johns Hopkins University,Scot Kuo,8.299999999999999,0.3,4.226383188721397,0,Tier 6
+80,Nanyang Technological University,Ling Tong,6.25,0.6,5.929270612815712,0,Tier 6
+81,University of Cambridge,Norman Fleck,2.433333333333333,0.3,0.9117447294849902,0,Tier 6
+82,Stanford University,Hyongsok T Soh,12.52142857142857,1.4,32.97580347559663,2,Tier 4
+83,University of Pittsburgh,Hung Tin-kan,2.3666666666666667,0.3,0.8806282682055232,0,Tier 6
+84,University of California Berkeley,Teresa Head-Gordon,6.8627450980392135,10.2,113.29806875623163,4,Tier 2
+85,Johns Hopkins University,Soumyadipta Acharya,3.3687500000000004,1.6,7.302237615372916,1,Tier 5
+86,Georgia Institute of Technology,Simon Sponberg,7.264285714285714,2.8,33.39251870351529,3,Tier 3
+87,University of Sydney,Yogambha Ramaswamy,7.41764705882353,1.7,20.81045749831082,2,Tier 4
+88,University College London,Andrea Rayat,5.3999999999999995,0.6,4.939050312062855,0,Tier 6
+89,Carnegie Mellon University,Timothy Verstynen,3.7849056603773588,5.3,27.979805645729922,2,Tier 4
+90,Cornell University,Shaoyi Jiang,12.7,1.5,35.962171702036194,3,Tier 3
+91,Cornell University,Warren R Zipfel,8.124137931034483,2.9,39.77586272939563,3,Tier 3
+92,Massachusetts Institute of Technology,K Dane Wittrup,9.530555555555557,7.2,120.56750340132467,5,Tier 1
+93,Imperial College London,Mengxing Tang,4.639655172413793,5.8,39.494363934949526,3,Tier 3
+94,Johns Hopkins University,Jordan Green,8.395199999999999,12.5,178.6277062778686,5,Tier 1
+95,University College London,Martina Micheletti,4.966666666666667,0.9,6.673040743959853,0,Tier 6
+96,Shanghai Jiao Tong University,Jie Luo,6.210084033613445,11.9,116.65914997025338,4,Tier 2
+97,Georgia Institute of Technology,Nael Mccarty,5.27,2.0,15.969571554995357,1,Tier 5
+98,University of Michigan,Chandramouli Krishnan,3.2940298507462686,6.7,29.732690886750763,2,Tier 4
+99,Massachusetts Institute of Technology,Ernest Fraenkel,11.094736842105263,5.7,115.41735373062741,4,Tier 2
+100,Carnegie Mellon University,Patjanaporn Chalacheva,5.966666666666666,0.3,2.7976022915998215,0,Tier 6
+101,Georgia Institute of Technology,Timothy Whelan,22.5,0.1,4.900361821529471,0,Tier 6
+102,Johns Hopkins University,Clifford Weiss,3.9894736842105263,11.4,64.27607623609263,4,Tier 2
+103,McGill University,Damiano Pasini,3.8148148148148144,2.7,14.394798496281712,1,Tier 5
+104,Massachusetts Institute of Technology,Laurie A Boyer,12.646153846153847,2.6,62.004245064167996,4,Tier 2
+105,Imperial College London,Peter D Weinberg,4.102702702702703,3.7,21.60425443863674,2,Tier 4
+106,University of Pittsburgh,Wu Haodi,3.966666666666667,0.6,3.358794116121303,0,Tier 6
+107,University of Pennsylvania,Dani S Bassett,7.802597402597404,7.7,100.41294940769365,4,Tier 2
+108,Peking University,Yangming Wang,10.717500000000001,4.0,77.56697529281105,4,Tier 2
+109,University of Oxford,Seymour Ben,9.233333333333333,0.9,14.485738880984302,1,Tier 5
+110,University of California Los Angeles,Timothy Deming,8.985,4.0,62.223952336490385,4,Tier 2
+111,Duke University,Gregg E Trahey,2.483333333333333,1.8,5.611336040437821,0,Tier 6
+112,University of Toronto,Hani Naguib,6.926086956521738,4.6,51.685385091286236,3,Tier 3
+113,University of California San Diego,Gene Yeo,15.321761658031086,19.3,585.050273680103,5,Tier 1
+114,Massachusetts Institute of Technology,Domitilla Del Vecchio,8.11176470588235,3.4,46.545006794754194,3,Tier 3
+115,Columbia University,Kristin M Myers,4.328571428571428,2.8,17.48190544619925,2,Tier 4
+116,University of Washington,Kim Woodrow,6.702702702702703,3.7,39.90379218264401,3,Tier 3
+117,University of California San Diego,James Friend,4.6225000000000005,4.0,27.111661974139473,2,Tier 4
+118,University of Toronto,Caitlin Maikawa,6.466666666666666,0.3,3.0936547761209976,0,Tier 6
+119,Shanghai Jiao Tong University,Huajun She,4.033333333333333,1.2,6.859009281570802,0,Tier 6
+120,University of California San Diego,John Watson,27.200000000000003,0.2,12.423418798337442,1,Tier 5
+121,University of Pennsylvania,Nader Engheta,11.599999999999998,4.6,98.47598153263972,4,Tier 2
+122,University of Washington,Barry Lutz,5.352,5.0,40.70194239352954,3,Tier 3
+123,Duke University,Amy L Mcnulty,4.65,3.0,20.485069693537337,2,Tier 4
+124,Johns Hopkins University,Rong Li,11.691379310344828,5.8,125.38921459450223,5,Tier 1
+125,Imperial College London,Jun Ishihara,13.057142857142859,1.4,34.74867349155141,3,Tier 3
+126,University of California Berkeley,Kevin Healy,8.392592592592594,5.4,77.13721175004422,4,Tier 2
+127,University of Washington,Michael Regnier,7.497979797979798,9.9,122.8331323984812,5,Tier 1
+128,University of California Los Angeles,William Hsu,5.233823529411766,6.8,53.83103832526994,3,Tier 3
+129,University of Pittsburgh,Marra Kacey,4.46,6.5,42.12907561266641,3,Tier 3
+130,Rice University,Laura Segatori,7.613333333333333,3.0,37.9393434278355,3,Tier 3
+131,Peking University,Heping Cheng,11.024590163934429,6.1,122.5414181648652,5,Tier 1
+132,McGill University,Codruta Ignea,11.2,0.5,10.244541655361378,1,Tier 5
+133,Johns Hopkins University,Natalia Trayanova,7.553086419753086,16.2,202.84793071566233,5,Tier 1
+134,University of Pittsburgh,Kalinski Pawel,6.8166666666666655,3.0,33.04352166657184,2,Tier 4
+135,Georgia Institute of Technology,Mijin Kim,14.4,0.1,2.805130789704855,0,Tier 6
+136,Georgia Institute of Technology,Adam Marcus,4.277272727272727,2.2,13.53260355401663,1,Tier 5
+137,University of Michigan,J Brian Fowlkes,4.191999999999999,5.0,29.99139017208318,2,Tier 4
+138,University of Pittsburgh,Liu Yang,7.969306930693068,10.1,135.23747882269598,5,Tier 1
+139,University College London,Nicolas Szita,4.403846153846153,2.6,16.586834880878474,1,Tier 5
+140,Duke University,Mark L Palmeri,3.196666666666667,3.0,12.823097525379065,1,Tier 5
+141,Georgia Institute of Technology,Stephen Sprigle,1.9435897435897438,3.9,8.94994476969523,1,Tier 5
+142,University of Oxford,Cleveland Robin,3.9192307692307695,2.6,14.337531762342588,1,Tier 5
+143,University of Washington,Jay T Rubinstein,1.920588235294118,3.4,7.687263136954618,1,Tier 5
+144,Columbia University,Elizabeth Olson,3.278260869565217,4.6,20.29140966655106,2,Tier 4
+145,Columbia University,Edward X Guo,29.5,0.2,13.750152524584582,1,Tier 5
+146,University of California Los Angeles,Elisa Franco,13.764000000000001,2.5,66.27822035517741,4,Tier 2
+147,Massachusetts Institute of Technology,Ron Weiss,13.43809523809524,6.3,162.09241499568745,5,Tier 1
+148,Duke University,Jen-tsan A Chi,19.8,0.3,12.530048226705798,1,Tier 5
+149,Imperial College London,Sylvain Ladame,7.994736842105263,1.9,25.54223034243265,2,Tier 4
+150,University of California San Francisco,Michael Silber,3.1666666666666665,0.3,1.2672847037701156,0,Tier 6
+151,University of Sydney,Tonima Ali,3.0,0.1,0.3948222038857478,0,Tier 6
+152,Stanford University,Lacramioara Bintu,13.163157894736841,1.9,47.63802131758523,3,Tier 3
+153,University of Pennsylvania,Noor Momin,5.3,0.3,2.4124931657365107,0,Tier 6
+154,University of Sydney,Fernando Calamante,4.7942857142857145,3.5,24.829783598924372,2,Tier 4
+155,University of California Los Angeles,Arash Naeim,6.307317073170732,4.1,40.98167326564515,3,Tier 3
+156,University of Pennsylvania,Riccardo Gottardi,5.38695652173913,2.3,18.87587853245114,2,Tier 4
+157,Shanghai Jiao Tong University,Xiaohua Qian,5.561764705882353,3.4,29.039870931305025,2,Tier 4
+158,Duke University,Blake S Wilson,6.605882352941176,1.7,18.003728911162693,2,Tier 4
+159,University of California Los Angeles,Nasim Annabi,9.642028985507245,6.9,117.23563270947614,4,Tier 2
+160,University of Cambridge,Ozgur Akan,3.125,0.4,1.661967467795309,0,Tier 6
+161,University of California Berkeley,Daniel A. Fletcher,13.746575342465754,7.3,193.22619684349414,5,Tier 1
+162,University of California Los Angeles,Sophia Sangiorgio,3.1684210526315795,3.8,16.063390216647047,1,Tier 5
+163,Stanford University,Michael Lin,16.03898305084746,5.9,189.37517501262045,5,Tier 1
+164,University of Pittsburgh,Gandhi Neeraj,2.963636363636364,1.1,4.2773405484143225,0,Tier 6
+165,University of California San Diego,Anjana Rao,13.744642857142859,5.6,148.20226853484644,5,Tier 1
+166,Johns Hopkins University,Jeremias Sulam,5.104166666666667,2.4,18.412692505741234,2,Tier 4
+167,Nanyang Technological University,Zaher Judeh,7.122727272727272,2.2,25.599446505396788,2,Tier 4
+168,University of Cambridge,Ronan Daly,7.609090909090909,1.1,13.90140356135012,1,Tier 5
+169,University of Michigan,Kelly Arnold,7.570967741935485,3.1,38.93148220362483,3,Tier 3
+170,Shanghai Jiao Tong University,Bing Han,6.461340206185567,19.4,199.8503855271547,5,Tier 1
+171,University of California San Francisco,Srikantan Nagarajan,4.195348837209303,12.9,77.45506225277737,4,Tier 2
+172,Carnegie Mellon University,Bin He,5.346666666666667,4.5,36.58612385918545,3,Tier 3
+173,Duke University,Warren M Grill,4.438167938931298,13.1,84.3870801726957,4,Tier 2
+174,Rice University,Tomasz Tkaczyk,3.5071428571428576,2.8,13.43847079735246,1,Tier 5
+175,Carnegie Mellon University,Rachelle Palchesko,6.9399999999999995,1.0,11.264173677944129,1,Tier 5
+176,University of Pittsburgh,Gleason Thomas,6.261538461538462,18.2,180.26968660132826,5,Tier 1
+177,University of British Columbia,Rafeefgarbi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+178,Shanghai Jiao Tong University,Aili Zhang,3.313043478260869,2.3,10.28044124107472,1,Tier 5
+179,University of Pittsburgh,Weber D John,8.483333333333333,1.8,26.060375556387676,2,Tier 4
+180,Northwestern University,Hao Zhang,5.631182795698925,18.6,161.34758741383575,5,Tier 1
+181,McGill University,Dan Nicolau,6.085000000000001,2.0,19.114182305715733,2,Tier 4
+182,University of California Los Angeles,Anne Andrews,10.403030303030304,3.3,61.65435650373557,4,Tier 2
+183,Columbia University,Treena Arinzeh,6.550000000000001,0.2,2.095712098890535,0,Tier 6
+184,Georgia Institute of Technology,Shuichi Takayama,6.806382978723405,4.7,51.67057989430447,3,Tier 3
+185,Tsinghua University,Huang Guoliang,4.662962962962963,2.7,18.500830386204882,2,Tier 4
+186,University of Toronto,Edmond Young,5.499999999999999,2.8,23.583670214787645,2,Tier 4
+187,Carnegie Mellon University,Howie Choset,9.790000000000001,1.0,17.317227593770205,2,Tier 4
+188,University of Sydney,Shaikh Faisal,6.3,0.4,3.9924149956518775,0,Tier 6
+189,Tsinghua University,Guo Yong,5.502173913043478,4.6,38.76374460229787,3,Tier 3
+190,Columbia University,Yasmine El-shamayleh,7.400000000000001,0.3,3.6615157313673197,0,Tier 6
+191,Columbia University,Binsheng Zhao,4.0636363636363635,7.7,44.425699292559,3,Tier 3
+192,Georgia Institute of Technology,Lewis Wheaton,2.33,2.0,5.757380028303073,0,Tier 6
+193,Imperial College London,Firat Güder,19.514285714285716,2.1,86.13112482466506,4,Tier 2
+194,University of California San Diego,Jeff Hasty,10.77818181818182,5.5,107.40996407836708,4,Tier 2
+195,University College London,Emily Kostas,6.199999999999999,0.4,3.913358212263985,0,Tier 6
+196,University of California Berkeley,Seung-Wuk Lee,7.824390243902438,4.1,53.653367514652174,3,Tier 3
+197,University of Pittsburgh,Ding Dan,2.593548387096775,3.1,10.203041132688218,1,Tier 5
+198,University of Pennsylvania,Arjun Raj,14.856338028169016,7.1,207.08472433783854,5,Tier 1
+199,National University of Singapore,Jin Yueming,12.049999999999999,0.4,8.98036109963844,1,Tier 5
+200,University of California Los Angeles,Wentai Liu,5.574999999999999,2.0,17.133105349287746,2,Tier 4
+201,Stanford University,Drew Endy,12.183333333333334,1.8,40.971339546411095,3,Tier 3
+202,University of California San Diego,Shadi Dayeh,9.504347826086958,4.6,76.76455446880888,4,Tier 2
+203,University of Tokyo,Etsuko Kobayashi,3.19,6.0,25.579355880004815,2,Tier 4
+204,University of British Columbia,Peterzandstra,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+205,Johns Hopkins University,Pedro Irazoqui,6.233333333333333,0.6,5.909512969915302,0,Tier 6
+206,Johns Hopkins University,Elizabeth Logsdon,3.1571428571428575,0.7,2.9458852919349683,0,Tier 6
+207,Johns Hopkins University,Jean Fan,9.772222222222222,1.8,31.100270976292695,2,Tier 4
+208,University of California San Diego,Ester Kwon,10.935294117647059,1.7,33.80547222056001,3,Tier 3
+209,Shanghai Jiao Tong University,Yiping Du,4.6891304347826095,4.6,31.74119136831876,2,Tier 4
+210,Carnegie Mellon University,Rosalyn Abbott,6.888235294117646,1.7,18.970723250719768,2,Tier 4
+211,University of British Columbia,Babakshadgan,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+212,University of Pittsburgh,Waters Jonathan,4.199999999999999,5.7,34.27176479847375,3,Tier 3
+213,University of Pittsburgh,Justin S Weinbaum,4.733333333333333,1.8,12.566992826670393,1,Tier 5
+214,University of Washington,Michalakis A Averkiou,3.5904761904761906,2.1,10.379091930939667,1,Tier 5
+215,Shanghai Jiao Tong University,Kun Qian,7.9947368421052625,13.3,178.79561239702852,5,Tier 1
+216,University of California San Diego,Huilin Zhou,13.306451612903226,3.1,78.78427042978208,4,Tier 2
+217,University of Cambridge,Alexandre Kabla,10.15,2.4,43.48042640873937,3,Tier 3
+218,University of Oxford,Bulte Daniel,3.6266666666666665,3.0,15.014324763342529,1,Tier 5
+219,University of Michigan,Andrew Putnam,6.610204081632652,4.9,51.9355416080169,3,Tier 3
+220,University of Pittsburgh,Moyer Brian,3.1,0.2,0.8226822230741178,0,Tier 6
+221,Cornell University,David Christini,4.604,2.5,16.860061418984216,1,Tier 5
+222,Rice University,Joel Moake,9.673333333333336,1.5,25.58947941311849,2,Tier 4
+223,Johns Hopkins University,Leslie Tung,6.456,2.5,25.727311851765556,2,Tier 4
+224,University of Michigan,Omolola Eniola-adefeso,11.171052631578945,3.8,77.60705781391522,4,Tier 2
+225,Massachusetts Institute of Technology,Jessica Stark,9.033333333333333,0.3,4.698197829706796,0,Tier 6
+226,Imperial College London,Benjamin D Almquist,6.123076923076923,1.3,12.521475168653899,1,Tier 5
+227,University of British Columbia,Ayazdamji,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+228,University of Pittsburgh,Byrne Leah,8.685714285714285,1.4,20.875407395889148,2,Tier 4
+229,University of Pennsylvania,Brit Shields,3.2,0.1,0.42799379518491015,0,Tier 6
+230,University of Toronto,Tom Chau,3.21551724137931,5.8,24.974197783156203,2,Tier 4
+231,Northwestern University,Jonathan Rivnay,12.110714285714286,5.6,126.51739029876664,5,Tier 1
+232,University of California San Diego,"""max"" Y Qian",22.6,0.5,24.638005808361697,2,Tier 4
+233,University of Pittsburgh,Sparto Patrick,2.9921875,6.4,25.186393215924582,2,Tier 4
+234,University of British Columbia,Kenichitakahata,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+235,Shanghai Jiao Tong University,Jinye Wang,7.963333333333334,3.0,40.1319140550765,3,Tier 3
+236,University of Pittsburgh,Almarza Alejandro,3.3960000000000004,2.5,11.525230255121315,1,Tier 5
+237,Georgia Institute of Technology,Christopher Rozell,6.579166666666667,2.4,25.288603785585963,2,Tier 4
+238,University of Washington,Lara Gamble,3.4588235294117644,1.7,8.018800840967225,1,Tier 5
+239,University of Michigan,Somin Lee,5.04,0.5,3.7757929817962137,0,Tier 6
+240,Duke University,Emma J Chory,14.3,0.1,2.780801870086809,0,Tier 6
+241,Duke University,Samira Musah,12.164285714285715,1.4,31.804333662243685,2,Tier 4
+242,University of Toronto,Kei Masani,2.3921052631578945,7.6,22.609395480525826,2,Tier 4
+243,Rice University,Omid Veiseh,13.839285714285712,2.8,74.73948925822454,4,Tier 2
+244,Stanford University,Polly Fordyce,9.107894736842104,3.8,60.12513990803487,4,Tier 2
+245,University of California San Francisco,Wendell Lim,17.80980392156863,5.1,186.59246357353544,5,Tier 1
+246,Georgia Institute of Technology,Young-hui Chang,2.4050000000000002,2.0,5.98995895594028,0,Tier 6
+247,Duke University,Christoph F Schmidt,7.385714285714286,0.7,8.522925041353842,1,Tier 5
+248,University of Michigan,María Coronel,20.0,0.3,12.68845516128677,1,Tier 5
+249,University of Cambridge,Shery Huang,2.2,0.1,0.26793432283879953,0,Tier 6
+250,Northwestern University,Malcolm Maciver,6.8,1.5,16.471281895921564,1,Tier 5
+251,Columbia University,José L Mcfaline-figueroa,10.244444444444445,0.9,16.495026741625612,1,Tier 5
+252,University of California Berkeley,Moriel Vandsburger,5.526315789473683,1.9,16.098974912160458,1,Tier 5
+253,University of Pittsburgh,Lotze Michael,7.9480392156862765,10.2,136.12101328707595,5,Tier 1
+254,Johns Hopkins University,Jeff Bulte,9.124999999999998,9.2,145.90793759347022,5,Tier 1
+255,University of California Los Angeles,Jacob Schmidt,4.764285714285713,1.4,9.854288742515378,1,Tier 5
+256,Duke University,John W Hickey,6.766666666666666,0.3,3.274083368395608,0,Tier 6
+257,Stanford University,Markus Covert,8.964102564102562,3.9,60.49202572796529,4,Tier 2
+258,Johns Hopkins University,Vikram Chib,3.3799999999999994,1.5,6.874436970347274,0,Tier 6
+259,University of Toronto,Paul Santerre,6.181538461538461,6.5,63.35546406169299,4,Tier 2
+260,University of California Los Angeles,Lili Yang,8.760416666666666,4.8,72.34311264168298,4,Tier 2
+261,University of California San Diego,Neal Devaraj,11.995774647887325,7.1,158.50527569881464,5,Tier 1
+262,University of Oxford,Rittscher Jens,7.658974358974358,3.9,49.69101599135138,3,Tier 3
+263,Cornell University,Steven Adie,6.916666666666667,1.8,20.190336773787845,2,Tier 4
+264,University of Washington,Rupak Rajachar,5.86,1.5,13.676131848452428,1,Tier 5
+265,Peking University,He Sun,4.893939393939394,3.3,24.02078374493364,2,Tier 4
+266,University College London,Frank Baganz,3.7896551724137932,2.9,15.333723087858367,1,Tier 5
+267,Duke University,Angel V Peterchev,5.606666666666667,6.0,51.76451762263282,3,Tier 3
+268,University of Sydney,Andre Kyme,3.6315789473684204,1.9,9.525174994413652,1,Tier 5
+269,University of California San Diego,Nisarg Shah,9.525,1.6,26.773257383823132,2,Tier 4
+270,University of Hong Kong,M Wang,7.1090909090909085,1.1,12.769099468380642,1,Tier 5
+271,Peking University,Zigang Ge,8.036842105263158,1.9,25.710492511063567,2,Tier 4
+272,Georgia Institute of Technology,Shella Keilholz,4.0375,6.4,36.62862728939756,3,Tier 3
+273,Johns Hopkins University,Randal Burns,18.5875,0.8,30.875657442900998,2,Tier 4
+274,McGill University,Walter Reisner,6.87,3.0,33.36700112939879,3,Tier 3
+275,Georgia Institute of Technology,Jennifer Curtis,5.869999999999999,1.0,9.136873803218046,1,Tier 5
+276,Duke University,Pranam Chatterjee,8.715384615384615,1.3,19.467112974646067,2,Tier 4
+277,Columbia University,Nadeen Chahine,4.022222222222222,2.7,15.379646045710347,1,Tier 5
+278,Harvard University,Patrick Slade,4.4,0.1,0.6372588061466729,0,Tier 6
+279,University of British Columbia,Alykarsan,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+280,Cornell University,Jan Lammerding,9.94090909090909,6.6,116.5001711307191,4,Tier 2
+281,Northwestern University,Shu Liu,4.7,0.7,4.844181005571512,0,Tier 6
+282,Carnegie Mellon University,Matthew A Smith,3.8055555555555554,3.6,19.134850954227325,2,Tier 4
+283,Shanghai Jiao Tong University,Ping Song,9.516363636363636,5.5,91.92877554120885,4,Tier 2
+284,Duke University,Junjie Yao,6.30138888888889,7.2,71.88327411325089,4,Tier 2
+285,University of Washington,Albert Folch,6.1913043478260885,4.6,44.92473492694431,3,Tier 3
+286,University of Pittsburgh,Sigal Ian,4.031999999999999,7.5,42.851094358402186,3,Tier 3
+287,University of Pittsburgh,Shiwarski Daniel,7.803448275862069,2.9,37.82301918060925,3,Tier 3
+288,Nanyang Technological University,Timothy Thatt Yang Tan,8.495652173913046,2.3,33.35982319393551,3,Tier 3
+289,University of Michigan,Paul Cederna,3.3469565217391306,11.5,52.060751007923656,3,Tier 3
+290,Tsinghua University,Gao Xiaorong,4.276056338028169,7.1,43.65787789290529,3,Tier 3
+291,Imperial College London,Amanda Foust,4.23,1.0,6.066322004300033,0,Tier 6
+292,University College London,Jack Jeffries,3.66,0.5,2.5311702715228077,0,Tier 6
+293,University of Pennsylvania,Yale E Cohen,4.247368421052631,1.9,11.585199535095606,1,Tier 5
+294,Shanghai Jiao Tong University,Wanlu Li,7.381818181818182,3.3,40.1530112039686,3,Tier 3
+295,Johns Hopkins University,Feilim Mac Gabhann,4.361290322580645,3.1,19.538015106103543,2,Tier 4
+296,University of California Los Angeles,Veronica Santos,7.0200000000000005,0.5,5.713357429285666,0,Tier 6
+297,University of Tokyo,Shinsuke Sando,8.905660377358492,5.3,81.5377139120898,4,Tier 2
+298,University of Michigan,David Kohn,4.342424242424243,3.3,20.686130161404403,2,Tier 4
+299,Johns Hopkins University,Amir Manbachi,3.090697674418605,4.3,17.621347359940692,2,Tier 4
+300,Cornell University,Ilana Lauren Brito,21.675,0.8,37.41440729447552,3,Tier 3
+301,Carnegie Mellon University,Tagbo H R Niepa,4.6,0.1,0.6736701270461648,0,Tier 6
+302,Cornell University,Karl Lewis,16.793333333333333,1.5,50.99321506478532,3,Tier 3
+303,University of Toronto,Marc Grynpas,4.903703703703704,5.4,39.40479169144967,3,Tier 3
+304,University of Pittsburgh,Cui Xinyan,7.595918367346939,4.9,61.79046179952294,4,Tier 2
+305,University of British Columbia,Jaykizhakkedathu,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+306,Shanghai Jiao Tong University,Zhijun Zhang,5.985561497326202,18.7,175.07443282265328,5,Tier 1
+307,University of Michigan,Tristan Maerz,5.267441860465116,4.3,34.31374693776324,3,Tier 3
+308,Columbia University,Jennifer Gelinas,10.05185185185185,2.7,48.32494440992098,3,Tier 3
+309,Imperial College London,Andriy Kozlov,6.55,0.2,2.095712098890535,0,Tier 6
+310,Stanford University,Karl Deisseroth,17.976165803108806,19.3,714.3789357811755,5,Tier 1
+311,Massachusetts Institute of Technology,John M Essigmann,7.709677419354839,3.1,39.82510712951133,3,Tier 3
+312,Harvard University,Shriya Srinivasan,11.270967741935484,3.1,64.01963626934798,4,Tier 2
+313,Georgia Institute of Technology,Peng Qiu,6.484745762711864,5.9,61.05457383772345,4,Tier 2
+314,Shanghai Jiao Tong University,Chongzhao Wu,2.2,0.2,0.5358686456775991,0,Tier 6
+315,Johns Hopkins University,Mark Zarella,4.033333333333334,0.3,1.7147523203927009,0,Tier 6
+316,University of Pittsburgh,Omar A Gharbawie,5.45,0.6,4.996281256810412,0,Tier 6
+317,University of Washington,Elizabeth Nance,7.774545454545456,5.5,71.40135413461178,4,Tier 2
+318,Johns Hopkins University,Brian Caffo,3.7408695652173916,11.5,59.82924845348019,4,Tier 2
+319,University of Tokyo,Hitoshi Tabata,5.105263157894737,1.9,14.580629268344548,1,Tier 5
+320,Northwestern University,Guillermo Ameer,7.277142857142858,7.0,83.66603073645702,4,Tier 2
+321,University of Washington,Karl Böhringer,5.875,1.6,14.634565114845518,1,Tier 5
+322,Rice University,Jerzy Szablowski,10.883333333333333,0.6,11.860518192300797,1,Tier 5
+323,Georgia Institute of Technology,Sung-jin Park,10.52,0.5,9.473046717954055,1,Tier 5
+324,University of Pennsylvania,Greg Bowman,0.7,0.1,0.06402838534600862,0,Tier 6
+325,University of Toronto,Karina Carneiro,9.059999999999999,1.0,15.718469151965381,1,Tier 5
+326,Nanyang Technological University,Tej S Choksi,6.583333333333333,0.6,6.327156211876312,0,Tier 6
+327,University of Toronto,Berj Bardakjian,4.4,1.8,11.47065851064011,1,Tier 5
+328,University of Pittsburgh,D'amore Antonio,5.411111111111111,4.5,37.13817672301497,3,Tier 3
+329,Johns Hopkins University,Amir Kashani,3.6176470588235294,1.7,8.48167572623487,1,Tier 5
+330,Georgia Institute of Technology,Deqiang Qiu,4.322222222222222,2.7,16.826648747212815,1,Tier 5
+331,University of California Los Angeles,Holden Wu,4.2406779661016945,5.9,35.90427228513115,3,Tier 3
+332,University of Sydney,Hamish Fernando,4.3875,0.8,5.079972939345805,0,Tier 6
+333,University of Pittsburgh,Koontz Alicia,2.2820512820512824,3.9,10.938842178727624,1,Tier 5
+334,University of Michigan,Steven Schwendeman,5.364406779661017,5.9,48.16750376848253,3,Tier 3
+335,Shanghai Jiao Tong University,Guang-zhong Yang,11.880000000000003,3.5,77.19489754837716,4,Tier 2
+336,University of Cambridge,David Cole,20.84,0.5,22.263433751814468,2,Tier 4
+337,University of Washington,Christopher Sims,6.326666666666667,6.0,60.20325074059849,4,Tier 2
+338,Georgia Institute of Technology,Baowei Fei,3.5379746835443044,7.9,38.332795518062845,3,Tier 3
+339,University of British Columbia,Danagrecov,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+340,Johns Hopkins University,Jerry Prince,4.621827411167513,19.7,133.50065027217136,5,Tier 1
+341,Carnegie Mellon University,Victoria Webster-wood,3.684615384615385,1.3,6.636415266223515,0,Tier 6
+342,University of Michigan,Matthew Willsey,6.575,1.6,16.84572392887449,1,Tier 5
+343,Imperial College London,Dario Farina,4.0847682119205295,15.1,87.68720341953738,4,Tier 2
+344,Columbia University,Elias Issa,12.133333333333333,0.3,6.79354436482524,0,Tier 6
+345,Columbia University,Grace Mcilvain,2.25,0.2,0.5511351921262151,0,Tier 6
+346,University of Michigan,Sunitha Nagrath,7.026315789473685,5.7,65.20553110171109,4,Tier 2
+347,Massachusetts Institute of Technology,David Gifford,11.044230769230772,5.2,104.6942148903366,4,Tier 2
+348,Cornell University,James Antaki,3.6812499999999995,3.2,16.3171429574358,1,Tier 5
+349,University of Pittsburgh,Balaban Carey,3.314285714285715,3.5,15.651482336948252,1,Tier 5
+350,Massachusetts Institute of Technology,Angela Koehler,10.716666666666667,2.4,46.53566183644117,3,Tier 3
+351,Georgia Institute of Technology,Jeffrey Markowitz,21.175,0.4,18.169344736029466,2,Tier 4
+352,Johns Hopkins University,Siamak Ardekani,3.0,0.1,0.3948222038857478,0,Tier 6
+353,University of California San Francisco,Nevan J Krogan,13.754545454545458,19.8,524.4728289073856,5,Tier 1
+354,Columbia University,Harris Wang,15.725806451612904,6.2,194.1591433822685,5,Tier 1
+355,Duke University,Amanda Randles,4.518918918918919,3.7,24.37782249039886,2,Tier 4
+356,University of Michigan,Scott Lempka,4.051063829787233,4.7,27.0121539097477,2,Tier 4
+357,University of California San Francisco,Nancy Sambol,3.6,0.3,1.4876452526366086,0,Tier 6
+358,Cornell University,Alex Kwan,4.415384615384616,1.3,8.320588177932907,1,Tier 5
+359,University of Toronto,Dawn Kilkenny,3.616666666666667,0.6,2.992518574301555,0,Tier 6
+360,University of Pittsburgh,Tai Changfeng,3.077049180327869,6.1,24.85981440514691,2,Tier 4
+361,Carnegie Mellon University,Pulkit Grover,4.320000000000001,1.5,9.342130778155928,1,Tier 5
+362,Johns Hopkins University,Jude Phillip,9.222727272727274,2.2,35.358748788617284,3,Tier 3
+363,Georgia Institute of Technology,Anant Paravastu,8.37241379310345,2.9,41.30107478552714,3,Tier 3
+364,University of Pittsburgh,Bryan N Brown,6.186842105263158,3.8,37.07830625429113,3,Tier 3
+365,McGill University,Sara Mahshid,7.778787878787878,3.3,42.8700362627116,3,Tier 3
+366,Stanford University,Manu Prakash,8.238636363636363,4.4,61.41463067609637,4,Tier 2
+367,Georgia Institute of Technology,Babak Mahmoudi,4.384615384615385,1.3,8.248172432173533,1,Tier 5
+368,University of California Los Angeles,William Speier,4.113461538461538,5.2,30.46229677070997,2,Tier 4
+369,University of Pittsburgh,Shemesh Or,30.1,0.2,14.100616957239282,1,Tier 5
+370,Carnegie Mellon University,Philip R Leduc,7.075000000000001,2.8,32.308447275459486,2,Tier 4
+371,Nanyang Technological University,Xu Rong,10.143333333333334,3.0,54.30591390583302,3,Tier 3
+372,Nanyang Technological University,Chen Peng,9.228155339805824,10.3,165.66503070491882,5,Tier 1
+373,University of Toronto,Molly Shoichet,6.832631578947367,9.5,104.94424080516883,4,Tier 2
+374,Shanghai Jiao Tong University,Yani Kang,4.0311111111111115,4.5,25.703571642582325,2,Tier 4
+375,Georgia Institute of Technology,Xiaofeng Yang,3.5534090909090916,8.8,42.932797054870576,3,Tier 3
+376,Nanyang Technological University,Liu W Paul,5.8,0.1,0.9000880419498671,0,Tier 6
+377,ETH Zurich,Aramesh Morteza,13.022222222222222,0.9,22.263779250794798,2,Tier 4
+378,University of British Columbia,Calvinroskelley,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+379,Georgia Institute of Technology,Young Jang,6.886842105263159,3.8,42.39442547696483,3,Tier 3
+380,University of California San Diego,Tzyy-ping Jung,4.063793103448275,5.8,33.46512717541884,3,Tier 3
+381,Columbia University,Milan Stojanovic,6.188461538461539,2.6,25.377668388444146,2,Tier 4
+382,Duke University,Michael Rubinstein,9.343243243243245,3.7,60.4399078351042,4,Tier 2
+383,University of Tokyo,Kanako Harada,2.3299999999999996,3.0,8.636070042454607,1,Tier 5
+384,University of Michigan,Mary-ann Mycek,4.310526315789474,1.9,11.800936595102723,1,Tier 5
+385,University of California San Francisco,Thomas Ferrin,8.62,2.0,29.540243980765403,2,Tier 4
+386,Northwestern University,Chamille Lescott,11.5,0.2,4.235476691632989,0,Tier 6
+387,Massachusetts Institute of Technology,Bryan Bryson,10.485714285714286,3.5,66.0412932508611,4,Tier 2
+388,Shanghai Jiao Tong University,Yao Guo,4.070833333333334,2.4,13.8776328728097,1,Tier 5
+389,University of Pittsburgh,Ambrosio Fabrisia,7.590243902439024,4.1,51.653948026096785,3,Tier 3
+390,Northwestern University,Mark Johnson,6.194117647058825,1.7,16.612050154167367,1,Tier 5
+391,University of Tokyo,Tsutomu Suzuki,12.585470085470083,11.7,277.34648356056476,5,Tier 1
+392,Northwestern University,Tai W Tai,3.8333333333333335,0.3,1.6091331680241456,0,Tier 6
+393,Georgia Institute of Technology,Chloe Arson,3.85,0.6,3.2357664093977347,0,Tier 6
+394,University of Pittsburgh,Shroff S Govinddas,8.52962962962963,2.7,39.357407318373106,3,Tier 3
+395,University of Pittsburgh,Zhan Liang,4.019512195121951,4.1,23.334609906752558,2,Tier 4
+396,Imperial College London,Simon R Schultz,5.411428571428571,3.5,28.887366885928873,2,Tier 4
+397,University of Michigan,Jiahe Li,5.78,0.5,4.481050129188889,0,Tier 6
+398,National University of Singapore,Yu Haoyong,2.913333333333334,1.5,5.709248959933282,0,Tier 6
+399,Johns Hopkins University,Kostas Konstantopoulos,2.025,0.4,0.9662539354519666,0,Tier 6
+400,Columbia University,Ke Cheng,13.269230769230772,1.3,32.92308598053199,2,Tier 4
+401,University of California San Francisco,Noah Zaitlen,11.238028169014084,7.1,146.09016990189178,5,Tier 1
+402,Tsinghua University,Chen Huijun,4.138888888888889,7.2,42.50472453935005,3,Tier 3
+403,University of British Columbia,Edwardconway,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+404,University of Pennsylvania,Hyun Koo,9.383544303797468,7.9,129.74353522737874,5,Tier 1
+405,Imperial College London,Anil A Bharath,4.54,1.5,9.940565129976525,1,Tier 5
+406,University of Cambridge,Mate Lengyel,11.74230769230769,2.6,56.51518692558915,4,Tier 2
+407,University of Toronto,Alison McGuigan,8.865217391304348,4.6,70.36708636096213,4,Tier 2
+408,University of Cambridge,Timothy O'leary,7.427272727272728,2.2,26.97487215376209,2,Tier 4
+409,University of Pittsburgh,Rossi Ethan,3.4416666666666664,2.4,11.250511002661193,1,Tier 5
+410,Columbia University,Gerard A Ateshian,4.454666666666666,7.5,48.53782133229644,3,Tier 3
+411,University of British Columbia,Tim Lee,4.695454545454545,2.2,15.20616615713015,1,Tier 5
+412,Shanghai Jiao Tong University,Qiu Huang,4.697297297297298,3.7,25.586553123849587,2,Tier 4
+413,ETH Zurich,Stampanoni Marco,5.141666666666667,7.2,55.74583100842881,3,Tier 3
+414,Shanghai Jiao Tong University,Yazhu Chen,3.0100000000000002,1.0,3.9646798128677228,0,Tier 6
+415,University of Toronto,Radhakrishnan Mahadevan,6.122784810126582,7.9,76.08750379336738,4,Tier 2
+416,Johns Hopkins University,Youseph Yazdi,3.51875,1.6,7.710907580573404,1,Tier 5
+417,Stanford University,Michael C Jewett,9.599999999999998,3.4,57.453694177872705,4,Tier 2
+418,Tsinghua University,Wang Guangzhi,3.7564102564102577,3.9,20.39533668905634,2,Tier 4
+419,Johns Hopkins University,Carey Priebe,9.43,2.0,33.04985904432964,3,Tier 3
+420,University of Cambridge,Keith Seffen,11.6,0.5,10.703911036156496,1,Tier 5
+421,University of California San Diego,Dan Kaufman,9.825000000000001,2.8,48.70502046352672,3,Tier 3
+422,University of Pittsburgh,Mahboobin Arash,1.4,0.2,0.3045720456624376,0,Tier 6
+423,Georgia Institute of Technology,Brooks Lindsey,3.86,1.5,8.11568888308436,1,Tier 5
+424,University of Pittsburgh,Roy Partha,4.015384615384615,2.6,14.77856568968406,1,Tier 5
+425,University of California Berkeley,Dorian Liepmann,4.5666666666666655,1.2,8.01088295828995,1,Tier 5
+426,Carnegie Mellon University,Christopher J Bettinger,6.406060606060606,3.3,33.632003825302725,3,Tier 3
+427,University of Cambridge,Graham Mcshane,4.7,0.1,0.6920258579387875,0,Tier 6
+428,Carnegie Mellon University,O Burak Ozdoganlar,5.536363636363635,1.1,9.341646833498556,1,Tier 5
+429,Georgia Institute of Technology,Todd Sulchek,5.884745762711865,5.9,54.076881987299274,3,Tier 3
+430,University of California San Francisco,Catera Wilder,8.5,0.1,1.4513550123980228,0,Tier 6
+431,University of California San Diego,Julian Schroeder,11.11025641025641,7.8,158.21574668785797,5,Tier 1
+432,University of Pennsylvania,Beth A Winkelstein,4.4135593220338984,5.9,37.74315685685363,3,Tier 3
+433,University of Pittsburgh,Storkus Walter,7.135185185185185,5.4,62.9724110040087,4,Tier 2
+434,Massachusetts Institute of Technology,Forest White,9.962499999999999,7.2,127.43622981545394,5,Tier 1
+435,University College London,Stefanie Frank,6.1000000000000005,1.4,13.421168517544727,1,Tier 5
+436,University of British Columbia,Govindkaigala,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+437,Georgia Institute of Technology,Joe Brown,7.436231884057969,6.9,84.73059294949189,4,Tier 2
+438,University of California San Francisco,Frances M Brodsky,6.116666666666666,0.6,5.771580636797174,0,Tier 6
+439,Johns Hopkins University,Kathleen Cullen,7.6446808510638276,4.7,59.74437978595691,4,Tier 2
+440,Georgia Institute of Technology,Yuhong Fan,7.550000000000001,1.2,15.018098055732015,1,Tier 5
+441,University of Tokyo,Madoka Takai,6.042105263157894,5.7,53.995829156532416,3,Tier 3
+442,University of Pittsburgh,Kameneva Marina,3.3052631578947373,1.9,8.46761599154975,1,Tier 5
+443,University of California Los Angeles,Chang-jin “ Kim,5.083333333333333,1.2,9.159399087891625,1,Tier 5
+444,Shanghai Jiao Tong University,Xuemin Xu,4.0,0.1,0.5656854249492381,0,Tier 6
+445,University of Toronto,Leo Chou,14.330000000000002,1.0,27.88096094000882,2,Tier 4
+446,Georgia Institute of Technology,Machelle Pardue,4.659420289855071,6.9,47.23500317573358,3,Tier 3
+447,University of Pennsylvania,Dongeun Huh,13.282608695652174,2.3,58.321953087144934,4,Tier 2
+448,Georgia Institute of Technology,David Ku,4.9452380952380945,4.2,30.973001821437524,2,Tier 4
+449,McGill University,Ioannis Ragoussis,6.500000000000001,0.4,4.151467927847164,0,Tier 6
+450,Shanghai Jiao Tong University,Tsung-yuan Tsai,3.1721518987341764,7.9,33.44410363237593,3,Tier 3
+451,National University of Singapore,Poh Chueh Loo,6.911428571428571,3.5,39.22182741553646,3,Tier 3
+452,University of California Los Angeles,Corey Arnold,4.4984126984127,6.3,41.27287004507075,3,Tier 3
+453,Rice University,George Lu,12.4,0.2,4.653793429578662,0,Tier 6
+454,Carnegie Mellon University,Newell R Washburn,6.342857142857144,1.4,14.092375227335868,1,Tier 5
+455,Peking University,Liangyi Chen,10.201219512195122,8.2,149.4957920666867,5,Tier 1
+456,Peking University,Zhixing Chen,12.021052631578947,1.9,42.52866246002323,3,Tier 3
+457,University of California San Diego,Robert Sah,6.165384615384615,5.2,50.51886230734231,3,Tier 3
+458,University of California Los Angeles,Thomas Graeber,17.11807228915663,8.3,288.9992145689345,5,Tier 1
+459,University of Pittsburgh,Friberg Thomas,4.2333333333333325,0.9,5.465068278547394,0,Tier 6
+460,Northwestern University,Igor Efimov,10.116666666666667,3.6,64.95301299595705,4,Tier 2
+461,Stanford University,Wah Chiu,12.155855855855858,11.1,251.94451374699517,5,Tier 1
+462,University of California San Diego,Brian Aguado,10.4,0.7,13.073435065772511,1,Tier 5
+463,Carnegie Mellon University,Marc Dandin,10.7,0.1,1.9352172301823474,0,Tier 6
+464,University of California San Diego,Gabriel Silva,3.8909090909090907,1.1,6.011135807961126,0,Tier 6
+465,University of Pittsburgh,Menegazzi James,5.8,3.7,33.303257552145084,3,Tier 3
+466,Shanghai Jiao Tong University,Jianlong Yang,3.608333333333334,1.2,5.967804106110006,0,Tier 6
+467,University of Pittsburgh,Zhou Leming,4.5233333333333325,3.0,19.789940838417174,2,Tier 4
+468,Northwestern University,Vadim Backman,5.944086021505376,9.3,86.31560239586406,4,Tier 2
+469,National University of Singapore,Pakorn Kanchanawong,11.139999999999999,3.5,71.23190070025433,4,Tier 2
+470,University of California Los Angeles,Xinshu Xiao,10.722222222222221,5.4,104.77309295728797,4,Tier 2
+471,University of California Berkeley,Sanjay Kumar,9.019736842105264,7.6,118.79712373936312,4,Tier 2
+472,Johns Hopkins University,Nicholas Theodore,3.0854166666666663,14.4,58.88501208589845,4,Tier 2
+473,University College London,Qasim Rafiq,4.683333333333334,2.4,16.53503348026229,1,Tier 5
+474,University of California San Diego,Andrew Bartko,33.1,0.1,7.939350810262862,1,Tier 5
+475,Peking University,Aibin He,15.907499999999999,4.0,127.07566942561196,5,Tier 1
+476,Massachusetts Institute of Technology,Anders S Hansen,14.450000000000001,2.4,67.61546679032574,4,Tier 2
+477,Carnegie Mellon University,Conrad Tucker,11.525,0.4,8.49397853006743,1,Tier 5
+478,Johns Hopkins University,Kishore Kuchibhotla,8.936363636363636,1.1,16.99588273642091,1,Tier 5
+479,Shanghai Jiao Tong University,Yan Zhang,7.758333333333333,19.2,248.6060952683909,5,Tier 1
+480,University of California San Diego,Jeffrey Omens,6.248571428571428,3.5,34.577530072765974,3,Tier 3
+481,University of Washington,Colin Studholme,9.517391304347823,2.3,38.448131864969355,3,Tier 3
+482,University of British Columbia,David Liu,7.265,6.0,71.56419224107749,4,Tier 2
+483,Georgia Institute of Technology,Johnna Temenoff,5.516666666666667,3.0,25.363967262047552,2,Tier 4
+484,Georgia Institute of Technology,Stephen Balakirsky,1.8,0.1,0.20849259335188847,0,Tier 6
+485,University of Michigan,Lonnie Shea,8.743801652892563,12.1,181.9326904773015,5,Tier 1
+486,University of California San Francisco,Willow Coyote-maestas,7.1625,0.8,9.373910026308325,1,Tier 5
+487,Johns Hopkins University,Michael Beer,11.93030303030303,3.3,73.1691960988341,4,Tier 2
+488,University of British Columbia,Francislynn,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+489,University of California San Diego,Stephanie Fraley,6.21851851851852,2.7,26.513827665726783,2,Tier 4
+490,University of Toronto,Elaine Biddiss,3.1192307692307697,2.6,10.777864784274254,1,Tier 5
+491,University of Pittsburgh,Woo Savio L Y,3.3857142857142857,0.7,3.214851541893672,0,Tier 6
+492,Northwestern University,Mitra Hartmann,4.6482758620689655,2.9,19.793056563892666,2,Tier 4
+493,University of California Los Angeles,Amy Rowat,7.3583333333333325,3.6,43.629157102891995,3,Tier 3
+494,University of Pittsburgh,Billaud Marie,4.738461538461538,1.3,9.08845480976275,1,Tier 5
+495,University of Pennsylvania,Dennis E Discher,8.502597402597402,7.7,111.79702449716868,4,Tier 2
+496,Carnegie Mellon University,Xi Ren,7.346666666666667,3.0,36.28558874554759,3,Tier 3
+497,Georgia Institute of Technology,Andreas Bommarius,7.305555555555555,3.6,43.23834479769763,3,Tier 3
+498,Harvard University,David Mooney,12.14615384615385,19.5,442.1636977087964,5,Tier 1
+499,University of Toronto,Piero Triverio,2.4,0.5,1.4935991454923478,0,Tier 6
+500,Columbia University,Michael Lipton,2.5444444444444443,0.9,2.892235986924435,0,Tier 6
+501,University of California San Diego,Geoffrey Chang,6.59375,1.6,16.90579423975343,1,Tier 5
+502,University of California San Diego,Adam Engler,11.429113924050633,7.9,166.01326595100673,5,Tier 1
+503,Georgia Institute of Technology,Edward Botchwey,7.019444444444444,3.6,41.13210418821469,3,Tier 3
+504,Johns Hopkins University,Ji Yi,3.5571428571428574,0.7,3.4195950036620366,0,Tier 6
+505,Tsinghua University,Song Sen,10.339285714285717,2.8,51.912411321668614,3,Tier 3
+506,Shanghai Jiao Tong University,Chenxi Hu,4.3,1.5,9.28809884422973,1,Tier 5
+507,McGill University,Maryam Tabrizian,6.529411764705882,6.8,70.97435990726689,4,Tier 2
+508,Georgia Institute of Technology,Saurabh Sinha,4.5470588235294125,1.7,11.287873585640785,1,Tier 5
+509,University of British Columbia,Michael Lee,5.618367346938776,4.9,42.38466395625204,3,Tier 3
+510,University of Toronto,Bowen Li,15.569999999999999,1.0,30.92863588131187,2,Tier 4
+511,Cornell University,Jonathan T Butcher,8.320370370370371,5.4,76.3083535652958,4,Tier 2
+512,Imperial College London,Etienne Burdet,3.682758620689655,5.8,29.589972535012112,2,Tier 4
+513,University of California Berkeley,Irina Conboy,10.297058823529412,3.4,62.714853079375374,4,Tier 2
+514,University of Pittsburgh,Wang James,4.611627906976745,4.3,29.05937563364917,2,Tier 4
+515,University of California Berkeley,Amy E. Herr,9.824193548387099,6.2,107.83576584082762,4,Tier 2
+516,Georgia Institute of Technology,Leslie Chan,4.7,0.1,0.6920258579387875,0,Tier 6
+517,University of Pittsburgh,Syed-picard Fatima,4.7700000000000005,1.0,7.04933214495836,0,Tier 6
+518,University College London,Chris Mason,6.763999999999999,2.5,27.270588324201466,2,Tier 4
+519,Stanford University,Annelise E Barron,4.934285714285715,3.5,25.739399516135435,2,Tier 4
+520,University of Tokyo,Akira Hirose,5.528571428571428,0.7,5.934227560909611,0,Tier 6
+521,University of California Los Angeles,Shantanu Joshi,4.551807228915662,8.3,55.18333187461274,3,Tier 3
+522,University of Toronto,Warren Chan,12.9,8.1,198.0259734017222,5,Tier 1
+523,University of Cambridge,Abir Al-tabbaa,6.113888888888887,3.6,34.609826964629356,3,Tier 3
+524,University of Oxford,Thompson Mark,7.886206896551724,2.9,38.32509201986795,3,Tier 3
+525,Northwestern University,Molly Bright,3.6052631578947376,1.9,9.43897452848474,1,Tier 5
+526,University of Pittsburgh,St H Cynthia,3.6000000000000005,0.5,2.4794087543943477,0,Tier 6
+527,University of Pittsburgh,Vodovotz Yoram,4.941935483870969,12.4,91.36776983418955,4,Tier 2
+528,University of California San Diego,Kevin King,10.429166666666667,2.4,44.980393618776716,3,Tier 3
+529,Johns Hopkins University,Andrew Ewald,9.975384615384616,6.5,115.23261527051704,4,Tier 2
+530,Cornell University,Nate Cira,8.1,0.1,1.3664894202125482,0,Tier 6
+531,University of California San Diego,Ludmil Alexandrov,17.04705882352941,8.5,294.4291128682205,5,Tier 1
+532,University of Pittsburgh,Rajkumar Kubendran,50.5,0.1,13.462143717970447,1,Tier 5
+533,University of Toronto,Masoom Haider,6.653781512605042,11.9,127.16940268842151,5,Tier 1
+534,University of California San Francisco,Sourav Bandyopadhyay,12.492857142857142,2.8,65.76354994850942,4,Tier 2
+535,University of California San Diego,Elliot Mcveigh,4.6971428571428575,3.5,24.202501483591778,2,Tier 4
+536,Georgia Institute of Technology,Minsu Kim,4.5249999999999995,0.4,2.639874134156266,0,Tier 6
+537,University of British Columbia,Rogertam,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+538,University of British Columbia,Antonyhodgson,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+539,University of Tokyo,Hiroaki Matsui,4.445454545454546,2.2,14.20096634799357,1,Tier 5
+540,Rice University,Gang Bao,12.01645569620253,7.9,176.74517969063095,5,Tier 1
+541,Johns Hopkins University,Kevin Yarema,6.472727272727273,3.3,34.070073891914106,3,Tier 3
+542,Johns Hopkins University,Hanzhang Lu,4.148571428571429,17.5,103.61228791977224,4,Tier 2
+543,University of California San Diego,Erika Cyphert,1.9333333333333336,0.3,0.6839190145017767,0,Tier 6
+544,Johns Hopkins University,Jonathan Schneck,8.119047619047619,4.2,57.561307606543245,4,Tier 2
+545,University of Toronto,Anton Zilman,7.731034482758622,2.9,37.384795630036464,3,Tier 3
+546,Georgia Institute of Technology,David Anderson,4.510526315789474,1.9,12.48928646770047,1,Tier 5
+547,University of Tokyo,Hirohide Saito,13.353846153846156,1.3,33.1857252271235,3,Tier 3
+548,University of Oxford,Kamnitsas Konstantinos,22.050000000000004,0.4,19.112642374067352,2,Tier 4
+549,Johns Hopkins University,Casey Overby Taylor,3.6500000000000004,2.6,13.117148297540295,1,Tier 5
+550,University of California Los Angeles,Pirouz Kavehpour,3.5444444444444447,0.9,4.37701189101923,0,Tier 6
+551,National University of Singapore,Cheow Lih Feng,11.629166666666668,2.4,51.54030511113664,3,Tier 3
+552,University of Washington,Rong Tian,7.66,19.0,242.12496056508155,5,Tier 1
+553,University of California Berkeley,Adam Arkin,7.773076923076922,15.6,202.47238811071867,5,Tier 1
+554,University of Hong Kong,Sloan Kulper,6.0,0.1,0.9390507480439724,0,Tier 6
+555,Imperial College London,Pete Lally,4.55,0.4,2.65811788235794,0,Tier 6
+556,University of California San Diego,Lingyan Shi,8.807142857142859,2.8,42.48169460098475,3,Tier 3
+557,University of California San Francisco,Brian Shoichet,11.964864864864866,11.1,247.00612704873166,5,Tier 1
+558,Imperial College London,Holger G Krapp,5.154545454545455,1.1,8.543398267318587,1,Tier 5
+559,Peking University,Qiushi Ren,3.9075757575757573,6.6,36.26003289805178,3,Tier 3
+560,University of California Los Angeles,Hong Z Zhou,9.428,2.5,41.30137172998502,3,Tier 3
+561,Massachusetts Institute of Technology,Angela Belcher,11.011764705882353,3.4,68.20246491235619,4,Tier 2
+562,University of Michigan,Luis Hernandez-garcia,3.4749999999999996,2.4,11.38688023553866,1,Tier 5
+563,Shanghai Jiao Tong University,Peng Miao,5.073333333333333,3.0,22.842203791442227,2,Tier 4
+564,University of Michigan,Thomas Wang,9.57123287671233,7.3,122.89457557117233,5,Tier 1
+565,Rice University,Michael R King,3.266666666666667,0.3,1.317505026932427,0,Tier 6
+566,Duke University,Brian C Mac Grory,4.3,0.3,1.8576197688459457,0,Tier 6
+567,Peking University,Bei Liu,6.320138888888888,14.4,144.3014748706029,5,Tier 1
+568,University of California San Diego,Xiaohua Huang,8.75,0.4,6.019633599438188,0,Tier 6
+569,Johns Hopkins University,Hien Nguyen,3.420833333333334,2.4,11.165447554643533,1,Tier 5
+570,University College London,Gary Lye,4.134782608695652,2.3,13.561061551579995,1,Tier 5
+571,University of Pittsburgh,Beniash Elia,5.325714285714286,3.5,28.316552267511558,2,Tier 4
+572,Georgia Institute of Technology,Felipe Quiroz,35.166666666666664,0.3,25.69125151529558,2,Tier 4
+573,Georgia Institute of Technology,Karl Jacob,6.871428571428572,1.4,15.575314727488289,1,Tier 5
+574,National University of Singapore,Martin Lindsay Buist,3.8999999999999995,0.7,3.836443430630617,0,Tier 6
+575,Shanghai Jiao Tong University,Hanyu Rao,7.021428571428571,1.4,16.00147024840696,1,Tier 5
+576,University of Pittsburgh,Corcoran Timothy,4.296969696969697,3.3,20.41581885166682,2,Tier 4
+577,Johns Hopkins University,Kwame Kutten,3.0599999999999996,1.0,4.047173130565584,0,Tier 6
+578,University of California San Diego,Karsten Zengler,9.16543209876543,8.1,129.1743245462832,5,Tier 1
+579,University of Cambridge,James Ward,4.344444444444444,2.7,16.93485857317814,1,Tier 5
+580,McGill University,Caroline E Wagner,10.57142857142857,1.4,26.686716088043056,2,Tier 4
+581,Georgia Institute of Technology,Shawn Hochman,2.3000000000000003,0.4,1.1329735897932691,0,Tier 6
+582,University of Washington,Daniel Chiu,7.787878787878789,9.9,128.79801620627805,5,Tier 1
+583,University of Toronto,Robert Weersink,4.063414634146342,4.1,23.65362907665468,2,Tier 4
+584,University of British Columbia,Pamelahoodless,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+585,University of British Columbia,Brian Kwon,3.3319587628865976,19.4,87.33257232758378,4,Tier 2
+586,Cornell University,Iwijn De Vlaminck,11.562068965517241,5.8,123.65806260663872,5,Tier 1
+587,Carnegie Mellon University,Kai Yu,8.9875,0.8,12.449118939498051,1,Tier 5
+588,Johns Hopkins University,Jeffrey Siewerdsen,3.3480769230769223,10.4,47.10072842436418,3,Tier 3
+589,Northwestern University,Nathan Gianneschi,10.823728813559322,11.8,231.66111137671788,5,Tier 1
+590,University of Michigan,Karl Grosh,4.876470588235295,1.7,12.319155376691027,1,Tier 5
+591,Georgia Institute of Technology,Wilbur Lam,8.068794326241134,14.1,191.7475923246748,5,Tier 1
+592,Georgia Institute of Technology,Vince Calhoun,4.7784615384615385,19.5,137.76685041222825,5,Tier 1
+593,University of Oxford,Villarroel Mauricio,4.499999999999999,1.4,9.17579448526841,1,Tier 5
+594,Duke University,Ashutosh Chilkoti,10.054411764705883,13.6,243.49202548096937,5,Tier 1
+595,Shanghai Jiao Tong University,Hongjiang Wei,4.575,6.4,42.82218732773228,3,Tier 3
+596,Duke University,Michael R Tadross,6.314285714285714,0.7,7.006535498301863,0,Tier 6
+597,Shanghai Jiao Tong University,Bin Ma,7.112345679012346,8.1,94.08081898035576,4,Tier 2
+598,Rice University,Robert Raphael,4.33,1.0,6.246113482463226,0,Tier 6
+599,Massachusetts Institute of Technology,Amy E Keating,6.216216216216216,3.7,36.31694965727286,3,Tier 3
+600,University of Oxford,Proctor Christopher,9.475,0.4,6.649423816884689,0,Tier 6
+601,Nanyang Technological University,Raymond Lau,5.590000000000001,1.0,8.595373633836223,1,Tier 5
+602,University of Pennsylvania,Zhiliang Cheng,8.579411764705881,3.4,49.9230151533647,3,Tier 3
+603,Shanghai Jiao Tong University,Shiyi Zhang,6.420833333333333,2.4,24.53016604550953,2,Tier 4
+604,Tsinghua University,Liu Peng,6.6464912280701745,11.4,121.65932322998353,5,Tier 1
+605,Georgia Institute of Technology,Greg Gibson,9.818018018018016,11.1,192.90911993970442,5,Tier 1
+606,University of Michigan,David Sept,11.846153846153847,2.6,57.14063450979174,4,Tier 2
+607,University College London,Marco Marques,4.80625,1.6,11.386176957538733,1,Tier 5
+608,Columbia University,Yvon Woappi,4.0,0.1,0.5656854249492381,0,Tier 6
+609,Johns Hopkins University,Florin Selaru,6.791304347826086,4.6,50.43120247996241,3,Tier 3
+610,University of Pittsburgh,Lathrop Kira,6.86388888888889,3.6,39.995884592569595,3,Tier 3
+611,University of Pennsylvania,Daniel A Hammer,5.894827586206898,5.8,53.274192740229374,3,Tier 3
+612,University of Pittsburgh,Miskov-zivanov Natasa,5.733333333333334,0.6,5.323046262300939,0,Tier 6
+613,Stanford University,David Camarillo,4.254716981132075,5.3,32.386514832839,2,Tier 4
+614,University of California San Francisco,James Fraser,10.624271844660196,10.3,197.5655386340324,5,Tier 1
+615,University of Sydney,Mike Wu,9.633333333333333,0.6,10.18291187779221,1,Tier 5
+616,Columbia University,Alice Huang,5.8428571428571425,1.4,12.717730588147468,1,Tier 5
+617,University of California San Francisco,David Agard,11.15529411764706,8.5,173.28868548184764,5,Tier 1
+618,University of British Columbia,Timmurphy,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+619,University College London,Stephen Goldrick,3.746666666666667,1.5,7.81893458427232,1,Tier 5
+620,Shanghai Jiao Tong University,Chunfu Zhang,10.10357142857143,2.8,50.437282176865665,3,Tier 3
+621,McGill University,Luc Mongeau,5.082978723404256,4.7,35.87118491144942,3,Tier 3
+622,University of Pennsylvania,Kevin B Johnson,3.9444444444444446,0.9,5.002934464969254,0,Tier 6
+623,Johns Hopkins University,Pablo Iglesias,8.256521739130434,4.6,64.3804847823078,4,Tier 2
+624,University of Toronto,Ofer Levi,2.9,0.4,1.5137616157767564,0,Tier 6
+625,Nanyang Technological University,Park Seung-min,5.8,0.1,0.9000880419498671,0,Tier 6
+626,Shanghai Jiao Tong University,Lichi Zhang,4.648648648648648,3.7,25.255741723514358,2,Tier 4
+627,Georgia Institute of Technology,Amanda Stockton,4.21875,1.6,9.673858271069214,1,Tier 5
+628,University of Pennsylvania,Aaron Timperman,5.675,0.4,3.503622636932165,0,Tier 6
+629,Carnegie Mellon University,Cameron N Riviere,2.9699999999999998,3.0,11.696793327741055,1,Tier 5
+630,University of Tokyo,Toshihiro Kasama,4.288888888888889,0.9,5.554864932754691,0,Tier 6
+631,Georgia Institute of Technology,Luke Brewster,5.777272727272727,2.2,19.704992231574625,2,Tier 4
+632,University of Michigan,Jan Stegemann,6.21860465116279,4.3,42.22645662816137,3,Tier 3
+633,University of Toronto,Steven Prescott,8.247222222222222,3.6,50.313800314450134,3,Tier 3
+634,Cornell University,Marjolein Van Der Meulen,5.250000000000001,4.4,34.96647120160531,3,Tier 3
+635,University of California Los Angeles,Daniel Aharoni,16.15,1.4,45.32561379830337,3,Tier 3
+636,University of California San Diego,Samuel Pfaff,16.531578947368423,1.9,63.33540037090287,4,Tier 2
+637,University of Michigan,Lisa M Larkin,3.726666666666667,3.0,15.533593674619286,1,Tier 5
+638,Peking University,Xiaojie Duan,7.455555555555555,3.6,44.3509078541576,3,Tier 3
+639,Johns Hopkins University,Steven Keller,4.856,2.5,18.0213929438005,2,Tier 4
+640,University of Pennsylvania,Alex J Hughes,9.293333333333333,1.5,24.339163742570193,2,Tier 4
+641,University College London,Eli Keshavarz-moore,3.307142857142857,1.4,6.243731659340036,0,Tier 6
+642,Shanghai Jiao Tong University,Cheng-kung Cheng,3.560526315789474,3.8,18.585589754079543,2,Tier 4
+643,Johns Hopkins University,Muyinatu Bell,3.83125,1.6,8.576213766284372,1,Tier 5
+644,Georgia Institute of Technology,Eric Vogel,8.453846153846154,1.3,18.739641462108878,2,Tier 4
+645,Nanyang Technological University,Tram T Dang,6.725,0.4,4.33186937417858,0,Tier 6
+646,University of British Columbia,Ilkerhacihaliloglu,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+647,University of Washington,Herbert Sauro,5.734722222222222,7.2,63.895898197901026,4,Tier 2
+648,Shanghai Jiao Tong University,Lina Zhang,5.522834645669293,12.7,107.52421279666913,4,Tier 2
+649,University of Pittsburgh,Xia Zongqi,6.759183673469387,4.9,53.40278299488174,3,Tier 3
+650,University of Michigan,Muneesh Tewari,7.833333333333333,6.3,82.56078409806534,4,Tier 2
+651,University of British Columbia,Peterlansdorp,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+652,University of California Los Angeles,Vivek Shetty,3.3260869565217397,2.3,10.331058837247456,1,Tier 5
+653,Carnegie Mellon University,Michael M Domach,3.9,0.1,0.5480633472329454,0,Tier 6
+654,Johns Hopkins University,William Anderson,5.02842105263158,9.5,71.53410540193306,4,Tier 2
+655,University of Pittsburgh,Lin Hang,5.748648648648649,7.4,65.87019164970128,4,Tier 2
+656,University of California Los Angeles,Robert Candler,7.65,0.4,5.089050790087707,0,Tier 6
+657,University of British Columbia,Shuotang,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+658,University of Pittsburgh,Gladwin Mark,9.640251572327044,15.9,270.0894270541387,5,Tier 1
+659,McGill University,Georgios Mitsis,5.435897435897435,3.9,32.37081802857297,2,Tier 4
+660,Duke University,Matthew L Becker,10.410526315789474,3.8,71.0598775045449,4,Tier 2
+661,National University of Singapore,Lim Chwee Teck,7.643589743589744,19.5,247.83139566356905,5,Tier 1
+662,Shanghai Jiao Tong University,Hongchen Gu,7.142424242424243,6.6,77.06390090898111,4,Tier 2
+663,University of Pittsburgh,Parthasarathy Aravindakshan,2.25,0.4,1.1022703842524302,0,Tier 6
+664,University of British Columbia,Karen Cheung,3.8210526315789473,1.9,10.15038173868047,1,Tier 5
+665,University of Toronto,Hai-Ling Margaret Cheng,4.186111111111113,3.6,21.55588908089625,2,Tier 4
+666,Shanghai Jiao Tong University,Weihai Yin,3.8,0.1,0.5305538810319672,0,Tier 6
+667,University of California San Diego,Alan Hargens,4.788372093023256,4.3,30.458135848929704,2,Tier 4
+668,Nanyang Technological University,Pu Kanyi,13.270588235294117,18.7,473.6464907394903,5,Tier 1
+669,Columbia University,Chi-min Ho,15.350000000000001,0.4,12.15333491429914,1,Tier 5
+670,University of Sydney,Jia Liu,4.662162162162162,3.7,25.347547364118338,2,Tier 4
+671,University of Oxford,Zhu Tingting,7.476923076923077,5.2,64.29200716126498,4,Tier 2
+672,Shanghai Jiao Tong University,Yaohui Tang,6.594202898550723,6.9,72.912497263271,4,Tier 2
+673,University of Sydney,Thomas Close,7.633333333333333,0.3,3.8063966217172536,0,Tier 6
+674,Imperial College London,Reiko Tanaka,5.8100000000000005,3.0,27.06084914273464,2,Tier 4
+675,Duke University,Eva A Naumann,4.8,0.1,0.7104794923125939,0,Tier 6
+676,Duke University,Brian T Crouch,3.6785714285714275,1.4,7.132257713687481,0,Tier 6
+677,University of California San Diego,Nathan Lewis,10.2431654676259,13.9,254.71676810881232,5,Tier 1
+678,University of California Los Angeles,Daniel Kamei,4.876666666666666,3.0,21.74077863052033,2,Tier 4
+679,University of Toronto,Andreas Mandelis,2.7181818181818183,8.8,30.71360545904386,2,Tier 4
+680,Johns Hopkins University,Joseph Greenstein,4.770967741935484,3.1,21.85847171769462,2,Tier 4
+681,Georgia Institute of Technology,Shuming Nie,6.4159999999999995,2.5,25.528215230116935,2,Tier 4
+682,University of Washington,Andre Berndt,12.08095238095238,2.1,47.29832491594813,3,Tier 3
+683,University of Washington,Princess Imoukhuede,3.9928571428571424,1.4,7.901922227430989,1,Tier 5
+684,University of Michigan,Susan Brooks,5.898148148148148,5.4,49.63503767737066,3,Tier 3
+685,University of California Berkeley,James Casey,4.133333333333333,0.6,3.5361183214447776,0,Tier 6
+686,Rice University,Buhle Moyo,79.8,0.1,23.850836439922183,2,Tier 4
+687,University of California Los Angeles,Peyman Golshani,13.18392857142857,5.6,140.68379620223106,5,Tier 1
+688,University of California Los Angeles,Kim-lien Nguyen,3.9462686567164176,6.7,37.26559955382348,3,Tier 3
+689,University of Pittsburgh,Cooper Rory,2.3971962616822426,10.7,31.91635355808598,2,Tier 4
+690,Massachusetts Institute of Technology,Mark Bathe,12.16,6.5,147.59794991042074,5,Tier 1
+691,University of California Los Angeles,Aaron Meyer,7.2281249999999995,3.2,37.92556385861065,3,Tier 3
+692,University of Toronto,Cari Whyne,3.1720430107526876,9.3,39.36921749700955,3,Tier 3
+693,Shanghai Jiao Tong University,Guan N Lin,7.170731707317073,4.1,48.110314822856786,3,Tier 3
+694,Massachusetts Institute of Technology,Michael Birnbaum,8.78823529411765,3.4,51.446521076093184,3,Tier 3
+695,Stanford University,Alison Marsden,4.7603448275862075,11.6,81.5654066197622,4,Tier 2
+696,University of California San Francisco,Chao Tang,7.966666666666666,0.3,4.015291343434786,0,Tier 6
+697,University of Pittsburgh,Kalra Arush,3.2,0.1,0.42799379518491015,0,Tier 6
+698,University of Pennsylvania,Peter F Davies,9.72,1.0,17.162590137623976,2,Tier 4
+699,Harvard University,Francis J Doyle 3rd,6.892405063291138,7.9,88.22477964017516,4,Tier 2
+700,Harvard University,Don Ingber,16.005357142857143,5.6,179.2750031386882,5,Tier 1
+701,University of California Los Angeles,Melissa Spencer,8.664705882352942,3.4,50.544185083765576,3,Tier 3
+702,Peking University,Rui-ping Xiao,12.89795918367347,4.9,119.7698009666733,5,Tier 1
+703,University of California Los Angeles,Robert Damoiseaux,7.416304347826087,9.2,112.59581719204182,4,Tier 2
+704,University of Toronto,Douglas Cheyne,3.008,2.5,9.903467907447943,1,Tier 5
+705,Georgia Institute of Technology,Lena Ting,3.6929577464788723,7.1,36.347644521007076,3,Tier 3
+706,Duke University,Charles Gersbach,13.864583333333334,9.6,256.83532791923,5,Tier 1
+707,Johns Hopkins University,Jeff Wang,4.9,0.2,1.4580589924204022,0,Tier 6
+708,University of California San Diego,Erkki Ruoslahti,10.838095238095239,2.1,41.29623879126144,3,Tier 3
+709,Carnegie Mellon University,Yu-li Wang,7.181818181818182,1.1,12.93259546153131,1,Tier 5
+710,University of Pittsburgh,Pietro Bajona,5.781818181818181,1.1,9.862186777565597,1,Tier 5
+711,Columbia University,Christoph Juchem,2.961111111111111,3.6,13.983660796231712,1,Tier 5
+712,Tsinghua University,Hong Bo,6.08235294117647,3.4,32.47644164882163,2,Tier 4
+713,Duke University,Cameron C Mcintyre,4.531818181818182,2.2,14.546659649056057,1,Tier 5
+714,Johns Hopkins University,Henry Brem,4.597841726618705,13.9,93.58523212035348,4,Tier 2
+715,University of Pittsburgh,Gilbert Thomas,6.7,1.4,15.091122312763185,1,Tier 5
+716,University of Pennsylvania,Christopher Fang-yen,6.5625,4.0,42.014252082385795,3,Tier 3
+717,Georgia Institute of Technology,Gregory Sawicki,4.3275,4.0,24.966423725956414,2,Tier 4
+718,Duke University,Jason F Luck,3.0,1.0,3.9482220388574776,0,Tier 6
+719,Johns Hopkins University,Reza Kalhor,17.583333333333332,0.6,21.603681302593614,2,Tier 4
+720,National University of Singapore,Christopher L Asplund,6.1,1.1,10.545203835213714,1,Tier 5
+721,University of Toronto,Jean Chen,3.444262295081967,6.1,28.62200852614118,2,Tier 4
+722,Imperial College London,Michael Fertleman,5.556756756756758,3.7,31.566647230988803,2,Tier 4
+723,Johns Hopkins University,Joel Sunshine,12.359090909090911,2.2,50.98070527578146,3,Tier 3
+724,University of Pittsburgh,Pitt Bruce,5.20625,1.6,12.582769938333456,1,Tier 5
+725,University of Michigan,Kevin R Ward,4.449999999999998,6.2,40.072063162274134,3,Tier 3
+726,University of California San Francisco,Esteban G Burchard,11.271333333333333,15.0,309.78499355163564,5,Tier 1
+727,University of California Los Angeles,Alireza Moshaverinia,6.734482758620689,5.8,62.92283770769735,4,Tier 2
+728,University of Toronto,Hagar Labouta,15.5,0.2,6.150984298031231,0,Tier 6
+729,Duke University,Patrick D Wolf,2.8285714285714287,0.7,2.567775068562241,0,Tier 6
+730,University of Pennsylvania,Steven Siegel,4.181481481481481,2.7,16.144570148958508,1,Tier 5
+731,University of Pittsburgh,Ghodadra Anish,3.4318181818181817,2.2,10.276092841381558,1,Tier 5
+732,University of Toronto,Eugenia Kumacheva,10.559036144578313,8.3,157.9823020969366,5,Tier 1
+733,Columbia University,Gerard Karsenty,12.688333333333333,6.0,143.68352520140485,5,Tier 1
+734,University of California San Diego,Fanny Chapelin,5.214285714285714,0.7,5.515584856898155,0,Tier 6
+735,Massachusetts Institute of Technology,Christopher A Voigt,13.442168674698795,8.3,213.63124341429892,5,Tier 1
+736,University of California Los Angeles,Benjamin Ellingson,8.521875,19.2,279.5568757218745,5,Tier 1
+737,University of Pittsburgh,Gopalakrishnan Vanathi,3.333333333333333,1.8,8.107200928842206,1,Tier 5
+738,University of Washington,Shelly Sakiyama-elbert,7.004081632653061,4.9,55.83224344372313,3,Tier 3
+739,Carnegie Mellon University,Adam W Feinberg,8.132727272727273,5.5,75.53669002016143,4,Tier 2
+740,University of Pittsburgh,Prasad Konasale,4.032258064516128,3.1,17.71320271301998,2,Tier 4
+741,University of Pennsylvania,Michelle Johnson,3.3,2.1,9.340319228714721,1,Tier 5
+742,University of Hong Kong,Kevin K Tsia,5.630555555555556,3.6,31.224217299065145,2,Tier 4
+743,University of Oxford,Noble Alison,7.293749999999999,9.6,115.0693936925126,4,Tier 2
+744,University of Michigan,Zhongming Liu,4.2875,1.6,9.87131814178148,1,Tier 5
+745,Northwestern University,Shana Kelley,14.883333333333335,2.4,70.1595027503373,4,Tier 2
+746,University of California San Diego,Liangfang Zhang,12.524468085106383,18.8,442.9523012399925,5,Tier 1
+747,Imperial College London,Emmanuel M Drakakis,3.41,1.0,4.633860695291449,0,Tier 6
+748,Johns Hopkins University,Lawrence Schramm,4.033333333333333,0.3,1.7147523203927004,0,Tier 6
+749,University of Sydney,Wenlong Cheng,3.575,0.4,1.9663238594746155,0,Tier 6
+750,Shanghai Jiao Tong University,Zhichao Ma,4.3625,0.8,5.043816603462893,0,Tier 6
+751,Johns Hopkins University,Martin Pomper,9.169633507853401,19.1,304.7707893805842,5,Tier 1
+752,University of California San Diego,Peter Chen,7.264285714285714,1.4,16.696259351757647,1,Tier 5
+753,University of Washington,Gerald Pollack,3.713636363636364,2.2,11.341536648012893,1,Tier 5
+754,University of Michigan,Mario Fabiilli,4.919230769230769,5.2,38.09560186257567,3,Tier 3
+755,University of Michigan,Carlos Aguilar,5.709090909090908,2.2,19.414731065775147,2,Tier 4
+756,University of Tokyo,Keiichi Nakagawa,4.38936170212766,14.1,89.58201463778852,4,Tier 2
+757,Columbia University,Karen E Kasza,6.245454545454547,1.1,10.86044823767851,1,Tier 5
+758,University of Pittsburgh,Gaunt Robert,4.369999999999999,4.0,25.2732903961041,2,Tier 4
+759,University of Toronto,Cristina Amon ,4.407692307692307,2.6,16.60494475563338,1,Tier 5
+760,University of California Berkeley,Patrick Hsu,17.805882352941175,1.7,62.18036912619168,4,Tier 2
+761,University of Michigan,Allen Liu,5.851807228915662,8.3,75.54237006404794,4,Tier 2
+762,Imperial College London,Aidan Roche,4.3,0.3,1.8576197688459457,0,Tier 6
+763,University of Pittsburgh,Calabro Finnegan,5.990243902439025,4.1,38.42284235260049,3,Tier 3
+764,University of Pittsburgh,Mcmahon Patrick,2.96,1.0,3.8825283787686775,0,Tier 6
+765,University of Michigan,Gary Luker,5.8092783505154655,9.7,87.48316100880669,4,Tier 2
+766,University of Michigan,Luyun Chen,2.773333333333333,3.0,10.736774803690142,1,Tier 5
+767,University of Cambridge,Simon Guest,2.9,0.1,0.3784404039441891,0,Tier 6
+768,Shanghai Jiao Tong University,Li Li,5.95497382198953,19.1,177.6778081528615,5,Tier 1
+769,Johns Hopkins University,Hyungbae Kwon,10.71176470588235,1.7,32.94391448155292,2,Tier 4
+770,University of Cambridge,Zoubin Ghahramani,50.5,0.1,13.462143717970447,1,Tier 5
+771,University of Pittsburgh,Taylor Ian,5.25,0.2,1.5893850546184227,0,Tier 6
+772,University of Toronto,David Steinman,3.620512820512821,3.9,19.477231184591673,2,Tier 4
+773,Duke University,Robert A Malkin,6.366666666666667,0.3,3.033970790998315,0,Tier 6
+774,Georgia Institute of Technology,Todd Streelman,11.9,1.0,22.102108255424916,2,Tier 4
+775,Nanyang Technological University,Ong C Wei,3.3166666666666664,0.6,2.685520877154448,0,Tier 6
+776,Massachusetts Institute of Technology,Roger D Kamm,8.36315789473684,15.2,216.1754930905543,5,Tier 1
+777,National University of Singapore,Liu Dianbo,28.066666666666666,0.3,19.380268995039245,2,Tier 4
+778,Johns Hopkins University,Venkataramana Sidhaye,3.8923076923076927,3.9,21.321785142426535,2,Tier 4
+779,University of Sydney,Georgios Angelis,3.3230769230769237,1.3,5.832689336461528,0,Tier 6
+780,Georgia Institute of Technology,Mg Finn,10.701538461538462,13.0,251.62345609216257,5,Tier 1
+781,Johns Hopkins University,Rachel Karchin,13.755882352941176,6.8,180.14386602081146,5,Tier 1
+782,Carnegie Mellon University,Rahul Panat,11.071428571428571,0.7,14.136848965429776,1,Tier 5
+783,Imperial College London,David Labonte,5.45909090909091,2.2,18.357903771781608,2,Tier 4
+784,University of Pennsylvania,Brian Litt,5.765656565656566,9.9,88.44965777610156,4,Tier 2
+785,Nanyang Technological University,Schmetterer Leopold,4.176041666666666,19.2,114.61916959668788,4,Tier 2
+786,University of Pittsburgh,Korkmaz Emrullah,6.449999999999999,1.6,16.446353694877594,1,Tier 5
+787,Cornell University,Benjamin D Cosgrove,11.975,2.0,44.55273793843201,3,Tier 3
+788,Shanghai Jiao Tong University,Linyong Zhu,11.752941176470591,6.8,147.9762835855637,5,Tier 1
+789,University of California San Diego,Wouter-jan Rappel,7.3876923076923084,6.5,79.16794200914168,4,Tier 2
+790,University of British Columbia,Negarharandi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+791,Shanghai Jiao Tong University,Fangfang Zhu,4.1,0.5,2.9170899782721467,0,Tier 6
+792,University of California San Diego,Sheng Xu,21.74,3.5,164.30185587238196,5,Tier 1
+793,University of California San Francisco,Kathy Giacomini,5.0,0.2,1.4953487812212207,0,Tier 6
+794,University of Tokyo,Yukiko Matsunaga,7.552941176470587,3.4,42.57199916741402,3,Tier 3
+795,Massachusetts Institute of Technology,Ram Sasisekharan,12.172972972972973,3.7,84.12935248030095,4,Tier 2
+796,University of Michigan,Alison Vander Roest,5.05,0.2,1.5140639476532867,0,Tier 6
+797,Peking University,Zhifei Dai,8.40813953488372,8.6,123.1326819993322,5,Tier 1
+798,University of Michigan,Daniel Beard,4.718181818181817,5.5,38.24556052976663,3,Tier 3
+799,University of Michigan,Deanna Gates,3.0702127659574456,4.7,19.101103128491754,2,Tier 4
+800,University of Pennsylvania,Xue Gao,2.6,0.2,0.6603081848864102,0,Tier 6
+801,University of California Los Angeles,Philip Scumpia,16.12368421052632,3.8,122.77613319558955,5,Tier 1
+802,Imperial College London,Anthony M J Bull,3.533962264150943,10.6,51.36097387745681,3,Tier 3
+803,National University of Singapore,Chen Nanguang,3.7199999999999998,2.0,10.332577478671036,1,Tier 5
+804,Johns Hopkins University,Joshua Vogelstein,7.881034482758621,5.8,76.58734743706309,4,Tier 2
+805,Northwestern University,John Troy,3.7375000000000003,1.6,8.314698087805063,1,Tier 5
+806,Carnegie Mellon University,Yongxin Zhao,7.9,1.7,22.51556168082749,2,Tier 4
+807,Carnegie Mellon University,Hartmut Geyer,2.3555555555555556,0.9,2.6263898951138227,0,Tier 6
+808,Cornell University,Lawrence Bonassar,4.992913385826773,12.7,94.78645068417677,4,Tier 2
+809,University of California San Diego,Jack Bui,9.89787234042553,4.7,82.51353020545628,4,Tier 2
+810,Northwestern University,Eric Perreault,2.776470588235294,5.1,18.278330369599328,2,Tier 4
+811,Massachusetts Institute of Technology,Bevin P Engelward,5.4025,4.0,32.946058161065864,2,Tier 4
+812,Georgia Institute of Technology,Scott Danielsen,3.65,0.2,1.0090114075030996,0,Tier 6
+813,University of Pennsylvania,David Cormode,9.57301587301587,6.3,106.08439971062033,4,Tier 2
+814,Georgia Institute of Technology,Scott Hollister,4.970588235294118,3.4,25.234148325893134,2,Tier 4
+815,University of California San Francisco,Deanna Kroetz,4.7216216216216225,3.7,25.75228085988429,2,Tier 4
+816,University of Pittsburgh,Wells Alan,5.3968421052631586,9.5,78.14446918616215,4,Tier 2
+817,Northwestern University,John Rogers,12.931891891891892,18.5,453.67966132510423,5,Tier 1
+818,University of Pittsburgh,Rubin Joseph,3.9,0.1,0.5480633472329454,0,Tier 6
+819,ETH Zurich,Vörös Janos,8.490163934426228,6.1,88.40461354898522,4,Tier 2
+820,Peking University,Hanqing Xiong,14.4,0.1,2.805130789704855,0,Tier 6
+821,University of California San Diego,Yu-hwa Lo,8.336363636363636,4.4,62.32660766884635,4,Tier 2
+822,Johns Hopkins University,Winston Timp,12.647368421052633,7.6,181.26493707043952,5,Tier 1
+823,Columbia University,Shunichi Homma,7.930400000000001,12.5,166.3523266729511,5,Tier 1
+824,University of British Columbia,Matthiasgörges,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+825,Carnegie Mellon University,Tzahi Cohen-karni,9.375,2.8,45.93271608949515,3,Tier 3
+826,Shanghai Jiao Tong University,Yongting Wang,6.337333333333333,7.5,75.41269338655103,4,Tier 2
+827,Duke University,Ann Saterbak,2.4375,0.8,2.4365244144533986,0,Tier 6
+828,University of Michigan,Douglas Noll,3.0354838709677416,3.1,12.420715258816628,1,Tier 5
+829,University of California Berkeley,Tony Keaveny,6.1000000000000005,5.1,48.89139959962722,3,Tier 3
+830,Columbia University,Wei Min,11.713235294117649,6.8,147.3516478560701,5,Tier 1
+831,Duke University,Tatiana Segura,9.523809523809524,4.2,70.26882095771168,4,Tier 2
+832,University of California San Francisco,Moriel Vandsburger,50.5,0.1,13.462143717970447,1,Tier 5
+833,University of Michigan,Jane Huggins,6.690476190476191,2.1,22.596469077025407,2,Tier 4
+834,University of Pittsburgh,Redfern Mark,2.8333333333333335,5.7,20.95303528841722,2,Tier 4
+835,University of Michigan,Elizabeth Mays,3.3000000000000003,0.3,1.3343313183878174,0,Tier 6
+836,University of Hong Kong,Alan Wong,6.985416666666667,4.8,54.510684107137834,3,Tier 3
+837,University of California San Diego,Rebecca Rakow-penner,3.9757575757575756,3.3,18.52630496723987,2,Tier 4
+838,Northwestern University,Michael Markl,3.7956521739130435,18.4,97.48231464167553,4,Tier 2
+839,Georgia Institute of Technology,Andrei G Fedorov,6.785714285714286,2.1,22.999254381568164,2,Tier 4
+840,University of British Columbia,Zacharylaksman,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+841,University of Pittsburgh,Parker S Robert,44.550000000000004,0.8,92.07667382368322,4,Tier 2
+842,Georgia Institute of Technology,Rishikesan Kamaleswaran,4.186,5.0,29.93774151555018,2,Tier 4
+843,University of Tokyo,Taichi Ito,4.603389830508474,5.9,39.78315337456687,3,Tier 3
+844,Georgia Institute of Technology,Daniel Goldman,8.889285714285714,5.6,85.95509182109741,4,Tier 2
+845,University of Cambridge,Ashwin Seshia,5.668421052631579,1.9,16.618094675915252,1,Tier 5
+846,Georgia Institute of Technology,Mark Clements,3.333333333333334,0.9,4.0536004644211046,0,Tier 6
+847,University of California Los Angeles,Liang Gao,8.095238095238093,2.1,28.675191574658626,2,Tier 4
+848,University of Toronto,Naomi Matsuura,4.841666666666667,1.2,8.618364421451842,1,Tier 5
+849,Nanyang Technological University,Tan M How,14.60625,1.6,45.687079259674626,3,Tier 3
+850,Georgia Institute of Technology,Robert Liu,9.4125,1.6,26.378568221200904,2,Tier 4
+851,Imperial College London,Sam Au,5.3375,0.8,6.490263766509154,0,Tier 6
+852,University of Tokyo,Yusuke Hirabayashi,10.080000000000002,1.5,26.941199272376387,2,Tier 4
+853,University of Hong Kong,Zhiqin Chu,7.4870967741935495,3.1,38.39312846992277,3,Tier 3
+854,University of California San Diego,Samuel Ward,3.609375,9.6,47.75966154241777,3,Tier 3
+855,Northwestern University,Milan Mrksich,9.165217391304347,6.9,110.03416544537978,4,Tier 2
+856,Shanghai Jiao Tong University,Wei-qiang Gao,8.228030303030302,13.2,183.94745532983632,5,Tier 1
+857,Georgia Institute of Technology,W Robert Taylor,5.23235294117647,3.4,26.90606616538738,2,Tier 4
+858,University of Sydney,Aaron Gilmour,7.3,0.4,4.799694179686383,0,Tier 6
+859,University of California San Diego,Peter Wang,8.2,0.2,2.7752193258114963,0,Tier 6
+860,Tsinghua University,Xing Wanli,5.0874999999999995,2.4,18.337569358895287,2,Tier 4
+861,University of Washington,Ying Zheng,5.658333333333332,19.2,167.5567349452043,5,Tier 1
+862,University of Pittsburgh,Goncharova Elena,9.983783783783784,3.7,65.66299426130819,4,Tier 2
+863,Carnegie Mellon University,Noelia Grande Gutiérrez,3.6,0.2,0.9917635017577391,0,Tier 6
+864,Johns Hopkins University,Andrew Feinberg,12.14516129032258,6.2,140.57102056311305,5,Tier 1
+865,Johns Hopkins University,Xiaoqin Wang,6.534782608695651,4.6,48.061438179721144,3,Tier 3
+866,University of British Columbia,Timsalcudean,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+867,University of Toronto,Jayson Parker,3.008333333333333,1.2,4.754323079955729,0,Tier 6
+868,University of Pittsburgh,Tarin Tatum,7.911111111111111,0.9,11.940963330953638,1,Tier 5
+869,University of Toronto,Penney Gilbert,10.033333333333333,3.0,53.57075976907191,3,Tier 3
+870,University of California San Francisco,Tanja Kortemme,9.327659574468083,4.7,76.61498437747963,4,Tier 2
+871,Rice University,Cynthia A Reinhart-King,7.303999999999999,2.5,30.018636666194176,2,Tier 4
+872,Columbia University,Tal Danino,11.11923076923077,2.6,52.79183738491236,3,Tier 3
+873,University of California Los Angeles,Gerard Wong,9.981333333333334,7.5,133.05982950315212,5,Tier 1
+874,Johns Hopkins University,Xingde Li,4.860975609756097,4.1,29.59294310683521,2,Tier 4
+875,University of Michigan,Cynthia A Chestek,4.613559322033898,5.9,39.893041444582195,3,Tier 3
+876,University of British Columbia,Peymanservati,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+877,Shanghai Jiao Tong University,Binjie Qin,2.8,1.1,3.984191681059749,0,Tier 6
+878,University of Oxford,Clifton David,6.2765625,12.8,127.16344702242259,5,Tier 1
+879,University of California San Diego,Sameer Shah,3.353448275862069,5.8,26.320401428735888,2,Tier 4
+880,Georgia Institute of Technology,Andrés García,9.490714285714285,14.0,233.21241155466322,5,Tier 1
+881,University of Tokyo,Seiichi Ohta,4.847499999999999,4.0,28.77115280030713,2,Tier 4
+882,Shanghai Jiao Tong University,Ping Liu,5.89481865284974,19.3,177.27413313122716,5,Tier 1
+883,Rice University,Christian Schreib,8.2,0.1,1.3876096629057482,0,Tier 6
+884,University of California Los Angeles,Michael Teitell,13.62758620689655,5.8,151.86289199263203,5,Tier 1
+885,University of Pittsburgh,Phillippi Julie,5.743333333333334,3.0,26.67327135116143,2,Tier 4
+886,University of California San Diego,Shyni Varghese,8.274999999999999,3.6,50.52571916540201,3,Tier 3
+887,Johns Hopkins University,Marios Arvanitis,14.235294117647058,1.7,47.00639840343966,3,Tier 3
+888,National University of Singapore,Andrew W Holle,7.300000000000001,0.4,4.799694179686384,0,Tier 6
+889,University of California San Diego,Prashant Mali,14.064444444444444,4.5,122.56479443233657,5,Tier 1
+890,University of California San Diego,Bernhard Palsson,8.428571428571429,19.6,281.480643942851,5,Tier 1
+891,Columbia University,Lance C Kam,9.96206896551724,2.9,51.325705515454295,3,Tier 3
+892,Massachusetts Institute of Technology,William G Thilly,3.525,0.4,1.9320078780664045,0,Tier 6
+893,Johns Hopkins University,Nicholas Durr,3.74,3.5,18.203611032443344,2,Tier 4
+894,University of California Berkeley,Michael Yartsev,13.205555555555556,1.8,45.31253411464791,3,Tier 3
+895,University of Pittsburgh,Sowa Gwendolyn,3.525,8.0,38.64015756132809,3,Tier 3
+896,Duke University,Ehsan Samei,3.8940860215053763,18.6,101.74659176343671,4,Tier 2
+897,Georgia Institute of Technology,Jennifer Hasler,4.433333333333334,0.3,1.929897473319902,0,Tier 6
+898,Cornell University,Esak Lee,5.93,2.0,18.507525752961193,2,Tier 4
+899,University of Michigan,Alfred Hero,4.618518518518518,2.7,18.28067071165284,2,Tier 4
+900,University of Pittsburgh,Jin Tao,3.836666666666667,3.0,16.1088241588914,1,Tier 5
+901,Georgia Institute of Technology,Aniruddh Sarkar,6.466666666666666,0.3,3.0936547761209976,0,Tier 6
+902,Georgia Institute of Technology,Francisco Robles,4.088,2.5,14.532108026086386,1,Tier 5
+903,National University of Singapore,Slaven Garaj,10.875,1.6,31.597779541950054,2,Tier 4
+904,University of Washington,Cecilia Giachelli,5.404,2.5,20.59843304234089,2,Tier 4
+905,Carnegie Mellon University,James W Schneider,5.781818181818182,1.1,9.862186777565599,1,Tier 5
+906,University of Pittsburgh,Kormos Robert,7.213888888888889,7.2,85.12248772746132,4,Tier 2
+907,Georgia Institute of Technology,Valeria Milam,5.4750000000000005,0.4,3.3499640443651617,0,Tier 6
+908,University of California Berkeley,Phillip Messersmith,7.814285714285714,4.9,64.01882338983435,4,Tier 2
+909,Imperial College London,Rodrigo Ledesma-amaro,7.92,12.0,159.43648935581777,5,Tier 1
+910,Imperial College London,Adam Celiz,5.975,0.4,3.7366496349110103,0,Tier 6
+911,Georgia Institute of Technology,Julia Babensee,6.957142857142856,0.7,7.909275283985707,1,Tier 5
+912,University of Toronto,John Griffiths,5.328571428571429,2.1,17.001325587005052,1,Tier 5
+913,University of Toronto,Julie Audet,7.637499999999999,0.8,10.157317221781328,1,Tier 5
+914,University of Toronto,Willy Wong,4.742105263157894,1.9,13.295895359151547,1,Tier 5
+915,University of California Los Angeles,Sam Emaminejad,11.649999999999999,1.8,38.741810437576774,3,Tier 3
+916,Imperial College London,Nick Linton,5.131818181818181,4.4,33.98535046777763,3,Tier 3
+917,University of Tokyo,Kanjiro Miyata,8.277142857142858,7.0,98.27625614480378,4,Tier 2
+918,Georgia Institute of Technology,Julie Champion,7.4071428571428575,5.6,68.43077017043326,4,Tier 2
+919,University of Washington,Amy Orsborn,6.133333333333334,2.1,20.26935854976352,2,Tier 4
+920,Shanghai Jiao Tong University,Hailong Yu,4.3999999999999995,3.2,20.392281796693528,2,Tier 4
+921,Nanyang Technological University,Zhao Wenting,8.242105263157894,1.9,26.533912760742727,2,Tier 4
+922,University of California San Francisco,Leslie Benet,5.258904109589041,7.3,58.13556868555593,4,Tier 2
+923,Rice University,Antonios Mikos,6.867816091954023,17.4,193.451708463698,5,Tier 1
+924,McGill University,Natalie Reznikov,6.45,1.0,10.278971059298497,1,Tier 5
+925,University of Michigan,Mohammed Islam,2.6375,0.8,2.688936661086904,0,Tier 6
+926,Johns Hopkins University,J. Webster Stayman,3.6880434782608695,9.2,47.0200263015613,3,Tier 3
+927,University of Pennsylvania,Flavia Vitale,7.036842105263159,3.8,43.551774463943474,3,Tier 3
+928,Massachusetts Institute of Technology,Peter So,6.145454545454545,8.8,85.14814393659253,4,Tier 2
+929,Duke University,Warren S Warren,6.651785714285714,5.6,59.82198775560667,4,Tier 2
+930,ETH Zurich,Stephan Klaas,4.467441860465117,8.6,55.856290200488345,4,Tier 2
+931,Georgia Institute of Technology,Eric Schumacher,3.417391304347826,2.3,10.686764116733155,1,Tier 5
+932,Georgia Institute of Technology,James Gumbart,7.779807692307693,10.4,135.12770992911572,5,Tier 1
+933,Columbia University,Elizabeth M C Hillman,9.492105263157894,3.8,63.312108726940444,4,Tier 2
+934,University of Pittsburgh,Kandler Karl,4.5,1.1,7.209552809853753,0,Tier 6
+935,National University of Singapore,Dean Ho,7.423076923076924,5.2,63.71376875312453,4,Tier 2
+936,University of Pittsburgh,Schatten Gerald,9.736363636363636,1.1,18.918585726096698,2,Tier 4
+937,Imperial College London,Naomi Nakayama,6.925,0.8,8.986999326885467,1,Tier 5
+938,McGill University,Adam Hendricks,5.492307692307692,1.3,10.930421929468764,1,Tier 5
+939,University of Toronto,Michael Garton,10.100000000000001,1.2,21.60642742942075,2,Tier 4
+940,Georgia Institute of Technology,Yonggang Ke,13.222784810126582,7.9,199.19606459217124,5,Tier 1
+941,University of Pittsburgh,Ryad Benosman,5.590909090909091,1.1,9.456833078695215,1,Tier 5
+942,Johns Hopkins University,Joshua Doloff,10.094999999999999,2.0,35.98842990481788,3,Tier 3
+943,University of British Columbia,Thaliafield,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+944,Carnegie Mellon University,Stefanie A Sydlik,7.117647058823529,1.7,19.76375595572017,2,Tier 4
+945,Columbia University,Joshua Jacobs,10.153846153846153,3.9,70.68916157624435,4,Tier 2
+946,University of Cambridge,Richard Prager,2.6666666666666665,0.3,1.022308966794036,0,Tier 6
+947,Stanford University,James Swartz,7.005263157894737,1.9,21.653802388164404,2,Tier 4
+948,Johns Hopkins University,Peter Searson,5.633695652173913,9.2,79.8508519702884,4,Tier 2
+949,Peking University,Xiuqin Zhang,7.696078431372549,5.1,65.37429708967802,4,Tier 2
+950,University of British Columbia,Vesnasossi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+951,Johns Hopkins University,Warren Grayson,7.195384615384615,6.5,76.60037102834156,4,Tier 2
+952,University of British Columbia,Rizhiwang,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+953,Carnegie Mellon University,Aryn Gittis,6.418749999999999,3.2,32.693623313184034,2,Tier 4
+954,University of Michigan,Parag Patil,5.265714285714285,7.0,55.83668848377539,3,Tier 3
+955,University of Washington,Matthew O’donnell,4.676724137931036,11.6,79.77837406190397,4,Tier 2
+956,University of British Columbia,Gabriellelam,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+957,University of British Columbia,Mattiabacca,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+958,University of British Columbia,Vikramadityayadav,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+959,Rice University,James Long,7.966666666666666,0.3,4.015291343434786,0,Tier 6
+960,University of Washington,Valerie Daggett,4.300000000000001,4.4,27.245089943073882,2,Tier 4
+961,Duke University,Aravind Asokan,9.933333333333334,5.4,95.22753037704132,4,Tier 2
+962,Cornell University,Suzanne A Maher,3.4,0.1,0.461688063363795,0,Tier 6
+963,University of Pennsylvania,Daniel Bogen,3.1,0.1,0.4113411115370589,0,Tier 6
+964,University of Michigan,Jeffrey Fessler,4.084,5.0,29.028672191652607,2,Tier 4
+965,Duke University,Shyni Varghese,8.438461538461537,3.9,56.09106694795297,4,Tier 2
+966,University of California San Diego,Tyler Seibert,5.475641025641025,7.8,65.33385940470572,4,Tier 2
+967,Duke University,Cristian T Badea,4.855555555555556,3.6,25.947836945042493,2,Tier 4
+968,University of California Los Angeles,Dario Ringach,9.809090909090905,2.2,38.19078895469821,3,Tier 3
+969,Cornell University,Chris Schaffer,4.7489795918367355,4.9,34.35155958363534,3,Tier 3
+970,University of Toronto,Omar Khan,4.923809523809524,2.1,15.402664287967703,1,Tier 5
+971,Massachusetts Institute of Technology,Harvey F Lodish,15.257142857142856,2.8,84.43053616075882,4,Tier 2
+972,University of Pittsburgh,Schneider Walter,3.4592592592592593,2.7,12.737748046115357,1,Tier 5
+973,University of Pittsburgh,Mahajan Aman,5.003225806451612,3.1,23.19659947585916,2,Tier 4
+974,University of California San Diego,Thomas Liu,4.712903225806451,6.2,43.05289323013577,3,Tier 3
+975,University of Washington,Eric H Chudler,4.42,0.5,3.20440824875543,0,Tier 6
+976,University of California San Diego,Andrew Mcculloch,5.790196078431372,10.2,91.61503679167761,4,Tier 2
+977,Northwestern University,Joseph Moskal,3.95,2.6,14.47837155075368,1,Tier 5
+978,University of California San Francisco,Shuvo Roy,5.293877551020409,4.9,39.347164835000164,3,Tier 3
+979,University of Washington,Nancy Allbritton,7.506060606060608,9.9,122.99863108578045,5,Tier 1
+980,Tsinghua University,Bai Jing,4.169565217391304,2.3,13.703809095888328,1,Tier 5
+981,University of California Los Angeles,Heather Maynard,8.066101694915254,5.9,80.20134065973953,4,Tier 2
+982,Shanghai Jiao Tong University,Gaolian Xu,8.299999999999999,1.7,23.949504736087917,2,Tier 4
+983,University of Toronto,Yu Sun,8.725,12.4,185.94242033981482,5,Tier 1
+984,University of Toronto,Azadeh Kushki,7.0666666666666655,2.1,24.195664421882267,2,Tier 4
+985,Georgia Institute of Technology,Hanjoong Jo,8.273170731707317,8.2,115.05456001722901,4,Tier 2
+986,Stanford University,Todd Coleman,3.1,0.8,3.290728892296471,0,Tier 6
+987,University of Tokyo,Shu Takagi,4.0473684210526315,1.9,10.907356914588833,1,Tier 5
+988,University of British Columbia,Jennausprech,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+989,Stanford University,Russ B Altman,7.315107913669064,13.9,167.22096366578867,5,Tier 1
+990,Northwestern University,Robert Linsenmeier,4.088461538461538,2.6,15.115525269797077,1,Tier 5
+991,University of Toronto,Xinyu Liu,7.859523809523809,4.2,55.2706513698456,3,Tier 3
+992,Cornell University,Yadong Wang,7.278260869565218,4.6,54.99109324688176,3,Tier 3
+993,Carnegie Mellon University,Robert E Kass,2.8461538461538467,2.6,9.61161380847511,1,Tier 5
+994,University of California San Francisco,Francis Szoka,7.562499999999999,2.4,30.098369972475247,2,Tier 4
+995,Georgia Institute of Technology,Ravi Kane,6.924242424242424,3.3,37.06630291133722,3,Tier 3
+996,University of Toronto,Benjamin Hatton,9.277777777777779,2.7,43.71884921086502,3,Tier 3
+997,Johns Hopkins University,Justus Kebschull,13.4,0.5,12.818907162653073,1,Tier 5
+998,Johns Hopkins University,Martin Trapecar,4.1000000000000005,0.3,1.7502539869632885,0,Tier 6
+999,University of Michigan,James Ashton-miller,3.4256097560975607,8.2,38.21520651949263,3,Tier 3
+1000,Shanghai Jiao Tong University,Qiuning Lin,10.11951219512195,4.1,74.00027426665167,4,Tier 2
+1001,University of California San Diego,Nigel Goldenfeld,11.399999999999999,0.2,4.189489051783562,0,Tier 6
+1002,Shanghai Jiao Tong University,Yuan Feng,6.349275362318841,13.8,139.08627929801324,5,Tier 1
+1003,University of California San Diego,Klaus Ley,12.338095238095239,8.4,194.2403419178527,5,Tier 1
+1004,University of Pennsylvania,Davit Jishkariani,10.11,1.0,18.027642805076916,2,Tier 4
+1005,Carnegie Mellon University,Steven M Chase,10.048275862068964,2.9,51.88148935415464,3,Tier 3
+1006,University of Pittsburgh,Yates Cecelia,4.670588235294118,1.7,11.672486967022632,1,Tier 5
+1007,Georgia Institute of Technology,Eberhard Voit,3.678181818181818,5.5,28.0158743589287,2,Tier 4
+1008,Tsinghua University,Gong Qin,4.451724137931034,2.9,18.752462400589366,2,Tier 4
+1009,University of California San Diego,Benjamin Smarr,4.09,2.0,11.632796497494668,1,Tier 5
+1010,Johns Hopkins University,Edith Gurewitsch-Allen,3.55,0.2,0.974575382400058,0,Tier 6
+1011,University of British Columbia,Fidelvila-rodriguez,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1012,University of Toronto,Rita Kandel,5.088461538461538,5.2,39.740787052055644,3,Tier 3
+1013,Imperial College London,Julien Vermot,6.114285714285715,1.4,13.460469147325462,1,Tier 5
+1014,University of California San Francisco,Jaume Pons,9.542105263157893,1.9,31.86462815830294,2,Tier 4
+1015,University of Pittsburgh,Chen Yu-chih,6.081818181818182,1.1,10.505929349408074,1,Tier 5
+1016,University of British Columbia,Guydumont,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1017,University of Toronto,Lueder Kahrs,4.4,0.4,2.5490352245866914,0,Tier 6
+1018,Shanghai Jiao Tong University,Rong Tao,6.127450980392157,5.1,49.166578077443994,3,Tier 3
+1019,University of Michigan,Sasha Cai Lesher-pérez,6.071428571428571,0.7,6.6713181537652275,0,Tier 6
+1020,Shanghai Jiao Tong University,Guofeng Shen,6.553703703703706,5.4,56.624224002215364,4,Tier 2
+1021,University of Michigan,Aaron Morris,10.125,0.8,14.448866447283061,1,Tier 5
+1022,Carnegie Mellon University,Jana Kainerstorfer,3.7461538461538457,2.6,13.550501203247647,1,Tier 5
+1023,University of Pittsburgh,Sfeir Charles,5.621428571428572,2.8,24.23630460865177,2,Tier 4
+1024,Shanghai Jiao Tong University,Xiaoli Guo,3.4058823529411764,3.4,15.731349144534096,1,Tier 5
+1025,University of California Los Angeles,David Wong,7.191818181818182,11.0,129.5510864217272,5,Tier 1
+1026,University of British Columbia,Robertrohling,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1027,University of California San Diego,Stephanie Lindsey,3.0,0.2,0.7896444077714956,0,Tier 6
+1028,University of California San Diego,Nicole Steinmetz,7.658928571428571,11.2,142.70133850414626,5,Tier 1
+1029,Georgia Institute of Technology,Blazeck John,5.885714285714286,0.7,6.417221206902576,0,Tier 6
+1030,Duke University,David Hasan,5.0,2.4,17.944185374654648,2,Tier 4
+1031,University of Michigan,Oliver Kripfgans,3.9802631578947367,7.6,42.727091002896564,3,Tier 3
+1032,Columbia University,Anthony Fitzpatrick,27.02857142857143,0.7,43.139678588928334,3,Tier 3
+1033,University of Michigan,Euisik Yoon,6.683870967741936,6.2,66.63106594539366,4,Tier 2
+1034,University of Pittsburgh,Steven D Abramowitch,4.373170731707317,4.1,25.9286196932038,2,Tier 4
+1035,University of Pittsburgh,Ruder Warren,4.566666666666666,1.2,8.010882958289953,1,Tier 5
+1036,Imperial College London,Danny O'hare,10.041666666666666,2.4,42.90110642021015,3,Tier 3
+1037,Stanford University,Lei Qi,16.026136363636365,8.8,282.17511736153256,5,Tier 1
+1038,Shanghai Jiao Tong University,Lixu Gu,3.5766666666666667,3.0,14.756023519633736,1,Tier 5
+1039,Nanyang Technological University,Chew S Yian,8.00909090909091,5.5,74.10401152068323,4,Tier 2
+1040,University of California San Francisco,Sharmila Majumdar,5.040277777777778,14.4,108.75032958008437,4,Tier 2
+1041,Duke University,Peter E Fecci,8.55974025974026,7.7,112.73699596574927,4,Tier 2
+1042,University of California Los Angeles,Debiao Li,4.837037037037037,18.9,135.57701572862575,5,Tier 1
+1043,University of California Berkeley,David Schaffer,9.116190476190477,10.5,166.3244276569328,5,Tier 1
+1044,University of Pennsylvania,Paul A Janmey,6.928181818181818,11.0,123.64221615979207,5,Tier 1
+1045,University of Pittsburgh,Dicianno Brad,2.831521739130434,9.2,33.791907111045056,3,Tier 3
+1046,University of British Columbia,Shernazbamji,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1047,University of Hong Kong,Yong Hu,4.329203539823009,11.3,70.56485437009113,4,Tier 2
+1048,University of Toronto,Babak Taati ,3.3065217391304347,4.6,20.51030221463483,2,Tier 4
+1049,University of California San Francisco,Neal Benowitz,6.128571428571428,18.2,175.4973056174722,5,Tier 1
+1050,University of Pittsburgh,Anderst William,3.3638297872340424,9.4,42.8223373612103,3,Tier 3
+1051,University of Washington,James Bryers,4.5600000000000005,2.0,13.327112045493978,1,Tier 5
+1052,Massachusetts Institute of Technology,Feng Zhang,19.188372093023258,17.2,690.75829891846,5,Tier 1
+1053,University of Toronto,Jason Moffat,16.005042016806723,11.9,380.95000590814806,5,Tier 1
+1054,University of Michigan,Mark Burns,4.180000000000001,1.5,8.965233623968345,1,Tier 5
+1055,Northwestern University,Julius P A Dewald,3.7704918032786883,6.1,32.04994851972697,2,Tier 4
+1056,Tsinghua University,Yuan Kexin,4.9,1.0,7.290294962102011,1,Tier 5
+1057,Carnegie Mellon University,John Galeotti,3.59,1.0,4.9416053751081535,0,Tier 6
+1058,University of Pittsburgh,Anderson Carolyn,5.832692307692307,5.2,47.13458384129674,3,Tier 3
+1059,University of Tokyo,Shinichi Tokuno,3.961904761904763,2.1,11.738141328987329,1,Tier 5
+1060,University of Cambridge,Anurag Agarwal,4.283333333333334,0.6,3.697248075621314,0,Tier 6
+1061,Johns Hopkins University,Mark Luciano,2.8339285714285714,5.6,20.590844159904425,2,Tier 4
+1062,University of California San Diego,Ayako Makino,5.919354838709677,3.1,28.622308757605328,2,Tier 4
+1063,University of California San Diego,Marcos Intaglietta,3.4466666666666668,1.5,7.044340888465724,0,Tier 6
+1064,Carnegie Mellon University,Keith E Cook,5.184210526315789,1.9,14.863014034693721,1,Tier 5
+1065,University of California Los Angeles,Y Sungtaek Ju,3.9090909090909096,1.1,6.0462680678439575,0,Tier 6
+1066,Johns Hopkins University,Gene Fridman,4.552380952380952,2.1,13.964247631449172,1,Tier 5
+1067,University of Pittsburgh,Pacella John,4.723076923076923,2.6,18.10316965755048,2,Tier 4
+1068,Duke University,Alexandra Badea,4.987179487179486,3.9,29.065871909114367,2,Tier 4
+1069,Imperial College London,Hayriye Cagnan,5.2,0.1,0.7852431915614512,0,Tier 6
+1070,University of Sydney,Sandhya Clement,6.6625,0.8,8.563208421732208,1,Tier 5
+1071,Shanghai Jiao Tong University,Li Lin,7.171957671957672,18.9,221.82421400732665,5,Tier 1
+1072,University of Pittsburgh,George Stetten,3.3,0.2,0.8895542122585449,0,Tier 6
+1073,University of Pennsylvania,David F Meaney,4.385106382978723,4.7,29.824489951079244,2,Tier 4
+1074,University of Michigan,James Moon,10.89189189189189,11.1,219.63529482033726,5,Tier 1
+1075,Georgia Institute of Technology,Shu Jia,6.720000000000001,2.0,21.639219237485683,2,Tier 4
+1076,Johns Hopkins University,Donald Geman,5.257142857142859,1.4,11.14461984978508,1,Tier 5
+1077,Duke University,Olaf T Von Ramm,2.55,0.4,1.288947465467357,0,Tier 6
+1078,Georgia Institute of Technology,Mark Prausnitz,6.0328125,12.8,121.02072607613539,5,Tier 1
+1079,University of California Los Angeles,Pei-yu “ Chiou,11.091666666666667,2.4,48.57997125503817,3,Tier 3
+1080,University of Michigan,Joerg Lahann,6.624675324675325,7.7,81.8363918407125,4,Tier 2
+1081,University of Sydney,Hannes Almgren,4.525,0.8,5.279748268312534,0,Tier 6
+1082,University of Michigan,Deepak Nagrath,11.246875,3.2,65.90825506228312,4,Tier 2
+1083,University of California San Diego,Shaochen Chen,11.676543209876543,8.1,174.83480052890312,5,Tier 1
+1084,University of Tokyo,Kenji Shimazoe,3.4124999999999996,0.8,3.710486126082723,0,Tier 6
+1085,University of Pittsburgh,Star Alexander,7.81764705882353,5.1,66.66766593609448,4,Tier 2
+1086,University of Toronto,Milos Popovic,3.2592,12.5,54.73924179104082,3,Tier 3
+1087,University of Tokyo,Masaki Sekino,7.551111111111111,4.5,56.328228066553464,4,Tier 2
+1088,Harvard University,Jennifer Lewis,12.362025316455693,7.9,183.1214114539918,5,Tier 1
+1089,University of British Columbia,Janet Lam,3.2,0.1,0.42799379518491015,0,Tier 6
+1090,University of Cambridge,Guillaume Hennequin,14.021428571428569,1.4,37.985545326069655,3,Tier 3
+1091,Georgia Institute of Technology,Craig Forest,5.652500000000001,4.0,34.86267482293377,3,Tier 3
+1092,Nanyang Technological University,Chew K Wayne,6.991999999999999,2.5,28.424431226531407,2,Tier 4
+1093,Duke University,Sonal Deshpande,11.075000000000001,0.4,8.081456878622015,1,Tier 5
+1094,University of Oxford,Grau Vicente,6.565789473684209,3.8,39.938549528400124,3,Tier 3
+1095,Tsinghua University,Zhang Hui,6.612925170068027,14.7,155.8868011342378,5,Tier 1
+1096,University of Pennsylvania,Michael J Mitchell,16.554945054945055,9.1,303.87926824406486,5,Tier 1
+1097,University of California Berkeley,Steven M Conolly,8.2,2.0,27.75219325811496,2,Tier 4
+1098,Massachusetts Institute of Technology,Katharina Ribbeck,7.492105263157894,3.8,47.101900942878274,3,Tier 3
+1099,Johns Hopkins University,Ken Taguchi,5.1,0.1,0.7664127483992524,0,Tier 6
+1100,University of California San Diego,Yuan Chen,10.433333333333332,2.4,45.00285798140083,3,Tier 3
+1101,Shanghai Jiao Tong University,Guoyan Zheng,5.1878787878787875,3.3,25.83754318137135,2,Tier 4
+1102,Johns Hopkins University,Chulan Kwon,9.154761904761903,4.2,66.88182383181967,4,Tier 2
+1103,Georgia Institute of Technology,Cyrus Aidun,5.346153846153846,1.3,10.568057502060327,1,Tier 5
+1104,Johns Hopkins University,Charles Della Santina,5.054545454545454,4.4,33.34688789437639,3,Tier 3
+1105,Georgia Institute of Technology,Costas Arvanitis,17.599999999999998,0.9,32.443921670195216,2,Tier 4
+1106,University of Toronto,Eli Sone,5.5625,1.6,13.668080017601262,1,Tier 5
+1107,Cornell University,Kayla Wolf,11.266666666666666,0.3,6.192493532362958,0,Tier 6
+1108,University of California San Diego,Zeinab Jahed,10.86,0.5,9.857284377457878,1,Tier 5
+1109,Georgia Institute of Technology,Kyle Allison,7.275,0.4,4.779156346834022,0,Tier 6
+1110,University of Pittsburgh,Mao Zhi-hong,2.615,2.0,6.650734518354349,0,Tier 6
+1111,University of California Berkeley,Liana Lareau,13.613333333333333,1.5,39.22354635920366,3,Tier 3
+1112,University of Toronto,Chung-Wai Chow,9.470212765957447,4.7,78.0813886261754,4,Tier 2
+1113,Johns Hopkins University,Deok-Ho Kim,9.425,6.0,99.08386729414863,4,Tier 2
+1114,Georgia Institute of Technology,Blair Brettmann,5.764285714285714,1.4,12.504315111995835,1,Tier 5
+1115,University of Pittsburgh,Vogt Keith,3.357142857142857,1.4,6.361950907261397,0,Tier 6
+1116,Georgia Institute of Technology,Ming-fai Fong,6.266666666666666,0.6,5.949041431883286,0,Tier 6
+1117,Tsinghua University,Guo Hua,4.146534653465346,10.1,59.76239557043506,4,Tier 2
+1118,Duke University,Roarke Horstmeyer,6.970588235294118,1.7,19.254653498687173,2,Tier 4
+1119,University of Pittsburgh,Banerjee Ipsita,10.223999999999998,2.5,45.70524693620538,3,Tier 3
+1120,University of Pittsburgh,Cham Rakie,2.736842105263158,1.9,6.688300529749622,0,Tier 6
+1121,University of Washington,Patrick S Stayton,6.875,3.6,40.076831525746535,3,Tier 3
+1122,Cornell University,Krystyn Van Vliet,3.8,0.1,0.5305538810319672,0,Tier 6
+1123,Duke University,Jonathan Viventi,9.304761904761904,2.1,34.12721712484169,3,Tier 3
+1124,Carnegie Mellon University,Yongjie Jessica Zhang,4.833333333333333,0.6,4.299913160151711,0,Tier 6
+1125,Peking University,Zhuan Zhou,11.608333333333334,4.8,102.84982932695142,4,Tier 2
+1126,Columbia University,Raju Tomer,12.266666666666667,1.8,41.32194069243431,3,Tier 3
+1127,University of California San Diego,Amir Zarrinpar,12.838461538461537,3.9,94.77762845436509,4,Tier 2
+1128,University of Pittsburgh,Aizenstein Howard,6.009142857142857,17.5,164.6469574232814,5,Tier 1
+1129,Duke University,Barry S Myers,2.8166666666666664,1.2,4.378754169187685,0,Tier 6
+1130,University of Pennsylvania,Jina Ko,6.776190476190477,2.1,22.958911893834806,2,Tier 4
+1131,Imperial College London,Victoria Salem,7.041935483870968,3.1,35.56122771895042,3,Tier 3
+1132,University of Pittsburgh,Fisher Lee,6.392105263157895,3.8,38.622332142362396,3,Tier 3
+1133,Massachusetts Institute of Technology,Paul Blainey,14.122222222222222,4.5,123.1944988425268,5,Tier 1
+1134,Georgia Institute of Technology,Fatih Sarioglu,7.1478260869565196,2.3,26.880992982913604,2,Tier 4
+1135,University of Oxford,Stevens Molly,12.137500000000001,2.4,54.37168539922791,3,Tier 3
+1136,University of California San Francisco,Sophie Dumont,11.245945945945946,3.7,76.19855115752148,4,Tier 2
+1137,Johns Hopkins University,Jennifer Elisseeff,9.49578947368421,9.5,158.3570680228018,5,Tier 1
+1138,Georgia Institute of Technology,Mark Styczynski,4.505454545454545,5.5,36.10239014650738,3,Tier 3
+1139,Stanford University,Kc Huang,28.022222222222226,1.8,116.05149008285356,4,Tier 2
+1140,University of California San Francisco,Nadav Ahituv,11.1873786407767,10.3,210.74032534111095,5,Tier 1
+1141,Shanghai Jiao Tong University,Shengxian Tu,5.463970588235295,13.6,113.61203777772437,4,Tier 2
+1142,University of Pittsburgh,Teichert Tobias,3.1666666666666665,1.8,7.603708222620694,1,Tier 5
+1143,University of British Columbia,Carmende Hoog,5.1,0.4,3.0656509935970098,0,Tier 6
+1144,Cornell University,Nozomi Nishimura,7.37906976744186,4.3,52.29624134704521,3,Tier 3
+1145,Northwestern University,Colin Hisey,8.157142857142857,1.4,19.299702786509176,2,Tier 4
+1146,Shanghai Jiao Tong University,Boyu Zhang,7.5125,2.4,29.849829029896725,2,Tier 4
+1147,Carnegie Mellon University,Eni Halilaj,3.0,0.6,2.3689332233144866,0,Tier 6
+1148,Imperial College London,Dandan Zhang,6.283333333333332,0.6,5.968825400826976,0,Tier 6
+1149,University of Pittsburgh,Zongqi Xia,6.6812499999999995,4.8,51.56005721007354,3,Tier 3
+1150,Imperial College London,Thomas E Ouldridge,8.575,3.2,46.956167074647894,3,Tier 3
+1151,Johns Hopkins University,David Kass,12.136363636363638,11.0,249.1743940687497,5,Tier 1
+1152,Imperial College London,Guang Yang,5.367368421052632,9.5,77.61137249191287,4,Tier 2
+1153,Duke University,Karl-dimiter Bissig,8.339999999999998,1.5,21.259293237030306,2,Tier 4
+1154,Georgia Institute of Technology,Gari Clifford,4.533082706766917,13.3,87.97184383138789,4,Tier 2
+1155,University of California San Diego,Yatish Turakhia,8.883333333333333,1.8,27.605298869794677,2,Tier 4
+1156,University of Pittsburgh,Iordanova Bistra,5.06,1.0,7.589062789387581,1,Tier 5
+1157,University of California San Francisco,Nevan Krogan,13.698989898989897,19.8,521.826189873223,5,Tier 1
+1158,Duke University,Sina Farsiu,4.641071428571428,11.2,76.29407962827439,4,Tier 2
+1159,Georgia Institute of Technology,Karmella Haynes,4.75,0.4,2.80496213755033,0,Tier 6
+1160,Georgia Institute of Technology,Robert Butera,8.16,1.0,13.791537938483623,1,Tier 5
+1161,Georgia Institute of Technology,Stanislav Emelianov,7.223333333333333,6.0,71.05151148298644,4,Tier 2
+1162,University of Washington,Drew Sellers,12.54,2.5,58.994554962763175,4,Tier 2
+1163,Johns Hopkins University,Hai-Quan Mao,7.709174311926604,10.9,140.01879311223922,5,Tier 1
+1164,University of Tokyo,Takamasa Sakai,5.822033898305085,5.9,53.35749395309857,3,Tier 3
+1165,University of Sydney,Omid Kavehei,6.361111111111111,1.8,18.18397108245401,2,Tier 4
+1166,Nanyang Technological University,Chen Lin,8.99090909090909,2.2,34.25131018838789,3,Tier 3
+1167,University of Michigan,Peter Ma,8.792741935483873,12.4,187.74876711567407,5,Tier 1
+1168,University of Michigan,Cheri Deng,5.574193548387097,3.1,26.551511498924203,2,Tier 4
+1169,University of Michigan,Ariella Shikanov,7.4661016949152526,5.9,72.81475423633887,4,Tier 2
+1170,Georgia Institute of Technology,Pinar Keskinocak,4.234782608695652,4.6,27.944525055638305,2,Tier 4
+1171,Shanghai Jiao Tong University,Liqin Xiong,7.154166666666666,2.4,28.080837642842745,2,Tier 4
+1172,University of Pennsylvania,Andrew Tsourkas,7.014285714285714,7.0,79.90562543483918,4,Tier 2
+1173,University of California San Diego,Shankar Subramaniam,9.801333333333332,7.5,130.06717647385446,5,Tier 1
+1174,Cornell University,Michael G Kaplitt,5.959999999999999,4.0,37.249274289192634,3,Tier 3
+1175,University of Toronto,Jonathan Rocheleau,7.4125000000000005,2.4,29.353988832851034,2,Tier 4
+1176,University of Sydney,Young No,8.346666666666668,1.5,21.280537658535724,2,Tier 4
+1177,University of Pittsburgh,Jesus Tejero,7.702777777777775,3.6,46.19678066893133,3,Tier 3
+1178,University of California Los Angeles,Ausaf Bari,4.35,4.2,26.385228621934584,2,Tier 4
+1179,University of California San Diego,David Gough,12.8,0.1,2.4210985190481304,0,Tier 6
+1180,Shanghai Jiao Tong University,Yaoyu Zhang,4.369230769230769,1.3,8.212012117987328,1,Tier 5
+1181,Johns Hopkins University,Paul Nagy,5.254054054054055,3.7,29.43200812545078,2,Tier 4
+1182,Tsinghua University,Luo Jianwen,3.4103448275862074,8.7,40.319684001308964,3,Tier 3
+1183,Georgia Institute of Technology,Michelle Laplaca,4.213636363636364,2.2,13.281404305864818,1,Tier 5
+1184,Imperial College London,James E Moore Jr,5.308333333333333,2.4,19.33788506068791,2,Tier 4
+1185,Nanyang Technological University,Ni Ran,8.905405405405405,3.7,56.920517863444246,4,Tier 2
+1186,Georgia Institute of Technology,Peter Kasson,4.35,0.2,1.2564394581873612,0,Tier 6
+1187,University of Pittsburgh,Zervantonakis Ioannis,12.347058823529412,1.7,39.34624735613707,3,Tier 3
+1188,University of California San Francisco,Sook W Yee,11.931372549019608,5.1,113.09233843995024,4,Tier 2
+1189,University of Pittsburgh,Mayo J Patrick,4.5777777777777775,0.9,6.026440772270833,0,Tier 6
+1190,University of Pittsburgh,Sell Timothy,2.1600000000000006,3.0,7.855764282182714,1,Tier 5
+1191,Georgia Institute of Technology,Annabelle Singer,10.594736842105263,1.9,36.31753120606588,3,Tier 3
+1192,Georgia Institute of Technology,Marcus Cicerone,4.633333333333333,0.9,6.117999559192807,0,Tier 6
+1193,Duke University,Stephen W Smith,2.7199999999999998,0.5,1.7465504476129423,0,Tier 6
+1194,University of Washington,Daniel M Ratner,4.393750000000001,1.6,10.178040170611121,1,Tier 5
+1195,University of Pennsylvania,Alison Pouch,4.305555555555555,3.6,22.327443421407033,2,Tier 4
+1196,University of California Los Angeles,Kyung H Sung,7.625,0.4,5.06827068294464,0,Tier 6
+1197,Duke University,Kafui Dzirasa,12.523529411764704,3.4,80.10089010432667,4,Tier 2
+1198,University of Toronto,Boris Hinz,9.402597402597403,7.7,126.77993549037893,5,Tier 1
+1199,Nanyang Technological University,Lim Sierin,7.316666666666666,5.4,64.98084389395669,4,Tier 2
+1200,University of California San Diego,Gert Cauwenberghs,7.229629629629629,2.7,32.0080211708561,2,Tier 4
+1201,University of British Columbia,Purangabolmaesumi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1202,University of Toronto,Yoav Finer,4.88,3.0,21.75935572883232,2,Tier 4
+1203,University of British Columbia,Davidwilson,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1204,Duke University,Sharon Gerecht,8.521052631578947,1.9,27.661145474997117,2,Tier 4
+1205,Massachusetts Institute of Technology,Cullen Buie,9.94,2.5,44.12380830822653,3,Tier 3
+1206,University of Toronto,Robert Harrison,6.053571428571429,2.8,26.587201090685994,2,Tier 4
+1207,Shanghai Jiao Tong University,Jian Ye,6.73010752688172,9.3,100.81158717169797,4,Tier 2
+1208,Imperial College London,Juan A Gallego,11.94,1.0,22.19501324308509,2,Tier 4
+1209,University of California San Diego,Daniela Valdez-jasso,4.123529411764706,1.7,9.989305428259128,1,Tier 5
+1210,University of Pennsylvania,Jennifer M Lynch,4.311764705882354,1.7,10.562524710198764,1,Tier 5
+1211,University of Pittsburgh,Musahl Volker,3.3198863636363636,17.6,78.87088080827951,4,Tier 2
+1212,Imperial College London,Aldo Faisal,9.234285714285713,3.5,56.34069228166795,4,Tier 2
+1213,University of British Columbia,Ivan Robertnabi,6.853488372093023,4.3,47.68239443076052,3,Tier 3
+1214,University of California San Diego,Erik B Kistler,6.404347826086956,2.3,23.432653711163987,2,Tier 4
+1215,Shanghai Jiao Tong University,Weiliang Xia,6.073529411764706,6.8,64.83512259741948,4,Tier 2
+1216,Shanghai Jiao Tong University,Xiaowei Li,7.649618320610688,13.1,166.6560191371139,5,Tier 1
+1217,University of Cambridge,Thierry Savin,11.728571428571428,0.7,15.193381270892788,1,Tier 5
+1218,Shanghai Jiao Tong University,Jianqi Sun,4.47,1.0,6.499566684665546,0,Tier 6
+1219,National University of Singapore,Jennifer Young,8.66,0.5,7.427922594459692,1,Tier 5
+1220,University of Toronto,Frank Gu,6.33,2.0,20.08096749641223,2,Tier 4
+1221,Peking University,Yifu Qiu,16.91538461538461,1.3,44.59597862452418,3,Tier 3
+1222,University of Cambridge,John Clarkson,4.6,4.0,26.94680508184659,2,Tier 4
+1223,Georgia Institute of Technology,Prasad Dasi,2.6,0.2,0.6603081848864102,0,Tier 6
+1224,Peking University,Yang Zhao,6.337500000000001,19.2,193.06284162469765,5,Tier 1
+1225,Georgia Institute of Technology,Vladimir Tsukruk,9.893506493506491,7.7,135.1072110376742,5,Tier 1
+1226,University of Pennsylvania,David M Lydon-staley,6.294736842105263,3.8,37.88833930403326,3,Tier 3
+1227,National University of Singapore,Liu Yuxin,12.266666666666666,0.6,13.773980230811434,1,Tier 5
+1228,Imperial College London,Nicolas Newell,3.0857142857142854,2.1,8.588433032960584,1,Tier 5
+1229,University of Washington,Jennifer Davis,4.833333333333333,18.6,133.29730796470304,5,Tier 1
+1230,University of Toronto,Cindi Morshead,6.131666666666666,6.0,57.89278231802992,4,Tier 2
+1231,Shanghai Jiao Tong University,Puming Zhang,2.821875,3.2,11.703673382397355,1,Tier 5
+1232,McGill University,Andrew Kirk,3.0875000000000004,0.8,3.2741509256441703,0,Tier 6
+1233,Georgia Institute of Technology,Laura Hansen,4.441666666666667,1.2,7.7377322872059215,1,Tier 5
+1234,Johns Hopkins University,Arvind Pathak,8.645833333333334,2.4,35.581136506317556,3,Tier 3
+1235,Georgia Institute of Technology,Brandon Dixon,6.418867924528302,5.3,54.1500571349474,3,Tier 3
+1236,University of Pittsburgh,Pi Shaohua,6.6000000000000005,0.7,7.405049388789516,1,Tier 5
+1237,University of British Columbia,Denashahriari,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1238,Shanghai Jiao Tong University,Yan Guo,5.616315789473685,19.0,164.27368510053097,5,Tier 1
+1239,Johns Hopkins University,Rama Chellappa,6.966666666666666,0.3,3.3954906894861447,0,Tier 6
+1240,Tsinghua University,Cheng Jing,8.012162162162163,7.4,99.75137320052947,4,Tier 2
+1241,University of Pittsburgh,Knight Katrina,6.075,1.2,11.444955249252674,1,Tier 5
+1242,Duke University,Cassio M Fontes,8.781818181818183,1.1,16.62927198986785,1,Tier 5
+1243,Tsinghua University,Song Xiaolei,2.8333333333333335,1.2,4.4111653238773085,0,Tier 6
+1244,Duke University,Nenad Bursac,10.753623188405795,6.9,134.3669963169912,5,Tier 1
+1245,University of California Berkeley,John Dueber,15.271428571428572,2.8,84.5293662353137,4,Tier 2
+1246,University College London,Leonardo Rios Solis,5.35,0.8,6.509268926390234,0,Tier 6
+1247,Massachusetts Institute of Technology,Robert Langer,17.63563829787234,18.8,679.4332992856016,5,Tier 1
+1248,Columbia University,John Thomas Vaughan,3.477777777777778,0.9,4.274347181322369,0,Tier 6
+1249,Shanghai Jiao Tong University,Xinyu Chai,3.489189189189189,3.7,17.644419383772455,2,Tier 4
+1250,Duke University,William M Reichert,6.4,1.1,11.197411861040075,1,Tier 5
+1251,University of Cambridge,Gabor Csanyi,8.828125,6.4,97.39026919860122,4,Tier 2
+1252,University of Pittsburgh,Ravi B Patel,7.713333333333334,1.5,19.281636175958795,2,Tier 4
+1253,Columbia University,Chirag Sachar,7.333333333333333,0.3,3.620328984979037,0,Tier 6
+1254,University of Pennsylvania,Desmond Oathes,10.73611111111111,3.6,69.96184397932099,4,Tier 2
+1255,Georgia Institute of Technology,Omer Inan,3.798765432098766,8.1,42.95741264210674,3,Tier 3
+1256,University of Michigan,Karin Jensen,4.4,0.2,1.2745176122933457,0,Tier 6
+1257,Georgia Institute of Technology,Peter Hesketh,7.749999999999999,0.4,5.172340646496347,0,Tier 6
+1258,University of Pittsburgh,Williamson Ross,2.65,0.2,0.6762189516306392,0,Tier 6
+1259,University of Oxford,Carlisle Robert,5.94,4.0,37.093092928176056,3,Tier 3
+1260,Johns Hopkins University,Takanari Inoue,10.78888888888889,4.5,87.99001958394788,4,Tier 2
+1261,University of Toronto,Rodrigo Fernandez-Gonzalez,6.725581395348838,4.3,46.572628202933174,3,Tier 3
+1262,University of Pittsburgh,Kiani Samira,15.68888888888889,0.9,28.101709730648906,2,Tier 4
+1263,Georgia Institute of Technology,Rafael Davalos,5.14,0.5,3.8696697549951073,0,Tier 6
+1264,Johns Hopkins University,Justin Hanes,6.728181818181817,11.0,119.19686522198113,5,Tier 1
+1265,Stanford University,Scott L Delp,7.691666666666667,9.6,122.96932857830922,5,Tier 1
+1266,Carnegie Mellon University,Phil G Campbell,6.931818181818183,2.2,24.744668179739215,2,Tier 4
+1267,National University of Singapore,Daniel Teh Boon Loong,8.25,0.2,2.7963880100229104,0,Tier 6
+1268,Duke University,Yiyang Gong,7.115,2.0,23.240669042831602,2,Tier 4
+1269,Northwestern University,David Kelso,2.2333333333333334,0.3,0.8190552335550331,0,Tier 6
+1270,Duke University,Mikhail A Nikiforov,10.825,0.4,7.854071898442557,1,Tier 5
+1271,University of Pittsburgh,Castagnola Elisa,5.642857142857143,1.4,12.175921940724974,1,Tier 5
+1272,University of California Los Angeles,Anthony Christodoulou,3.797826086956522,4.6,24.38802734538041,2,Tier 4
+1273,Columbia University,Elisa E Konofagou,5.06509433962264,10.6,80.54531580255559,4,Tier 2
+1274,Massachusetts Institute of Technology,James G Fox,6.713333333333333,15.0,162.092911625481,5,Tier 1
+1275,Johns Hopkins University,Wojciech Zbijewski,3.953703703703704,5.4,30.10571245181472,2,Tier 4
+1276,University of California San Francisco,Jan Christoph,6.6000000000000005,0.7,7.405049388789516,1,Tier 5
+1277,Imperial College London,Pedro Ballester,6.3428571428571425,0.7,7.046187613667931,0,Tier 6
+1278,University of California San Diego,Nan Hao,6.206896551724138,2.9,28.41130169806291,2,Tier 4
+1279,Duke University,Brenton D Hoffman,8.188888888888888,2.7,37.40201389138943,3,Tier 3
+1280,Georgia Institute of Technology,Jay Patel,5.13125,1.6,12.356598934086165,1,Tier 5
+1281,University of Pennsylvania,Louis J Soslowsky,4.503092783505155,9.7,63.62977002083803,4,Tier 2
+1282,University of Toronto,Daniel Franklin,7.0,0.2,2.2772071863769,0,Tier 6
+1283,University of Cambridge,Andrew Flewitt,5.193333333333333,1.5,11.759774861139306,1,Tier 5
+1284,University of California Berkeley,Christopher Hernandez,9.4,0.1,1.6459241480533366,0,Tier 6
+1285,University of Pittsburgh,Sharma Nitin,3.1333333333333333,1.2,5.002527614266481,0,Tier 6
+1286,University of British Columbia,Michaelunderhill,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1287,Georgia Institute of Technology,Alex Abramson,0.7,0.1,0.06402838534600862,0,Tier 6
+1288,Georgia Institute of Technology,Julien Meaud,2.855555555555556,0.9,3.340840768974063,0,Tier 6
+1289,University of Pennsylvania,Bijan Pesaran,10.51,1.0,18.923584118297143,2,Tier 4
+1290,University of Pennsylvania,Joel D Boerckel,5.403571428571428,2.8,23.06795800940106,2,Tier 4
+1291,Duke University,Megan Madonna,4.887499999999999,0.8,5.81364421262435,0,Tier 6
+1292,University of Oxford,He Liang,19.93,1.0,42.109891592452115,3,Tier 3
+1293,University of Pittsburgh,Taboas Juan,3.6714285714285713,0.7,3.5574753061858466,0,Tier 6
+1294,University of California Los Angeles,Jacob Rosen,3.875,0.4,2.1747013540549296,0,Tier 6
+1295,Georgia Institute of Technology,Levi Wood,6.7024390243902445,4.1,44.21554131594869,3,Tier 3
+1296,University of Pittsburgh,Smith Matthew,10.703947368421051,7.6,147.14433565493735,5,Tier 1
+1297,University of California Berkeley,Leah Guthrie,20.6,0.1,4.388681111428526,0,Tier 6
+1298,University of Sydney,Wei Chen,9.9625,4.0,70.79790545302998,4,Tier 2
+1299,University of Pittsburgh,Urish Kenneth,3.880769230769231,5.2,28.323741133148154,2,Tier 4
+1300,University of Michigan,Nicole Seiberlich,3.681578947368422,3.8,19.378771593079115,2,Tier 4
+1301,University of California San Francisco,Jeffrey Lotz,3.4081395348837207,8.6,39.82402576467876,3,Tier 3
+1302,University of Washington,Patrick M Boyle,6.831343283582089,6.7,73.99586303675443,4,Tier 2
+1303,Harvard University,Samir Mitragotri,9.99037037037037,13.5,239.77878474297515,5,Tier 1
+1304,University of California San Diego,Trey Ideker,13.733333333333334,14.7,388.6308624581667,5,Tier 1
+1305,McGill University,Allen Ehrlicher,4.923333333333333,3.0,22.001146123236353,2,Tier 4
+1306,Duke University,John H Sampson,10.860194174757282,10.3,203.0645965303322,5,Tier 1
+1307,Georgia Institute of Technology,Minoru Shinohara,2.392857142857143,1.4,4.166525075325701,0,Tier 6
+1308,Johns Hopkins University,Constanza Miranda,3.3166666666666664,0.6,2.685520877154448,0,Tier 6
+1309,Peking University,Lei Chen,7.509326424870467,19.3,239.91562764768813,5,Tier 1
+1310,Cornell University,Susan C Pannullo,4.128571428571428,2.1,12.358593515474702,1,Tier 5
+1311,University of Pittsburgh,Sant Shilpa,6.424137931034483,2.9,29.65968737958184,2,Tier 4
+1312,Nanyang Technological University,Hongwei Duan,9.385333333333332,7.5,123.2035978978709,5,Tier 1
+1313,University of Tokyo,Hironori Hojo,7.079999999999998,4.5,51.97016382986045,3,Tier 3
+1314,University of Sydney,Daria Anderson,3.04,0.5,2.007067524440209,0,Tier 6
+1315,Johns Hopkins University,Laura Ensign-Hodges,7.824698795180722,16.6,217.24141554408448,5,Tier 1
+1316,University of Washington,Xiaohu Gao,11.446153846153848,3.9,82.10868194692473,4,Tier 2
+1317,University of Oxford,Tarassenko Lionel,4.966666666666667,10.8,80.07648892751824,4,Tier 2
+1318,ETH Zurich,Razansky Daniel,6.875824175824176,9.1,101.32050498000311,4,Tier 2
+1319,Georgia Institute of Technology,Candace Fleischer,4.244999999999999,2.0,12.186447276301035,1,Tier 5
+1320,University of Tokyo,Shunji Mitsuyoshi,2.0,0.9,2.1405728070048977,0,Tier 6
+1321,University of Cambridge,George Malliaras,10.75,6.8,132.36388116258416,5,Tier 1
+1322,University of Cambridge,Athina Markaki,8.8375,1.6,24.37989136834937,2,Tier 4
+1323,Duke University,Michael D Lynch,4.165217391304347,2.3,13.685949316926841,1,Tier 5
+1324,Carnegie Mellon University,Rebecca E Taylor,7.081249999999999,1.6,18.482358573178228,2,Tier 4
+1325,University of California San Francisco,Diane Jorkasky,30.9,0.1,7.285311056022393,1,Tier 5
+1326,Stanford University,Mark A Skylar-scott,13.940000000000001,0.5,13.467856227264026,1,Tier 5
+1327,Georgia Institute of Technology,Corey Wilson,12.450000000000001,1.6,37.418094885466914,3,Tier 3
+1328,University of Washington,Marta Scatena,9.700000000000001,1.4,23.965842645693588,2,Tier 4
+1329,University of Pittsburgh,Dutta Partha,11.165384615384616,2.6,53.06589065441577,3,Tier 3
+1330,University of British Columbia,Fabiorossi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1331,University of British Columbia,Anthonychan,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1332,University of Michigan,Tim Bruns,3.6107142857142867,2.8,13.936362576026431,1,Tier 5
+1333,Cornell University,Claudia Fischbach,8.96166666666667,6.0,93.03304440441988,4,Tier 2
+1334,Imperial College London,Periklis Pantazis,7.728571428571429,0.7,9.02032263297784,1,Tier 5
+1335,Johns Hopkins University,Wayne Mitzner,5.645454545454545,4.4,38.28920245101448,3,Tier 3
+1336,Columbia University,Gordana Vunjak-novakovic,10.396855345911948,15.9,296.8415059986061,5,Tier 1
+1337,University of Pittsburgh,Konig Gerhardt,3.5499999999999994,0.6,2.9237261472001737,0,Tier 6
+1338,University of British Columbia,Alexander Weber,2.67,1.0,3.413021913546161,0,Tier 6
+1339,University of Toronto,Rafael Montenegro Burke,15.38,0.5,15.228790902199922,1,Tier 5
+1340,University of California Los Angeles,Neil Lin,5.377777777777777,0.9,7.370485136074576,1,Tier 5
+1341,National University of Singapore,Qiu Anqi,4.657272727272727,11.0,75.25879728511987,4,Tier 2
+1342,National University of Singapore,Leo Hwa Liang,3.7999999999999994,8.4,44.56652600668524,3,Tier 3
+1343,Carnegie Mellon University,Gary K Fedder,5.1,0.8,6.1313019871940195,0,Tier 6
+1344,Columbia University,Stavros Thomopoulos,6.575,7.6,80.01718866215383,4,Tier 2
+1345,Georgia Institute of Technology,Susan Thomas,10.007407407407404,5.4,96.1160103438547,4,Tier 2
+1346,University of Cambridge,Graham Treece,5.052631578947368,1.9,14.392977320515909,1,Tier 5
+1347,Duke University,Bruce Klitzman,5.377272727272727,2.2,18.014626430362696,2,Tier 4
+1348,University of Pittsburgh,Huppert Theodore,3.7030303030303027,6.6,33.903186452604764,3,Tier 3
+1349,Johns Hopkins University,Kechen Zhang,6.3428571428571425,1.4,14.092375227335863,1,Tier 5
+1350,National University of Singapore,Andy Tay,8.84375,3.2,48.8028910220792,3,Tier 3
+1351,Shanghai Jiao Tong University,Zhou Chen,6.278999999999999,10.0,99.39467175576326,4,Tier 2
+1352,Johns Hopkins University,Paul Fuchs,3.7086956521739127,2.3,11.83734567118022,1,Tier 5
+1353,University of Hong Kong,Daisy K Shum,4.235000000000001,2.0,12.150573139994096,1,Tier 5
+1354,Georgia Institute of Technology,William D Hunt,3.8,0.1,0.5305538810319672,0,Tier 6
+1355,University of Toronto,Deryk Beal,2.6800000000000006,3.0,10.287023862500469,1,Tier 5
+1356,Shanghai Jiao Tong University,Hong Xu,5.136363636363637,18.7,144.59767497048006,5,Tier 1
+1357,University of Washington,Charles E Murry,11.230188679245284,10.6,217.9162824506011,5,Tier 1
+1358,Peking University,Peng Xi,8.217894736842105,9.5,132.1826099821665,5,Tier 1
+1359,University of British Columbia,Lynnraymond,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1360,University of Washington,Ruikang Wang,3.4051813471502594,19.3,89.27556680905218,4,Tier 2
+1361,University of Michigan,Connie Wu,9.3,1.5,24.36099063088121,2,Tier 4
+1362,University of Pittsburgh,Falo Louis,6.041860465116278,4.3,40.73163276474456,3,Tier 3
+1363,Stanford University,Emma Lundberg,24.208333333333336,3.6,193.31191100607512,5,Tier 1
+1364,Johns Hopkins University,Annie Kathuria,5.65,0.2,1.7421700982006105,0,Tier 6
+1365,University of Cambridge,Andrew Gee,5.18125,1.6,12.507288496740706,1,Tier 5
+1366,University of California Los Angeles,Zili Liu,2.45,2.2,6.743421189751176,0,Tier 6
+1367,Georgia Institute of Technology,Lily Cheung,7.511111111111112,0.9,11.191099126368353,1,Tier 5
+1368,University of Pittsburgh,Tamer S Ibrahim,3.560714285714286,2.8,13.695548810140247,1,Tier 5
+1369,University of Washington,Paul Yager,6.763636363636362,2.2,23.996505046109732,2,Tier 4
+1370,Duke University,Jennifer M Groh,4.277777777777778,1.8,11.073764419193667,1,Tier 5
+1371,University of California San Diego,Robert Weinreb,4.302617801047122,19.1,118.35846642224706,4,Tier 2
+1372,Shanghai Jiao Tong University,Shanbao Tong,3.6,6.7,33.22407730888426,3,Tier 3
+1373,University of Sydney,Zufu Lu,7.203571428571428,2.8,33.044019131229234,3,Tier 3
+1374,University of Washington,Suzie H Pun,8.984705882352939,8.5,132.2204883350922,5,Tier 1
+1375,University of California Los Angeles,Dan Ruan,3.481372549019607,10.2,48.50519975408754,3,Tier 3
+1376,University of California San Francisco,Su Guo,6.105882352941177,3.4,32.63356026952785,2,Tier 4
+1377,Peking University,Shuai Na,15.4,0.3,9.152129481683138,1,Tier 5
+1378,University of British Columbia,Markcembrowski,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1379,Rice University,Kevin Mchugh,14.45,2.0,56.34622232527145,4,Tier 2
+1380,University of California San Diego,Sheng Zhong,14.055813953488375,4.3,117.02764232497789,4,Tier 2
+1381,Georgia Institute of Technology,John Oshinski,3.252542372881356,5.9,25.770967040803907,2,Tier 4
+1382,University of California San Diego,Shu Chien,10.829213483146068,8.9,174.83812919326462,5,Tier 1
+1383,University of California San Diego,Francisco Contijoch,3.8848484848484843,3.3,17.998302488372836,2,Tier 4
+1384,University of Pittsburgh,Sun Mingui,2.92156862745098,5.1,19.48006005775673,2,Tier 4
+1385,Stanford University,Bo Wang,11.266666666666666,6.3,130.04236417962213,5,Tier 1
+1386,University of British Columbia,Jamespiret,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1387,Imperial College London,Chris Rowlands,2.4,0.1,0.29871982909846956,0,Tier 6
+1388,Northwestern University,Matthew Tresch,4.363157894736841,1.9,11.98132263150522,1,Tier 5
+1389,Shanghai Jiao Tong University,Zhifeng Shao,6.712307692307693,6.5,70.22684811483485,4,Tier 2
+1390,University of Toronto,Ren-Ke Li ,7.895604395604396,9.1,120.44065744305267,5,Tier 1
+1391,Georgia Institute of Technology,Erin Buckley,4.4676470588235295,3.4,22.083987267082026,2,Tier 4
+1392,University of Michigan,Brian Love,18.78333333333333,0.6,23.46211085639535,2,Tier 4
+1393,University of California San Diego,Bruce Wheeler,3.4799999999999995,0.5,2.3765341496023864,0,Tier 6
+1394,University of Pennsylvania,Jason A Burdick,10.277380952380952,16.8,309.14508792448265,5,Tier 1
+1395,Duke University,Wuwei Feng,5.754,5.0,44.55868096450772,3,Tier 3
+1396,University of California San Diego,Bogdan Bintu,33.9,0.2,16.359861339351237,1,Tier 5
+1397,Georgia Institute of Technology,Boris Prilutsky,2.292105263157895,3.8,10.717087945847972,1,Tier 5
+1398,Georgia Institute of Technology,Suman Das,7.3500000000000005,0.6,7.261233861456573,0,Tier 6
+1399,University College London,Darren Nesbeth,4.362962962962963,2.7,17.02513922235614,1,Tier 5
+1400,University of California Los Angeles,Tanuj Gulati,6.199999999999999,0.6,5.870037318395977,0,Tier 6
+1401,Georgia Institute of Technology,Shuyi Nie,5.683333333333334,1.2,10.530164527005393,1,Tier 5
+1402,University of Tokyo,Yasuyuki Sakai,4.096330275229358,10.9,63.521420952289354,4,Tier 2
+1403,Georgia Institute of Technology,Gabriel A Kwong,16.265217391304343,2.3,75.12814681633131,4,Tier 2
+1404,Georgia Institute of Technology,Philip Santangelo,13.663333333333332,6.0,157.6148307182046,5,Tier 1
+1405,Johns Hopkins University,Patrick Cahan,11.842857142857142,4.2,92.27199352007776,4,Tier 2
+1406,University of Michigan,James Grotberg,4.265217391304348,2.3,14.097895927342796,1,Tier 5
+1407,University of Cambridge,Vikram Deshpande,14.683116883116885,7.7,221.3163734390522,5,Tier 1
+1408,Shanghai Jiao Tong University,Xiang Ji,4.028124999999999,3.2,18.261172212223496,2,Tier 4
+1409,Shanghai Jiao Tong University,Xiaoxia Fang,6.414285714285713,0.7,7.1455130422477025,0,Tier 6
+1410,Georgia Institute of Technology,May D Wang,4.750847457627118,5.9,41.38241858376759,3,Tier 3
+1411,Carnegie Mellon University,Kenji Shimada,2.6176470588235294,1.7,5.660278282110862,0,Tier 6
+1412,University of California Los Angeles,Paul Weiss,13.088288288288288,11.1,276.3290502052416,5,Tier 1
+1413,University of California San Francisco,Maria Correia,4.104166666666667,2.4,14.019821288690808,1,Tier 5
+1414,Georgia Institute of Technology,Garrett Stanley,5.187096774193548,3.1,24.267058219316493,2,Tier 4
+1415,University of Washington,Robbie Wong,9.125,0.4,6.343823373629142,0,Tier 6
+1416,University of British Columbia,Machielvan D Loos,20.11428571428571,0.7,29.818020466809266,2,Tier 4
+1417,Northwestern University,Matthew Glucksberg,3.3428571428571425,0.7,3.16406438106664,0,Tier 6
+1418,University of California Los Angeles,Weizhe Hong,15.123529411764707,1.7,50.700864606364725,3,Tier 3
+1419,University of Michigan,Xudong Fan,6.97936507936508,6.3,71.4678051478097,4,Tier 2
+1420,Imperial College London,Rylie Green,6.447619047619048,2.1,21.575879440885153,2,Tier 4
+1421,University of Pittsburgh,Duncan Andrew,4.9772727272727275,2.2,16.355430456944777,1,Tier 5
+1422,Johns Hopkins University,Lewis Romer,6.470833333333334,2.4,24.769173156795173,2,Tier 4
+1423,University of Pennsylvania,Vivek Shenoy,11.736734693877553,9.8,212.89241334541273,5,Tier 1
+1424,University of California San Francisco,Adam Abate,9.613186813186815,9.1,154.0372014934466,5,Tier 1
+1425,University of California Los Angeles,Hsian-rong Tseng,7.913846153846155,6.5,86.27756125825323,4,Tier 2
+1426,University of Hong Kong,Ka-Wai Kwok,6.036363636363637,2.2,20.81574330281613,2,Tier 4
+1427,Georgia Institute of Technology,Anant Madabhushi,8.292307692307691,3.9,54.87933847962574,3,Tier 3
+1428,National University of Singapore,Chen-Hua Yeow,4.318181818181818,3.3,20.541875629486693,2,Tier 4
+1429,University of Oxford,Bergmann Jeroen,3.8959999999999995,2.5,13.684019800545537,1,Tier 5
+1430,University of Cambridge,Rich Turner,23.92105263157895,3.8,201.02911228223078,5,Tier 1
+1431,Stanford University,Jennifer R Cochran,11.875806451612902,6.2,136.68491222613284,5,Tier 1
+1432,University of Michigan,C Alberto Figueroa,3.9109375,6.4,35.19906022918717,3,Tier 3
+1433,University of Pittsburgh,Sundd Prithu,9.335897435897435,3.9,63.644326774889535,4,Tier 2
+1434,University of Pittsburgh,Kulkarni Mangesh,3.5,0.1,0.47872383995358314,0,Tier 6
+1435,University of British Columbia,Sidfels,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1436,University of British Columbia,Kurthaas,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1437,University of Pennsylvania,Sydney Shaffer,16.099999999999998,1.9,61.27537051549606,4,Tier 2
+1438,Duke University,Ken Gall,6.447916666666667,4.8,49.31914140243192,3,Tier 3
+1439,University of Pittsburgh,Alavi Amir,10.069999999999999,2.0,35.87705892150037,3,Tier 3
+1440,University of Washington,Azadeh Yazdan-shahmorad,4.43448275862069,2.9,18.661721816072824,2,Tier 4
+1441,Johns Hopkins University,Kalina Hristova,6.116666666666666,7.8,75.03054827836327,4,Tier 2
+1442,University of Pittsburgh,Rose Jason,7.540000000000001,1.5,18.741547216205056,2,Tier 4
+1443,University of Pittsburgh,Nishikawa Robert,3.1607142857142856,2.8,11.800205770287196,1,Tier 5
+1444,Johns Hopkins University,Stephanie Hicks,8.857999999999999,5.0,76.40813498080507,4,Tier 2
+1445,Duke University,Pengfei Song,5.6000000000000005,0.3,2.5843795061732213,0,Tier 6
+1446,Columbia University,Henry Hess,14.1,2.8,76.50360882564887,4,Tier 2
+1447,Columbia University,Nandan Nerurkar,12.718181818181819,1.1,26.41946214186995,2,Tier 4
+1448,Duke University,George A Truskey,6.74313725490196,5.1,55.417595167106576,3,Tier 3
+1449,Duke University,Kathryn R Nightingale,2.740625,3.2,11.283971929831765,1,Tier 5
+1450,University of Pennsylvania,Paul Ducheyne,7.850000000000001,0.6,7.8838494303336475,1,Tier 5
+1451,Shanghai Jiao Tong University,Liming Li,7.343396226415095,10.6,128.13774230288055,5,Tier 1
+1452,Imperial College London,Tom Ellis,12.230769230769235,5.2,118.93798008973548,5,Tier 1
+1453,Johns Hopkins University,Sharon Gerecht,8.095238095238095,8.4,114.70076629863453,4,Tier 2
+1454,Carnegie Mellon University,Douglas J Weber,9.105,2.0,31.632238999836577,2,Tier 4
+1455,University of Pennsylvania,Robert Mauck,7.261818181818181,16.5,196.69379425185718,5,Tier 1
+1456,University of Cambridge,Stuart Scott,11.818181818181818,1.1,24.103550465745037,2,Tier 4
+1457,University of British Columbia,Cherylwellington,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1458,Shanghai Jiao Tong University,Hui Yu,5.018947368421052,19.0,142.73135961149384,5,Tier 1
+1459,Carnegie Mellon University,Sossena Wood,3.25,0.4,1.7454772492837227,0,Tier 6
+1460,University of Sydney,Alistair Mcewan,3.6813953488372104,4.3,21.92724300787022,2,Tier 4
+1461,University of Cambridge,Mark E Welland,6.173333333333334,1.5,14.596237409101835,1,Tier 5
+1462,University of California Berkeley,Lisa Pruitt,3.038461538461538,1.3,5.215074674493442,0,Tier 6
+1463,Carnegie Mellon University,Carmel Majidi,9.302739726027395,7.3,118.60048036713555,4,Tier 2
+1464,University of California San Francisco,Akinyemi Oni-orisan,5.887499999999999,2.4,22.01024576489343,2,Tier 4
+1465,University of Pittsburgh,Laymon Charles,6.916071428571429,5.6,62.80762400587566,4,Tier 2
+1466,Georgia Institute of Technology,Xiangyang Tang,4.1,1.0,5.834179956544293,0,Tier 6
+1467,University of Pittsburgh,Collinger Jennifer,4.858695652173912,4.6,33.18237380495229,3,Tier 3
+1468,University of California San Francisco,Ryan Hernandez,11.821428571428571,4.2,92.06334353285436,4,Tier 2
+1469,University of Cambridge,Daniel Wolpert,7.183018867924529,5.3,62.32461847518178,4,Tier 2
+1470,National University of Singapore,Li Jun,10.49765625,12.8,241.86632400108508,5,Tier 1
+1471,Massachusetts Institute of Technology,Kelly A Metcalf Pate,3.1857142857142855,0.7,2.979247398627106,0,Tier 6
+1472,Massachusetts Institute of Technology,Douglas A Lauffenburger,12.113609467455621,16.9,381.92550799128435,5,Tier 1
+1473,University of Hong Kong,Wei-Ning Lee,3.4124999999999996,1.6,7.420972252165446,1,Tier 5
+1474,Cornell University,Rebecca M Williams,6.466666666666668,1.2,12.374619104483996,1,Tier 5
+1475,University of Tokyo,Naohiro Seo,8.011111111111113,0.9,12.129934438492365,1,Tier 5
+1476,McGill University,Amine Kamen,5.152173913043478,6.9,53.55958874582077,3,Tier 3
+1477,Georgia Institute of Technology,Younan Xia,10.99578947368421,19.0,380.44039263495097,5,Tier 1
+1478,Duke University,Jessilyn Dunn,8.877500000000001,4.0,61.294759102959844,4,Tier 2
+1479,Rice University,Caleb Bashor,33.525000000000006,0.8,64.53584043563393,4,Tier 2
+1480,University of Pittsburgh,Schuman Joel,4.03030303030303,9.9,56.5336884143759,4,Tier 2
+1481,Shanghai Jiao Tong University,Daniel M Czajkowsky,6.070212765957447,4.7,44.781924156535084,3,Tier 3
+1482,University of Pittsburgh,Gronenborn Angela,6.745348837209303,8.6,93.48759101151055,4,Tier 2
+1483,Northwestern University,Evan Scott,8.885185185185186,5.4,82.83747729901029,4,Tier 2
+1484,Rice University,Mingjie Dai,12.1,0.1,2.256740967518819,0,Tier 6
+1485,University of Michigan,Karl Jepsen,5.246511627906977,4.3,34.14339915601112,3,Tier 3
+1486,University of Michigan,Margaret Westfall,4.536363636363636,1.1,7.282449986887483,0,Tier 6
+1487,Shanghai Jiao Tong University,Yi Shen,5.891666666666666,19.2,176.23774950584675,5,Tier 1
+1488,University of Toronto,Paul Yoo,2.9333333333333336,2.1,8.061596676730119,1,Tier 5
+1489,Massachusetts Institute of Technology,Michael B Yaffe,10.953684210526317,9.5,189.31013955072336,5,Tier 1
+1490,University of British Columbia,Timkieffer,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1491,University of California Los Angeles,Kalyanam Shivkumar,6.420138888888889,14.4,147.16109861374147,5,Tier 1
+1492,University of California San Diego,Padmini Rangamani,6.354878048780489,8.2,82.73663971143247,4,Tier 2
+1493,Georgia Institute of Technology,Jun Ueda,3.2999999999999994,0.4,1.7791084245170894,0,Tier 6
+1494,University of Washington,Joan Sanders,1.9297872340425533,4.7,10.690170805573619,1,Tier 5
+1495,Shanghai Jiao Tong University,Feng Shen,5.5031914893617015,18.8,158.4623638800405,5,Tier 1
+1496,University of California San Diego,Robert Signer,14.818749999999998,1.6,46.51943665247937,3,Tier 3
+1497,University of Michigan,Jacqueline Jeruss,5.656521739130435,4.6,40.12773597753814,3,Tier 3
+1498,Imperial College London,James Choi,6.731818181818183,2.2,23.855479640381677,2,Tier 4
+1499,Nanyang Technological University,Gunawan Poernomo,4.35,0.4,2.5128789163747225,0,Tier 6
+1500,University of California Berkeley,Gerard Marriott,6.7250000000000005,1.2,12.99560812253574,1,Tier 5
+1501,University of Tokyo,Ryo Miyake,4.51,1.0,6.572349913887015,0,Tier 6
+1502,Imperial College London,Molly Stevens,11.225252525252525,19.8,406.82753563628063,5,Tier 1
+1503,Georgia Institute of Technology,Martha Grover,8.764705882352942,3.4,51.27440162553494,3,Tier 3
+1504,University of British Columbia,Calvinkuo,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1505,Georgia Institute of Technology,Jennifer Rieser,6.2666666666666675,0.9,8.923562147824931,1,Tier 5
+1506,University of Pittsburgh,Benam Kambez,10.19090909090909,1.1,20.0289805335221,2,Tier 4
+1507,University of Pennsylvania,Katherine E Reuther,4.137499999999999,0.8,4.720766236033605,0,Tier 6
+1508,University of California Berkeley,Aaron Streets,9.504545454545456,2.2,36.71443682581297,3,Tier 3
+1509,Johns Hopkins University,Henry Halperin,7.392727272727272,5.5,67.04533197139314,4,Tier 2
+1510,University of Cambridge,Sebastian Pattinson,9.225,0.4,6.430843782497906,0,Tier 6
+1511,Carnegie Mellon University,Zakia Hammal,4.1899999999999995,2.0,11.989402060877635,1,Tier 5
+1512,University of British Columbia,Brianchoi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1513,Stanford University,Paul Nuyujukian,15.937500000000002,1.6,50.95012218972596,3,Tier 3
+1514,University of British Columbia,Josefpenninger,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1515,University of California San Francisco,Sanjay Kumar,9.223333333333333,3.0,48.22043626415333,3,Tier 3
+1516,Stanford University,Michael Fischbach,22.473684210526315,5.7,278.91232006178205,5,Tier 1
+1517,University of Michigan,Vikas Gulani,5.046153846153846,2.6,19.664094688570156,2,Tier 4
+1518,ETH Zurich,Kozerke Sebastian,5.05679012345679,16.2,122.84533695891572,5,Tier 1
+1519,University of British Columbia,Bemabraham,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1520,University of Washington,Ayokunle Olanrewaju,10.139999999999999,1.0,18.094535700707823,2,Tier 4
+1521,University of Pennsylvania,Kenneth R Foster,1.869230769230769,1.3,2.8413321399890337,0,Tier 6
+1522,University of California San Diego,Jiang Du,3.5644808743169403,18.3,89.62856655249922,4,Tier 2
+1523,Imperial College London,Kim Parker,5.721276595744681,4.7,41.58761724894221,3,Tier 3
+1524,Nanyang Technological University,Mary B Chan-Park,7.8613333333333335,7.5,98.72599688497284,4,Tier 2
+1525,University of Cambridge,Luigi Occhipinti,8.37857142857143,2.8,39.91356335083519,3,Tier 3
+1526,University of Toronto,Dinesh Kumbhare,3.767289719626168,10.7,56.15908888590515,4,Tier 2
+1527,Duke University,Fan Yuan,5.123529411764705,3.4,26.208397020248356,2,Tier 4
+1528,Georgia Institute of Technology,T Nichols,7.567500000000001,8.0,100.41082237940797,4,Tier 2
+1529,Massachusetts Institute of Technology,Jongyoon Han,8.01559633027523,10.9,147.0098028454409,5,Tier 1
+1530,University of Pittsburgh,Wipf Peter,4.3741176470588226,17.0,107.53801011663616,4,Tier 2
+1531,University College London,Brenda Parker,5.566666666666666,0.6,5.130329641277718,0,Tier 6
+1532,University of California San Diego,James Perry,8.566666666666668,5.1,74.74549319680276,4,Tier 2
+1533,Duke University,Sonia Bansal,5.966666666666666,2.4,22.380818332798572,2,Tier 4
+1534,University of California San Francisco,Arun Wiita,10.594230769230771,5.2,99.38941389681314,4,Tier 2
+1535,University of Pittsburgh,Taylor D Lansing,5.842857142857143,4.2,38.15319176444241,3,Tier 3
+1536,University of Michigan,Xueding Wang,5.003448275862069,11.6,86.80500319424978,4,Tier 2
+1537,University of British Columbia,Muchiao,8.1,0.5,6.832447101062741,0,Tier 6
+1538,University of British Columbia,Alibashashati,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1539,University of Pittsburgh,Chan Kevin,3.784375,3.2,16.890506938749223,1,Tier 5
+1540,University of Toronto,Michael Sefton,8.41818181818182,4.4,63.092182863984796,4,Tier 2
+1541,University of California Los Angeles,Irene Chen,11.541463414634148,4.1,87.2187696001112,4,Tier 2
+1542,Columbia University,Kaveri Thakoor,4.871428571428572,0.7,5.066038240969354,0,Tier 6
+1543,Rice University,Matthew Wettergreen,2.5,0.3,0.9430750722622016,0,Tier 6
+1544,University of California San Diego,Kun Zhang,13.969841269841272,6.3,170.14919114044736,5,Tier 1
+1545,University of Pennsylvania,David Issadore,7.668965517241379,5.8,74.01998194517743,4,Tier 2
+1546,Shanghai Jiao Tong University,Tuan Liu,5.133333333333334,0.3,2.318038193295621,0,Tier 6
+1547,University of Pittsburgh,Maiti Spandan,3.8714285714285728,2.8,15.20537358520167,1,Tier 5
+1548,University of California Los Angeles,Song Li,10.129473684210526,9.5,171.67505923681625,5,Tier 1
+1549,University of Pittsburgh,Kim Kang,7.440425531914895,4.7,57.755729792427914,4,Tier 2
+1550,University of Toronto,Alex Mihailidis,3.5203125,6.4,30.860751404745606,2,Tier 4
+1551,University of California Los Angeles,Alex Bui,5.6161290322580655,6.2,53.60286911517139,3,Tier 3
+1552,University of Sydney,Daniele Vigolo,4.499999999999999,0.6,3.9324833508293184,0,Tier 6
+1553,University of Michigan,Omer Berenfeld,6.688888888888889,3.6,38.72531668978804,3,Tier 3
+1554,University College London,Paul Dalby,5.165384615384615,5.2,40.49316046614708,3,Tier 3
+1555,Duke University,Eric S Richardson,3.4,0.1,0.461688063363795,0,Tier 6
+1556,University of California Los Angeles,Jun Chen,11.179831932773109,11.9,243.27140025444706,5,Tier 1
+1557,Northwestern University,Zhe Ji,11.923529411764704,1.7,37.66647297650556,3,Tier 3
+1558,University of California Los Angeles,Jeffrey Hsu,5.1872727272727275,5.5,43.05628371791308,3,Tier 3
+1559,Cornell University,Peter Doerschuk,14.155555555555557,0.9,24.711616620467108,2,Tier 4
+1560,Rice University,Michael Diehl,6.493333333333334,1.5,15.54804830850457,1,Tier 5
+1561,Georgia Institute of Technology,Saad Bhamla,5.548837209302325,4.3,36.620218838696644,3,Tier 3
+1562,University of British Columbia,Janehill,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1563,Carnegie Mellon University,Axel Moore,7.7,0.6,7.695992873085188,1,Tier 5
+1564,University of Sydney,Marcela Bilek,8.11063829787234,4.7,64.33045905283619,4,Tier 2
+1565,University of Pittsburgh,Capogrosso Marco,16.438095238095237,2.1,69.50781877388245,4,Tier 2
+1566,Shanghai Jiao Tong University,Dahong Qian,5.1000000000000005,2.9,22.225969703578325,2,Tier 4
+1567,University of British Columbia,Sabrinaleslie,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1568,Carnegie Mellon University,Marcel Just,4.632000000000001,2.5,16.988330330819924,1,Tier 5
+1569,University of Michigan,Kenneth Kozloff,5.941304347826088,4.6,42.66876586709256,3,Tier 3
+1570,Rice University,Jeffrey Tabor,8.44375,3.2,46.05949651265203,3,Tier 3
+1571,University of Pittsburgh,Pinsky Michael,6.215094339622643,10.6,104.01968201263256,4,Tier 2
+1572,Columbia University,Christine P Hendon,3.187878787878788,3.3,14.05695290447908,1,Tier 5
+1573,University of Toronto,José Zariffa,2.922222222222222,5.4,20.631713986767604,2,Tier 4
+1574,University of Pittsburgh,Modo Michel,5.452500000000001,4.0,33.32764174153417,3,Tier 3
+1575,University of Pittsburgh,Badylak Stephen,6.440689655172414,14.5,148.77620233217587,5,Tier 1
+1576,Georgia Institute of Technology,Cheng Zhu,9.398591549295775,7.1,116.83872763253515,4,Tier 2
+1577,University College London,Michael Hoare,4.8,0.2,1.4209589846251878,0,Tier 6
+1578,University of British Columbia,Manumadhav,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1579,University of Sydney,Orsolya Kekesi,4.285714285714286,0.7,4.316453417128877,0,Tier 6
+1580,Northwestern University,Wendy Murray,2.629166666666667,2.4,8.034963136817893,1,Tier 5
+1581,National University of Singapore,Kim Sangho,4.948648648648648,3.7,27.309264222795647,2,Tier 4
+1582,Columbia University,Kam W Leong,11.29102564102564,15.6,322.88014561649925,5,Tier 1
+1583,Columbia University,Qi Wang,6.527586206896553,8.7,90.77369681133312,4,Tier 2
+1584,University of Pittsburgh,Lund Laura,8.775,0.4,6.041139963491318,0,Tier 6
+1585,Columbia University,Sunil K Agrawal,3.214705882352941,3.4,14.63542953896064,1,Tier 5
+1586,Johns Hopkins University,Michael Miller,5.085915492957745,14.2,108.45504753087357,4,Tier 2
+1587,University of British Columbia,Lyndiawu,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1588,University of California San Diego,Itay Budin,4.949999999999998,1.4,10.336762414647831,1,Tier 5
+1589,University of Pennsylvania,Jennifer E Phillips-Cremins,19.03333333333333,3.6,143.11859617914578,5,Tier 1
+1590,Duke University,Timothy Dunn,6.486666666666666,1.5,15.528097009210374,1,Tier 5
+1591,University of Michigan,Brendon Baker,8.966666666666667,4.8,74.47834524927305,4,Tier 2
+1592,University of California San Francisco,Christoph Schreiner,4.06,2.5,14.40779599882511,1,Tier 5
+1593,Carnegie Mellon University,Alison Barth,9.418181818181816,3.3,54.446852357023076,3,Tier 3
+1594,Georgia Institute of Technology,Eva Dyer,7.128571428571428,2.1,24.460899694434314,2,Tier 4
+1595,Massachusetts Institute of Technology,Alan Jasanoff,13.21219512195122,4.1,103.27675417969346,4,Tier 2
+1596,University of Toronto,Eric Diller,6.722222222222222,0.9,9.741673975626343,1,Tier 5
+1597,Johns Hopkins University,Alain Labrique,5.067857142857143,16.8,127.74377231552617,5,Tier 1
+1598,University of Pittsburgh,Mallampalli Rama,6.644444444444445,8.1,86.40887722604494,4,Tier 2
+1599,University of British Columbia,Nancyford,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1600,Johns Hopkins University,Jamie Spangler,9.685714285714287,4.9,83.7260586088565,4,Tier 2
+1601,University of Pittsburgh,Bell Kevin,2.9903225806451617,3.1,12.190155461356488,1,Tier 5
+1602,Georgia Institute of Technology,David Hu,5.072093023255815,4.3,32.73048706133815,2,Tier 4
+1603,Stanford University,Fan Yang,10.785714285714288,12.6,246.28144022847238,5,Tier 1
+1604,University of Pittsburgh,Smithgall Thomas,5.702222222222222,4.5,39.65223639084673,3,Tier 3
+1605,Duke University,Nimmi Ramanujam,4.358620689655173,2.9,18.26351404567486,2,Tier 4
+1606,Duke University,Daniel Reker,28.007142857142863,1.4,90.20155904438236,4,Tier 2
+1607,Imperial College London,Claire Stanley,7.909999999999999,1.0,13.26540776752224,1,Tier 5
+1608,University of Michigan,Geeta Mehta,5.526470588235294,3.4,28.809700659309748,2,Tier 4
+1609,Johns Hopkins University,Scott Wilson,14.538461538461538,1.3,36.90552749590668,3,Tier 3
+1610,University of Tokyo,Horacio Cabral,9.206086956521736,11.5,184.41306298605807,5,Tier 1
+1611,Johns Hopkins University,Aleksander Popel,5.172727272727272,11.0,85.81084166265144,4,Tier 2
+1612,Johns Hopkins University,Sashank Reddy,8.002222222222223,4.5,60.565565038542914,4,Tier 2
+1613,Johns Hopkins University,Steven Salzberg,12.309999999999999,11.0,253.63854391070925,5,Tier 1
+1614,Georgia Institute of Technology,Ankur Singh,14.54090909090909,2.2,62.468651340684914,4,Tier 2
+1615,University of Sydney,Antonio Tricoli,8.925925925925927,2.7,41.65626832830451,3,Tier 3
+1616,University of California San Diego,Vira Kravets,5.2,0.1,0.7852431915614512,0,Tier 6
+1617,University of Cambridge,Glenn Vinnicombe,17.25,0.4,14.06197642782709,1,Tier 5
+1618,Duke University,Lingchong You,12.069135802469136,8.1,182.21336832833575,5,Tier 1
+1619,Imperial College London,Richard I Kitney,7.7666666666666675,0.9,11.66905917828906,1,Tier 5
+1620,Massachusetts Institute of Technology,Linda G Griffith,8.413432835820894,6.7,96.00444533969858,4,Tier 2
+1621,Shanghai Jiao Tong University,Yao Chen,7.559375,19.2,240.6625927750749,5,Tier 1
+1622,University of Pittsburgh,Gerlach Jörg,4.854838709677419,3.1,22.33984736201965,2,Tier 4
+1623,Johns Hopkins University,Leyla Isik,7.036363636363637,1.1,12.606021095654983,1,Tier 5
+1624,University of British Columbia,Johnmadden,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1625,University of British Columbia,Annablakney,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1626,Rice University,Rebecca Richards-kortum,4.81203007518797,13.3,94.78989828353245,4,Tier 2
+1627,Columbia University,Clark T Hung,4.450000000000001,5.4,34.90147436714202,3,Tier 3
+1628,Johns Hopkins University,Elana Fertig,9.68740740740741,13.5,230.72424002855857,5,Tier 1
+1629,University of Pennsylvania,Russell J Composto,5.219047619047619,4.2,33.131291431431244,3,Tier 3
+1630,Shanghai Jiao Tong University,Xiaohong Sui,4.057142857142858,1.4,8.061268947333978,1,Tier 5
+1631,University of Michigan,Albert Shih,2.4807017543859646,5.7,17.74569642997781,2,Tier 4
+1632,Cornell University,Suélia De Siqueira Rodrigues Fleury Rosa,9.35,0.2,3.269975579019907,0,Tier 6
+1633,University of California San Diego,Elizabeth Villa,12.316666666666668,3.6,83.06517526993059,4,Tier 2
+1634,Shanghai Jiao Tong University,Yifei Yao,5.114285714285715,2.8,21.53472175052323,2,Tier 4
+1635,Carnegie Mellon University,Dennis Trumble,3.15,0.4,1.678603729024419,0,Tier 6
+1636,University of California Los Angeles,Yang Yang,12.074576271186439,17.7,398.39432214587885,5,Tier 1
+1637,University of Michigan,Zhen Xu,3.8266666666666667,7.5,40.14089533080701,3,Tier 3
+1638,University of California San Francisco,Kyle Cromer,10.557142857142859,0.7,13.320822396493684,1,Tier 5
+1639,Imperial College London,Darryl Overby,4.185185185185186,5.4,32.324893967622344,2,Tier 4
+1640,University of Pittsburgh,Sadagopan Srivatsun,4.333333333333333,1.2,7.502549475049412,1,Tier 5
+1641,Duke University,David F Katz,6.086363636363637,2.2,21.031490445194557,2,Tier 4
+1642,Johns Hopkins University,Elias Zerhouni,45.5,0.1,11.817190749133472,1,Tier 5
+1643,University of California San Diego,Todd Coleman,4.95625,3.2,23.664181310441162,2,Tier 4
+1644,Columbia University,Santiago Correa,6.1,0.1,0.9586548941103376,0,Tier 6
+1645,University of Pennsylvania,Rebecca G Wells,8.260606060606062,6.6,92.42912145708385,4,Tier 2
+1646,University of California San Diego,Gurol Suel,21.331578947368417,1.9,87.1028478157831,4,Tier 2
+1647,Stanford University,Possu Huang,14.962962962962964,2.7,79.4576589497875,4,Tier 2
+1648,University of Pittsburgh,Pu Jiantao,4.107692307692307,5.2,30.408900988132572,2,Tier 4
+1649,University of California San Diego,Drew Hall,6.2481481481481485,2.7,26.67183600601415,2,Tier 4
+1650,Georgia Institute of Technology,Ahmet Coskun,8.345454545454546,2.2,31.205789590521267,2,Tier 4
+1651,University of Pittsburgh,Ebrahimkhani Mo,13.84,1.5,40.04159528135679,3,Tier 3
+1652,Carnegie Mellon University,Kathryn A Whitehead,12.055263157894736,3.8,85.3600116257537,4,Tier 2
+1653,Tsinghua University,Liao Hongen,4.428169014084506,7.1,45.607743396894776,3,Tier 3
+1654,University of Michigan,Jonathan Fay,1.9000000000000001,0.4,0.8922817133174542,0,Tier 6
+1655,University of California Los Angeles,Jason Moore,9.793617021276594,4.7,81.4285598929246,4,Tier 2
+1656,Northwestern University,Neha Kamat,8.134615384615383,2.6,35.71861639831654,3,Tier 3
+1657,Johns Hopkins University,Artin Shoukas,1.2,0.1,0.12559621672705265,0,Tier 6
+1658,Carnegie Mellon University,Shawn K Kelly,8.3,0.2,2.817588792480933,0,Tier 6
+1659,University of Pittsburgh,Velikokhatnyi Oleg,3.8,0.1,0.5305538810319672,0,Tier 6
+1660,Johns Hopkins University,Reza Shadmehr,5.984615384615385,5.2,48.674180635438425,3,Tier 3
+1661,University of Pittsburgh,Yun Minhee,7.366666666666666,0.6,7.281821420608248,0,Tier 6
+1662,Duke University,Bastiaan Driehuys,4.342857142857143,4.9,30.719596680787127,2,Tier 4
+1663,Tsinghua University,Zhao Xihai,3.562745098039216,15.3,74.88974810673763,4,Tier 2
+1664,National University of Singapore,Raymond Najjar,6.364705882352941,5.1,51.55764838163753,3,Tier 3
+1665,University of California Los Angeles,Jingwen Yao,4.783783783783783,3.7,26.17677571479078,2,Tier 4
+1666,Imperial College London,Parastoo Hashemi,5.180952380952381,2.1,16.41463747296408,1,Tier 5
+1667,University of Toronto,Jan Andrysek,1.4121212121212119,3.3,5.079885353128005,0,Tier 6
+1668,Johns Hopkins University,Alexis Battle,17.403571428571432,5.6,199.06091777143206,5,Tier 1
+1669,University of British Columbia,Petercripton,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1670,Duke University,Marc A Sommer,3.6285714285714286,2.8,14.022570336928084,1,Tier 5
+1671,Shanghai Jiao Tong University,Hao He,6.544927536231885,6.9,72.23208380331492,4,Tier 2
+1672,University of California Los Angeles,Jaimie Stewart,11.65,0.4,8.609291208350397,1,Tier 5
+1673,Imperial College London,Spyros Masouros,3.890625,3.2,17.485344557063417,2,Tier 4
+1674,University of California Los Angeles,Cun Y Wang,28.02,0.5,32.233329522869795,2,Tier 4
+1675,University of Tokyo,Satoru Nagatoishi,5.3969696969696965,9.9,81.43716922531836,4,Tier 2
+1676,University of Michigan,Claudia Loebel,10.46875,1.6,30.129263703662794,2,Tier 4
+1677,Carnegie Mellon University,Tai Sing Lee,4.7,1.3,8.996336153204236,1,Tier 5
+1678,Shanghai Jiao Tong University,Jun Fang,5.362068965517241,5.8,47.325312227623066,3,Tier 3
+1679,Johns Hopkins University,Denis Wirtz,9.737999999999998,10.0,172.02327547627755,5,Tier 1
+1680,Harvard University,Jia Liu,13.297142857142857,7.0,177.74441288902364,5,Tier 1
+1681,Peking University,Jing-wei Xiong,7.494736842105263,3.8,47.12258234822209,3,Tier 3
+1682,Johns Hopkins University,Sridevi Sarma,5.057692307692307,5.2,39.440630565780324,3,Tier 3
+1683,University of British Columbia,Agnes D’entremont,3.227272727272727,1.1,4.758140589211955,0,Tier 6
+1684,Duke University,Josh Huang,20.866666666666664,1.8,80.2765783604083,4,Tier 2
+1685,Georgia Institute of Technology,Pamela Bhatti,2.65,1.2,4.057313709783835,0,Tier 6
+1686,University of California San Diego,Kiana Aran,10.4875,0.8,15.098366186954454,1,Tier 5
+1687,Duke University,Roger C Barr,4.1,0.1,0.5834179956544293,0,Tier 6
+1688,University of California Berkeley,Jay Keasling,8.864285714285714,19.6,299.78559010318565,5,Tier 1
+1689,University of California Los Angeles,Louis Bouchard,7.55,0.2,2.5030163426220025,0,Tier 6
+1690,McGill University,Jasmin Coulombe-huntington,23.314285714285713,0.7,35.86127142907238,3,Tier 3
+1691,University of California San Francisco,Seth Shipman,12.441176470588236,1.7,39.72150859118328,3,Tier 3
+1692,University of Pittsburgh,Brienza David,3.2678571428571432,2.8,12.302315476875291,1,Tier 5
+1693,Johns Hopkins University,Patrick Kanold,5.6499999999999995,4.0,34.8434019640122,3,Tier 3
+1694,University of California Los Angeles,Junyoung Park,13.591666666666667,2.4,62.632844444576115,4,Tier 2
+1695,University of Toronto,Christopher Bouwmeester,3.0749999999999997,0.4,1.628794864930859,0,Tier 6
+1696,University of California San Francisco,Tamara Alliston,5.485999999999999,5.0,41.97974134882996,3,Tier 3
+1697,Georgia Institute of Technology,Pamela Peralta-yahya,7.095238095238094,2.1,24.318008830662503,2,Tier 4
+1698,University of California San Francisco,Tejal Desai,10.095192307692308,10.4,187.14429173531562,5,Tier 1
+1699,University of California Los Angeles,Linda Demer,5.5718749999999995,3.2,27.393762387659503,2,Tier 4
+1700,University of California San Francisco,Matt Jacobson,50.5,0.1,13.462143717970447,1,Tier 5
+1701,Shanghai Jiao Tong University,Jun Zhao,7.47680412371134,19.4,239.85387210822296,5,Tier 1
+1702,Imperial College London,Claire Higgins,5.640000000000001,2.0,17.383165926880903,2,Tier 4
+1703,University of California San Diego,Shanglei Liu,2.1928571428571426,1.4,3.735863162080039,0,Tier 6
+1704,University of Toronto,Milica Radisic,10.463809523809521,10.5,197.60666146246533,5,Tier 1
+1705,Massachusetts Institute of Technology,Scott Manalis,14.694827586206898,5.8,166.87205420251047,5,Tier 1
+1706,Georgia Institute of Technology,Muhannad Bakir,4.24,0.5,3.042126891030418,0,Tier 6
+1707,Georgia Institute of Technology,Woon-Hong Yeo,6.9084337349397575,8.3,92.96138546429921,4,Tier 2
+1708,University of California San Francisco,Andrej Sali,9.658156028368795,14.1,240.06944261579363,5,Tier 1
+1709,University of Pennsylvania,David Eckmann,5.043478260869565,4.6,34.767264628157285,3,Tier 3
+1710,Johns Hopkins University,E. Laurent Younes,5.5,0.9,7.580465426181746,1,Tier 5
+1711,University of British Columbia,Nozomuyachie,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1712,Massachusetts Institute of Technology,Eric Alm,9.716363636363642,11.0,188.7002107141093,5,Tier 1
+1713,University College London,Daniel Bracewell,4.447368421052632,5.7,36.81321444274929,3,Tier 3
+1714,Rice University,Isaac Hilton,20.446666666666665,1.5,65.21828964550276,4,Tier 2
+1715,University of Pittsburgh,Moalli Pamela,5.4256756756756745,7.4,61.27721335573538,4,Tier 2
+1716,University of Toronto,Kevin Truong,3.6545454545454548,2.2,11.116405763829517,1,Tier 5
+1717,University of Pittsburgh,Torres Gelsy,8.871978021978022,18.2,278.67432611465307,5,Tier 1
+1718,Carnegie Mellon University,Eric Yttri,9.284615384615385,1.3,21.06920988884189,2,Tier 4
+1719,University of Pittsburgh,Kim Tae,7.851162790697675,4.3,56.511382694727274,4,Tier 2
+1720,University of Pennsylvania,Konrad P Kording,8.563636363636364,5.5,80.57224442376568,4,Tier 2
+1721,Shanghai Jiao Tong University,Yao Wang,6.7413612565445025,19.1,207.47600081836893,5,Tier 1
+1722,University of California San Diego,Ratneshwar Lal,9.5,0.1,1.6678404656440469,0,Tier 6
+1723,University of Pittsburgh,Osmanbeyoglu Hatice,11.254545454545452,2.2,45.35055749634071,3,Tier 3
+1724,University of California Los Angeles,Jennifer Long,3.0513513513513515,3.7,14.921655063156553,1,Tier 5
+1725,Georgia Institute of Technology,Shihao Yang,4.569999999999999,1.0,6.681827354037954,0,Tier 6
+1726,Columbia University,Stephen Tsang,4.823626373626373,18.2,130.1033455168325,5,Tier 1
+1727,University of British Columbia,Fredamiller,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1728,Tsinghua University,Du Yanan,8.653409090909092,8.8,130.60707896822518,5,Tier 1
+1729,McGill University,Yu Xia,10.861764705882354,3.4,67.04314907692132,4,Tier 2
+1730,University of British Columbia,Carolinatropini,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1731,Stanford University,Zev Bryant,16.73809523809524,2.1,71.09709205733154,4,Tier 2
+1732,University of California Berkeley,Iain Clark,14.40625,1.6,44.90644404987212,3,Tier 3
+1733,University of California San Francisco,Tony Capra,13.824999999999998,1.2,31.98988442331468,2,Tier 4
+1734,University of California San Francisco,Carl C Peck,29.6,0.5,34.5211013742807,3,Tier 3
+1735,Georgia Institute of Technology,Patrick Mcgrath,9.182142857142859,2.8,44.754642050004094,3,Tier 3
+1736,University of California San Diego,Karen Christman,9.3125,5.6,91.10052593159209,4,Tier 2
+1737,University of California Los Angeles,Sotiris Masmanidis,7.999999999999999,2.6,34.98129087455452,3,Tier 3
+1738,Cornell University,Jason A Spector,3.9033333333333333,6.0,32.91893685247048,2,Tier 4
+1739,University of Pittsburgh,Kokai Lauren,4.03225806451613,3.1,17.713202713019992,2,Tier 4
+1740,University of Pittsburgh,Viator John,4.223076923076922,1.3,7.870088072526487,1,Tier 5
+1741,Shanghai Jiao Tong University,Yue Zhou,5.217391304347826,18.4,145.08903278300536,5,Tier 1
+1742,University College London,Suzanne Farid,3.6297297297297293,3.7,18.53721917369011,2,Tier 4
+1743,University of Pennsylvania,Susan S Margulies,4.182692307692308,5.2,31.104501159258984,2,Tier 4
+1744,Georgia Institute of Technology,Jaydev Desai,4.3100000000000005,3.0,18.630213951859314,2,Tier 4
+1745,University of California San Diego,John Shyy,9.212121212121213,6.6,105.92378477652252,4,Tier 2
+1746,Duke University,Tuan Vo-dinh,6.640540540540541,7.4,78.88347067956055,4,Tier 2
+1747,University College London,Michael Thomas,7.781052631578949,9.5,123.45865645996099,5,Tier 1
+1748,University of California Los Angeles,Andrea Kasko,10.005555555555556,1.8,32.03125941675708,2,Tier 4
+1749,University of Tokyo,Masatoshi Yamazaki,8.009090909090908,1.1,14.820802304136642,1,Tier 5
+1750,National University of Singapore,Shao Huilin,16.730434782608693,2.3,77.82369918042791,4,Tier 2
+1751,University of Cambridge,Stephan Hofmann,11.554999999999998,8.0,170.43250382267067,5,Tier 1
+1752,University of California Berkeley,J. Christopher Anderson,8.433333333333335,0.6,8.622840114640034,1,Tier 5
+1753,University of Toronto,Joseph Cafazzo,4.823595505617978,8.9,63.6214567422716,4,Tier 2
+1754,Johns Hopkins University,Joel Bader,9.417647058823531,6.8,112.18555114420178,4,Tier 2
+1755,University of California San Diego,Jin Zhang,11.775,10.8,235.57266779912806,5,Tier 1
+1756,University of Cambridge,Richard Penty,4.159999999999999,1.0,5.941097275568925,0,Tier 6
+1757,Johns Hopkins University,Nitish Thakor,4.366346153846154,10.4,65.64188478964093,4,Tier 2
+1758,University of Cambridge,Rodolphe Sepulchre,2.527272727272728,1.1,3.505159811281075,0,Tier 6
+1759,Massachusetts Institute of Technology,Ed Boyden,11.7,0.1,2.163875786235113,0,Tier 6
+1760,National University of Singapore,Eliza Fong,12.408695652173915,2.3,53.565541791962076,3,Tier 3
+1761,Northwestern University,Igal Szleifer,6.746874999999999,6.4,69.59183754195809,4,Tier 2
+1762,Shanghai Jiao Tong University,Su Zhang,3.851923076923077,5.2,28.060819533057106,2,Tier 4
+1763,University of Pittsburgh,Simon Marc,6.941538461538462,6.5,73.23741796605935,4,Tier 2
+1764,University College London,Duygu Dikicioglu,3.942857142857143,0.7,3.8892140193958884,0,Tier 6
+1765,Johns Hopkins University,Lakshmi Santhanam,5.08,5.0,38.13288333003218,3,Tier 3
+1766,University of California Berkeley,Niren Murthy,10.528571428571427,6.3,119.48196578770045,5,Tier 1
+1767,Columbia University,Helen Lu H,7.6571428571428575,1.4,17.832468797217405,2,Tier 4
+1768,University of Washington,Paul Wiggins,8.432352941176472,3.4,48.855660258645166,3,Tier 3
+1769,University of Pittsburgh,Kellum John,9.309941520467838,17.1,278.0864331239268,5,Tier 1
+1770,Johns Hopkins University,Adam Charles,11.366666666666667,0.9,18.783819866496117,2,Tier 4
+1771,Georgia Institute of Technology,Hang Lu,6.369047619047619,8.4,84.99089566372632,4,Tier 2
+1772,University of California San Francisco,Valerie Weaver,13.706382978723408,9.4,247.90279985260534,5,Tier 1
+1773,Johns Hopkins University,Jane Carlton,10.875,0.4,7.8994448854875134,1,Tier 5
+1774,Johns Hopkins University,Gregory Newby,19.433333333333334,0.6,24.48135070780541,2,Tier 4
+1775,Georgia Institute of Technology,Alper Erturk,4.319999999999999,1.0,6.228087185437282,0,Tier 6
+1776,University of British Columbia,Kellymcnagny,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1777,Georgia Institute of Technology,Michael Davis,8.416176470588237,6.8,97.4770672339087,4,Tier 2
+1778,University of California Los Angeles,Tzung Hsiai,7.334782608695653,9.2,111.05084961826296,4,Tier 2
+1779,Johns Hopkins University,Kasper Hansen,9.403225806451612,6.2,102.09107363532162,4,Tier 2
+1780,Stanford University,Kwabena Boahen,17.85,0.4,14.676002156122784,1,Tier 5
+1781,University of Michigan,William Stacey,4.270212765957446,4.7,28.85092562028055,2,Tier 4
+1782,University of Toronto,Freeman Lan,16.15,0.2,6.4750876854719115,0,Tier 6
+1783,Peking University,Qiang Cheng,6.038028169014085,7.1,67.2012369766651,4,Tier 2
+1784,University of British Columbia,Robynnewell,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1785,University of Tokyo,Fumihito Arai,8.10625,3.2,43.76984111326898,3,Tier 3
+1786,University of California Los Angeles,Tyler Clites,2.9,0.1,0.3784404039441891,0,Tier 6
+1787,Johns Hopkins University,Jeff Coller,21.7,1.0,46.83544676222262,3,Tier 3
+1788,Harvard University,Maurice Smith,9.983333333333333,1.2,21.294905200949955,2,Tier 4
+1789,University of Oxford,Stride Eleanor,5.662222222222222,9.0,78.60970143508335,4,Tier 2
+1790,University of California San Diego,Neil Chi,14.86176470588235,3.4,99.21261427374245,4,Tier 2
+1791,Stanford University,Jan Liphardt,14.966666666666663,1.2,35.325441947604226,3,Tier 3
+1792,Georgia Institute of Technology,James Dahlman,17.377777777777776,4.5,159.6633778070587,5,Tier 1
+1793,Duke University,Cynthia A Toth,4.935555555555557,13.5,99.31247939861981,4,Tier 2
+1794,University of Pittsburgh,Vazquez Alberto,5.969230769230769,3.9,36.38836716897444,3,Tier 3
+1795,University of Pittsburgh,Federspiel William,6.006896551724139,2.9,27.271604427874266,2,Tier 4
+1796,Columbia University,Andrew Laine,5.114705882352942,3.4,26.151990405625398,2,Tier 4
+1797,University of California San Diego,Terrence Sejnowski,7.603773584905661,10.6,133.84197481475556,5,Tier 1
+1798,Columbia University,Krista Durney,5.788888888888889,0.9,8.081398575817945,1,Tier 5
+1799,University of Pittsburgh,Wu Shandong,4.888461538461538,5.2,37.797980520123225,3,Tier 3
+1800,Georgia Institute of Technology,Qiang Zhang,7.5289473684210515,3.8,47.391605655607165,3,Tier 3
+1801,Peking University,Antony K Chen,11.395999999999999,2.5,52.345645464804704,3,Tier 3
+1802,University of California San Diego,Christian Metallo,16.10967741935484,9.3,300.152181246605,5,Tier 1
+1803,Shanghai Jiao Tong University,Zhiyong Zhang,6.130994152046784,17.1,164.97180940154604,5,Tier 1
+1804,University of British Columbia,Carlde Boer,14.685294117647057,6.8,195.48445325970948,5,Tier 1
+1805,University of British Columbia,Nikashakiba,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1806,University of Tokyo,Hiroyuki Noji,6.997468354430381,7.9,89.90902128636644,4,Tier 2
+1807,Johns Hopkins University,Mihaela Pertea,11.52857142857143,3.5,74.35110249710748,4,Tier 2
+1808,Georgia Institute of Technology,Andrew Feola,2.8611111111111116,3.6,13.395869426435363,1,Tier 5
+1809,Johns Hopkins University,Ronald Berger,6.384070796460176,11.3,114.67019779037756,4,Tier 2
+1810,Tsinghua University,Liu Jing,6.4177083333333345,19.2,196.12194805817458,5,Tier 1
+1811,University of British Columbia,Hongshenma,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1812,Georgia Institute of Technology,Bilal Haider,8.52,1.0,14.55624958370605,1,Tier 5
+1813,Georgia Institute of Technology,Randy Trumbower,5.700000000000001,0.7,6.165121069431593,0,Tier 6
+1814,University of Oxford,Cui Zhanfeng,5.554237288135593,5.9,50.30747833267003,3,Tier 3
+1815,University of Washington,Paul Kinahan,5.665454545454546,11.0,96.14708782585895,4,Tier 2
+1816,University of Pittsburgh,Worobey Lynn,2.9738095238095235,4.2,16.401770295458,1,Tier 5
+1817,University of Cambridge,Andrea Ferrari,12.735714285714282,7.0,168.41360580695,5,Tier 1
+1818,University of Pittsburgh,Yeh F Frank,4.6,0.8,5.389361016369318,0,Tier 6
+1819,Carnegie Mellon University,Siyang Zheng,7.685714285714286,1.4,17.9156813831966,2,Tier 4
+1820,Nanyang Technological University,Lee J Min,5.5307692307692315,1.3,11.026184999990052,1,Tier 5
+1821,Columbia University,Paul Sajda,4.4022727272727264,4.4,28.057492582560428,2,Tier 4
+1822,University of Pittsburgh,Furman Joseph,2.874468085106383,4.7,17.5911698449042,2,Tier 4
+1823,University of Tokyo,Hiroyasu Yamahara,5.471428571428571,0.7,5.857657267642553,0,Tier 6
+1824,University of Michigan,Jason R Spence,10.329457364341085,12.9,238.88374260399965,5,Tier 1
+1825,University of California Los Angeles,Joseph Demer,3.6220000000000003,10.0,49.967262566697165,3,Tier 3
+1826,University of British Columbia,Amani Hariri,13.699999999999998,0.3,7.907186161657042,1,Tier 5
+1827,University of California San Francisco,Michael Stryker,7.011428571428572,3.5,39.93247118063091,3,Tier 3
+1828,University of California Los Angeles,Xiaodong Zhong,3.5142857142857142,2.1,10.104518621670598,1,Tier 5
+1829,University of Michigan,Greg Thurber,5.873809523809523,4.2,38.406003244013995,3,Tier 3
+1830,University of Pennsylvania,Claudia Loebel,14.694444444444445,1.8,51.78619104870847,3,Tier 3
+1831,Imperial College London,Armando Del Rio Hernandez,9.051063829787235,4.7,73.78573240245066,4,Tier 2
+1832,University of California San Diego,Vineet Bafna,13.765432098765432,8.1,214.76936323568847,5,Tier 1
+1833,Georgia Institute of Technology,Jeannette Yen,5.442857142857143,0.7,5.819446897351635,0,Tier 6
+1834,University of Pittsburgh,Stuckenholz Carsten,6.720000000000001,0.5,5.409804809371421,0,Tier 6
+1835,University of British Columbia,Meganlevings,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1836,Harvard University,Christin Y Sander,3.7700000000000005,1.0,5.253233290138355,0,Tier 6
+1837,University of Tokyo,Ichiro Sakuma,4.5520000000000005,7.5,49.867096254892125,3,Tier 3
+1838,University of Toronto,Christopher Yip,6.688372093023255,4.3,46.250772216461016,3,Tier 3
+1839,University of Toronto,Craig Simmons,6.9486842105263165,7.6,85.74164497246011,4,Tier 2
+1840,Columbia University,Sachin Jambawalikar,4.396491228070176,5.7,36.28754767360638,3,Tier 3
+1841,University of Hong Kong,Shiming Zhang,6.180000000000001,1.5,14.615943412357545,1,Tier 5
+1842,Cornell University,Mandy Brigitte Esch,2.8,0.1,0.36219924373270446,0,Tier 6
+1843,University of California San Francisco,Rada Savic,7.919999999999999,5.5,73.07505762141648,4,Tier 2
+1844,Peking University,Mengdi Han,12.434042553191489,4.7,109.73958022261861,4,Tier 2
+1845,University of Tokyo,Takanori Ichiki,5.723529411764706,1.7,15.049733862471976,1,Tier 5
+1846,Shanghai Jiao Tong University,Tianqi Huang,2.75,0.2,0.7082651336478835,0,Tier 6
+1847,University of California San Francisco,Victoria Hale,10.466666666666667,0.3,5.647831696573798,0,Tier 6
+1848,University of Tokyo,Ung-il Chung,5.241509433962264,10.6,84.06715107830897,4,Tier 2
+1849,University of Washington,Cole Deforest,9.652083333333334,4.8,81.66154003358629,4,Tier 2
+1850,Imperial College London,Angela Kedgley,2.581818181818182,3.3,10.799931688091121,1,Tier 5
+1851,Columbia University,Elham Azizi,14.32,1.5,41.7849639216093,3,Tier 3
+1852,Carnegie Mellon University,Robert D Tilton,5.957894736842106,3.8,35.3711865690958,3,Tier 3
+1853,Duke University,Cameron R Bass,2.9457142857142857,3.5,13.50691977991788,1,Tier 5
+1854,University of British Columbia,Armanrahmim,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1855,Rice University,Oleg Igoshin,7.925,4.8,63.82492688789664,4,Tier 2
+1856,Peking University,Ying Liu,6.001015228426395,19.7,185.032125306691,5,Tier 1
+1857,Duke University,Allen W Song,4.078787878787878,3.3,19.1283645448326,2,Tier 4
+1858,Harvard University,Conor J Walsh,9.066176470588234,6.8,106.97668183828539,4,Tier 2
+1859,University of California Berkeley,Ian Holmes,5.626666666666668,1.5,12.998859316573801,1,Tier 5
+1860,University of California Los Angeles,Yi Tang,12.732608695652175,9.2,221.2761302663719,5,Tier 1
+1861,University of Washington,Kelly Stevens,10.547619047619046,4.2,79.83481719401567,4,Tier 2
+1862,University of California Los Angeles,Min Lee,8.742574257425744,10.1,151.83452530843266,5,Tier 1
+1863,Imperial College London,Huai-ti Lin,6.666666666666665,0.3,3.2137136757786062,0,Tier 6
+1864,Stanford University,Jin H Lee,6.721212121212121,3.3,35.71276222812843,3,Tier 3
+1865,Johns Hopkins University,John Goutsais,5.504878048780488,16.4,138.28608323358003,5,Tier 1
+1866,University of Sydney,Hala Zreiqat,7.1734375,6.4,75.13445187394038,4,Tier 2
+1867,Carnegie Mellon University,Amir Barati Farimani,5.514814814814815,2.7,22.817992400310033,2,Tier 4
+1868,Carnegie Mellon University,Byron Yu,11.397058823529411,3.4,71.19834593112579,4,Tier 2
+1869,Johns Hopkins University,Katherine Wilson,4.3,1.6,9.907305433845046,1,Tier 5
+1870,University of Pennsylvania,Scott L Diamond,5.993650793650793,6.3,59.08195325159473,4,Tier 2
+1871,University of British Columbia,Brunojaggi,6.157458563535913,18.1,175.56197074261337,5,Tier 1
+1872,University of Michigan,Sriram Chandrasekaran,7.725,4.0,51.51492850766761,3,Tier 3
+1873,Massachusetts Institute of Technology,Jacquin C Niles,9.958536585365854,4.1,72.53176749505816,4,Tier 2
+1874,Georgia Institute of Technology,Astrid Prinz,2.6777777777777776,0.9,3.0829087889094757,0,Tier 6
+1875,Johns Hopkins University,Jonathan Chrispin,6.60217391304348,9.2,97.36357851591328,4,Tier 2
+1876,University of California Los Angeles,Aydogan Ozcan,7.781045751633987,15.3,198.8331953821447,5,Tier 1
+1877,Shanghai Jiao Tong University,Bobo Gu,6.870588235294117,1.7,18.9099910426035,2,Tier 4
+1878,University of Washington,Buddy D Ratner,6.876666666666669,3.0,33.407480323450805,3,Tier 3
+1879,University of California Los Angeles,Pei-yu Chiou,11.091666666666667,2.4,48.57997125503817,3,Tier 3
+1880,University of California San Diego,Rob Knight,12.126984126984127,18.9,427.71335954708167,5,Tier 1

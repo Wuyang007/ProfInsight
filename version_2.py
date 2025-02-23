@@ -250,3 +250,26 @@ elif selected_section == "University overview":
         else:
             st.write("Please enter a question to ask.")
     #---
+
+elif selected_section == "Professor overview":
+    st.title("🧑🏻‍🎓 **Top Professors in Biomedical Engineering**")
+    
+    # Divider for clear section separation
+    st.write('\n')
+    st.divider()
+    
+    # Section Title
+    st.header("1. University Network Visualization")
+    st.markdown("""
+        This visualization shows university collaborations based on publication data. 
+        - **Nodes**: Each represents a professor.
+        - **Edges**: Indicate collaborations between professors.
+        - **Node size**: Reflects the profess's overall impact.
+        - **Color**: Represent the university.
+
+        
+    """)
+    with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
+        html_code = f.read()
+    st.components.v1.html(html_code, height=400, scrolling=True)
+    st.write('Zoom in to discover different universities and their amazing academic communities! 🔍')

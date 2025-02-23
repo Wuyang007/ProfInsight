@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import altair as alt
-from sklearn.preprocessing import MinMaxScaler
 import plotly.express as px
 
 
@@ -176,14 +175,9 @@ def add_link(df):
     return df
 
 def draw_university_topic_profile():
-    df = pd.read_csv('datasets/tables/university_topic_profile.csv')
-    df['university'] = df['university'].str.replace('_', ' ')
-    df = df.set_index('university')
-    scaler = MinMaxScaler()
-    normalized_data = scaler.fit_transform(df)
-    normalized_df = pd.DataFrame(normalized_data, columns = df.columns, index = df.index)
-    normalized_df = normalized_df.reset_index()
-    long_data = normalized_df.melt(
+    df = pd.read_csv('datasets/tables/university_topic_profile_scaled.csv')
+    
+    long_data = df.melt(
         id_vars='university',
         var_name = 'research area',
         value_name = 'value'
@@ -220,13 +214,10 @@ def draw_university_topic_profile():
 
 
 def draw_university_comparison(university_list):
-    df = pd.read_csv('datasets/tables/university_topic_profile.csv')
-    df['university'] = df['university'].str.replace('_', ' ')
+    df = pd.read_csv('datasets/tables/university_topic_profile_scaled.csv')
     df = df.set_index('university')
-    scaler = MinMaxScaler()
-    normalized_data = scaler.fit_transform(df)
-    normalized_df = pd.DataFrame(normalized_data, columns = df.columns, index = df.index)
-    plot_df = normalized_df.T.reset_index()
+
+    plot_df = df.T.reset_index()
     target_columns = ['index']+university_list
     target_df = plot_df[target_columns]
     target_df_long = target_df.melt(id_vars=['index'], var_name = 'University', value_name = 'Significance')

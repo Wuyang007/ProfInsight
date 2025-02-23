@@ -36,7 +36,7 @@ if selected_section == "Welcome":
 
     col1, col2, col3 = st.columns([1, 3, 1])  # Set the column width ratio 1:3:1
     with col2: 
-        st.image('datasets/images/scenario.png', caption='')
+        st.image('datasets/images/welcome_page.png', caption='')
 
 
     st.markdown("""

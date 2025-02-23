@@ -36,8 +36,33 @@ if selected_section == "Welcome":
 
     col1, col2, col3 = st.columns([1, 3, 1])  # Set the column width ratio 1:3:1
     with col2: 
-        st.image('datasets/images/welcome_page.png', caption='')
-
+        st.image('datasets/images/welcome_page.png', caption='', use_column_width=True)
+    st.markdown("""
+    <style>
+        .highlighted-text {
+            font-size: 36px; /* Slightly smaller but still prominent */
+            font-weight: 600; /* Semi-bold for a refined look */
+            color: #003366; /* Dark blue color for professionalism */
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+            letter-spacing: 1px; /* Slight spacing between letters for readability */
+            text-align: center; /* Center align text */
+            margin-top: 40px; /* Space above text */
+            margin-bottom: 40px; /* Space below text */
+            line-height: 1.4; /* Adjust line height for better readability */
+        }
+        .info-bar {
+            background-color: #e74c3c; /* Orange-red background color */
+            color: #ffffff; /* White text color */
+            font-size: 16px; /* Font size for the bar text */
+            font-weight: 700; /* Bold text */
+            text-align: center; /* Center align text */
+            padding: 15px 0; /* Padding for top and bottom */
+            margin: 20px 0; /* Margin for spacing */
+            border-radius: 5px; /* Rounded corners for a softer look */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+        }
+    </style>
+""", unsafe_allow_html=True)
 
     st.markdown("""
     <div class="highlighted-text">

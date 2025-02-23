@@ -82,7 +82,7 @@ if selected_section == "Welcome":
 #--------------------------------------------------------------------------------------------
 # following is for the university page
 elif selected_section == "University overview":
-    st.title("🌍 Biomedical Engineering Departments at Top Universities")
+    st.title("🌍  Top Universities in Biomedical Engineering")
 
     # Add a subtle divider for a sleek look
     st.divider()  

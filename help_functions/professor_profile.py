@@ -217,9 +217,9 @@ def draw_network():
     canvas_width = 1400
     canvas_height = 400
 
-    edge_df = pd.read_csv('../datasets/chart/network/edges.csv')
-    nodes_df = pd.read_csv('../datasets/chart/network/nodess.csv')
-    university_positions = pd.read_csv('../datasets/chart/network/text_position.csv')
+    edge_df = pd.read_csv('datasets/chart/network/edges.csv')
+    nodes_df = pd.read_csv('datasets/chart/network/nodess.csv')
+    university_positions = pd.read_csv('datasets/chart/network/text_position.csv')
 
     # **Edge Chart with Better Visibility**
     edge_chart_list = []

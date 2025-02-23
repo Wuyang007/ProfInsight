@@ -89,7 +89,7 @@ elif selected_section == "University overview":
     # Section: University Research Community
     st.subheader("1. University Research Community Size")
     st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
-    st.components.v1.html(open("datasets/chart/university_treemap.html", "r").read(), height=400)
+    st.image('datasets/chart/university_treemap.png', use_container_width=True, caption='interactive version is available on the github')
     st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
 
 
@@ -269,7 +269,7 @@ elif selected_section == "Professor overview":
 
         
     """)
-    with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
-        html_code = f.read()
-    st.components.v1.html(html_code, height=400, scrolling=True)
+    #with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
+    #    html_code = f.read()
+    #st.components.v1.html(html_code, height=400, scrolling=True)
     st.write('Zoom in to discover different universities and their amazing academic communities! 🔍')

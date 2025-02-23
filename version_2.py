@@ -11,7 +11,7 @@ from PIL import Image
 import sys
 sys.path.append('help_functions')
 
-from help_functions.university_profile import draw_university_treemap, draw_distribution, draw_university_topic_profile, draw_university_comparison
+from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
 
 
 #--------------------------------------------------------------------------------------------

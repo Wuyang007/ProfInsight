@@ -212,14 +212,14 @@ elif selected_section == "University overview":
     compare_df = university_df[university_df['university_name'].isin(selected_list)]
     st.write('\n')
     st.markdown('- Academic metrics: ')
-    gap1, col1, gap2 = st.columns([0.8, 4,0.8])
+    gap1, col1, gap2 = st.columns([0.2, 4,0.2])
     with col1:
         st.write(compare_df)
     st.write('\n')
     st.markdown('- Subfields comparison: ')
     filtered_list = [university for university in selected_list if university]
 
-    gap1, col1, gap2 = st.columns([0.8, 4,0.8])
+    gap1, col1, gap2 = st.columns([0.2, 4,0.2])
     with col1:
         comparison_chart = draw_university_comparison(filtered_list)
         st.altair_chart(comparison_chart, use_container_width=True)

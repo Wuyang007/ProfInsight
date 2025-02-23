@@ -1,7 +1,7 @@
 import altair as alt
 import pandas as pd
 import pandas as pd
-import plotly.graph_objects as go
+# import plotly.graph_objects as go
 
 from scholarly import scholarly
 from itertools import combinations

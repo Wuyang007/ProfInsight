@@ -12,6 +12,7 @@ import sys
 sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
+from help_functions.professor_profile import draw_network
 
 
 #--------------------------------------------------------------------------------------------
@@ -270,6 +271,7 @@ elif selected_section == "Professor overview":
         
     """)
     #with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
-    #    html_code = f.read()
+    network_chart = draw_network()
+    st.altair_chart(network_chart, use_container_width=True)
     #st.components.v1.html(html_code, height=400, scrolling=True)
     st.write('Zoom in to discover different universities and their amazing academic communities! 🔍')

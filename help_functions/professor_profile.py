@@ -212,6 +212,81 @@ def profile_individual(university, name):
 
     return fig
 
+
+def draw_network():
+    canvas_width = 1400
+    canvas_height = 400
+
+    edge_df = pd.read_csv('../datasets/chart/network/edges.csv')
+    nodes_df = pd.read_csv('../datasets/chart/network/nodess.csv')
+    university_positions = pd.read_csv('../datasets/chart/network/text_position.csv')
+
+    # **Edge Chart with Better Visibility**
+    edge_chart_list = []
+    for i in range(12):
+        row_range_top = i * 5000
+        row_range_bottom = i * 5000 + 5000
+        edges_chart = alt.Chart(edge_df.iloc[row_range_top:row_range_bottom, :]).mark_line(
+            color='gray', opacity=0.2, size=0.5  # Softer color, better opacity
+        ).encode(
+            x=alt.X('x:Q', title='', axis=alt.Axis(labels=False, ticks=False, grid=False, domain=False)),  
+            y=alt.Y('y:Q', title='', axis=alt.Axis(labels=False, ticks=False, grid=False, domain=False)),  
+            x2='x_target:Q',  
+            y2='y_target:Q',  
+            #size=alt.Size('Weight:Q', scale=alt.Scale(domain=[0, edge_df['Weight'].max()], range=[0.2, 2])),  
+            tooltip=[alt.Tooltip('Weight:Q', title='Edge Weight')]
+        ).properties(
+            width=canvas_width, height=canvas_height
+        ).interactive()
+
+        edge_chart_list.append(edges_chart)
+
+    # **Node Chart with Interactive Filtering**
+    node_chart = alt.Chart(nodes_df).mark_circle(stroke='black', strokeWidth=0.5, size=10).encode(
+        x='x',
+        y='y',
+        color=alt.Color(
+            'university_name:N',
+            scale=alt.Scale(scheme='tableau20'),
+            legend=None
+            
+        ),
+        size=alt.Size('overall_impact', legend=None),
+        tooltip=['university_name', 'name']
+    ).properties(
+        width=canvas_width, height=canvas_height
+    ).interactive()
+
+    text_labels = alt.Chart(university_positions).mark_text(
+        align='center',  # Align text to the left of the cluster
+        baseline='middle',
+        fontSize=8,
+        dy=10,
+    ).encode(
+        x='x:Q',  # Use the average x position
+        y='y:Q',  # Use the average y position
+        text='university_name:N',  # Display the university name
+        color=alt.Color('university_name:N', scale=alt.Scale(scheme='tableau20'))  # Same color as nodes
+    )
+
+    # **Combine All Edge Charts**
+    overall_chart = edge_chart_list[0]
+    for chart in edge_chart_list[1:]:
+        overall_chart += chart
+
+    # **Final Chart: Merging Edges and Nodes**
+    overall_chart = (overall_chart + node_chart+text_labels).configure_view(
+        strokeWidth=0  # Removes unnecessary border
+    ).configure_axis(
+        grid=False
+    ).configure_legend(
+        titleFontSize=14, labelFontSize=12
+    )
+
+    # Show the chart
+    return overall_chart
+
+
 def compare_prof(uni_1, prof_1, uni_2, prof_2):
 
     df = pd.read_csv('datasets/prof_topic.csv')

@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 def draw_university_treemap():
-    university_summary_df = pd.read_csv('datasets/numeric_table/university_bubble.csv')
+    university_summary_df = pd.read_csv('datasets/tables/university_bubble.csv')
     fig = px.treemap(
         university_summary_df,
         path=[px.Constant("World"), 'Country', 'university_name'],
@@ -175,11 +175,10 @@ def add_link(df):
 
     return df
 
-def draw_university_topic_profile(topic_list, university_list):
-    df = pd.read_csv('datasets/numeric_table/university_topic_profile.csv')
+def draw_university_topic_profile():
+    df = pd.read_csv('datasets/tables/university_topic_profile.csv')
     df['university'] = df['university'].str.replace('_', ' ')
     df = df.set_index('university')
-    df = df.loc[university_list, topic_list]
     scaler = MinMaxScaler()
     normalized_data = scaler.fit_transform(df)
     normalized_df = pd.DataFrame(normalized_data, columns = df.columns, index = df.index)
@@ -211,7 +210,7 @@ def draw_university_topic_profile(topic_list, university_list):
         ]
     ).properties(
         width=960,  # Adjust width for responsive design
-        height=540  # Adjust height for responsive design
+        height=480  # Adjust height for responsive design
     ).configure_axis(
         labelFontSize=12,
         titleFontSize=14
@@ -221,7 +220,7 @@ def draw_university_topic_profile(topic_list, university_list):
 
 
 def draw_university_comparison(university_list):
-    df = pd.read_csv('datasets/numeric_table/university_topic_profile.csv')
+    df = pd.read_csv('datasets/tables/university_topic_profile.csv')
     df['university'] = df['university'].str.replace('_', ' ')
     df = df.set_index('university')
     scaler = MinMaxScaler()

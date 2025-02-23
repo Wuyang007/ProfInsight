@@ -278,8 +278,6 @@ elif selected_section == "Professor overview":
 
     st.subheader("📏 Publication Frequency vs Impact Factor")
     # Load Data
-    df = pd.read_csv('datasets/tables/professor_profile.csv')
-    df = df[['university_name', 'professor_name', 'ave_if', 'num_of_pub', 'overall_impact', 'impact_level','Community Contribution']]
     
     # Brief Description
     st.markdown("""
@@ -297,7 +295,7 @@ elif selected_section == "Professor overview":
     st.markdown("Below is the visualization of publication frequency versus impact factor. This chart helps to understand the relationship between how often professors publish and the overall quality and impact of their research.")
     st.write('\n')
     st.write('\n')
-    base_chart = create_base_chart(df)
+    base_chart = create_base_chart()
     col1, col2, col3 = st.columns([0.5,4,1])
     with col2:
         st.altair_chart(base_chart)

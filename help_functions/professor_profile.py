@@ -16,7 +16,9 @@ def extract_words(text):
     words = re.findall(r'\b[a-zA-Z]+\b', text)
     return ' '.join(words)
 
-def create_base_chart(df):
+def create_base_chart():
+    df = pd.read_csv('datasets/tables/professor_profile.csv')
+    df = df[['university_name', 'professor_name', 'ave_if', 'num_of_pub', 'overall_impact', 'impact_level','Community Contribution']]
     log_scale = alt.Scale(type='log', domain=[0.5, 100])
     base_chart = alt.Chart(df).mark_circle(size=25).encode(
         x=alt.X('num_of_pub', title='Number of publications per year'),

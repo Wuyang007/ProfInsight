@@ -163,7 +163,7 @@ elif selected_section == "University overview":
         st.write('\n')
         
         caption = f"Caption: Top 15 Universities Ranking for {selected_topic} (Ranked by Contribution)"
-        st.image(image_file_png, use_column_width=True, caption=caption)
+        st.image(image_file_png, use_container_width=True, caption=caption)
     
     st.divider() 
     st.subheader("4. University Research Comparison:")

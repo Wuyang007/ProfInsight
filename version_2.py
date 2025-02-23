@@ -271,5 +271,6 @@ elif selected_section == "Professor overview":
         
     """)
     #with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
-    st.image('datesets/chart/professor_university_network.png')
+    st.image('datasets/chart/professor_university_network.png', caption='')
     st.write('Zoom in to discover different universities and their amazing academic communities! 🔍')
+    

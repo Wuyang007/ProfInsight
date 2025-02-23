@@ -58,6 +58,7 @@ def create_base_chart(df):
     combined_chart = alt.vconcat(histogram_num_pub, top_chart)
     return combined_chart
 
+
 def prof_info(name):
     search_query = scholarly.search_author(name)
 

@@ -89,8 +89,7 @@ elif selected_section == "University overview":
     # Section: University Research Community
     st.subheader("1. University Research Community Size")
     st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
-    fig_treemap = draw_university_treemap()
-    st.plotly_chart(fig_treemap, use_container_width=True)
+    st.components.v1.html(open("datasets/chart/university_treemap.html", "r").read(), height=400)
     st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
 
 

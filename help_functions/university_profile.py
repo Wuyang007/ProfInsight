@@ -1,43 +1,7 @@
 import pandas as pd
 import numpy as np
 import altair as alt
-import plotly.express as px
 
-
-
-def draw_university_treemap():
-    university_summary_df = pd.read_csv('datasets/tables/university_bubble.csv')
-    fig = px.treemap(
-        university_summary_df,
-        path=[px.Constant("World"), 'Country', 'university_name'],
-        values='community size',
-        color='impact factor',
-        color_continuous_scale='RdBu',
-        color_continuous_midpoint=np.average(
-            university_summary_df['impact factor'],
-            weights=university_summary_df['community size']
-        ),
-        hover_data={'Brief Description': True}
-    )
-
-    fig.update_layout(
-        width=800,   # Set width in pixels
-        height=600,  # Set height in pixels
-        margin=dict(t=40, l=10, r=10, b=10)
-    )
-    
-    fig.update_traces(
-        text=university_summary_df['Brief Description'],  # Display the brief description inside each square
-        textinfo="label+value+text",  # Include label, value, and description in the square
-    )
-
-
-    # Improve text visibility
-    fig.update_traces(
-        textinfo="label+value",
-        hovertemplate="<b>%{label}</b><br>Community Size: %{value}<br>Impact Factor: %{color}<br>Brief Description: %{customdata[0]}" 
-    )
-    return fig
 
 def draw_university_profile(university_df):
     # Define a single selection that applies to both charts

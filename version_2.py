@@ -584,7 +584,9 @@ elif selected_section == "About this project":
     st.header("Pipeline Schematic")
 
 #    st.write("Add any additional information or visualizations here.")
-    st.image('datasets/images/pipeline_schematic_1.png', caption='Pipeline for data analysis', use_column_width=True)
+    gap1, col1, gap2 = st.columns([1,8,2])
+    with col1:
+        st.image('datasets/images/pipeline_schematic_1.png', caption='Pipeline for data analysis', use_container_width=True)
 
     st.write("Author: Wuyang Gao")
     st.write("Last updated: Feb 24, 2025")

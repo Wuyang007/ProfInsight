@@ -185,7 +185,7 @@ def draw_university_comparison(university_list):
     target_columns = ['index']+university_list
     target_df = plot_df[target_columns]
     target_df_long = target_df.melt(id_vars=['index'], var_name = 'University', value_name = 'Significance')
-    chart = alt.Chart(target_df_long).mark_bar().encode(
+    chart = alt.Chart(target_df_long).mark_bar(cornerRadius=5).encode(
         x=alt.X('index:N', title=''),  # Rotate x labels for readability
         y=alt.Y('Significance:Q', title='Significance'),
         color=alt.Color('University:N', scale=alt.Scale(scheme='viridis'), legend=alt.Legend(orient='top')),  # Different colors for universities

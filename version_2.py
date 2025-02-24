@@ -300,6 +300,7 @@ elif selected_section == "Professor overview":
     with col2:
         base_chart = create_base_chart()
         st.altair_chart(base_chart)
+        st.write('hahaha')
 
     # Spacer for better page layout
     st.markdown('<br>', unsafe_allow_html=True)

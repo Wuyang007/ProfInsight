@@ -515,6 +515,22 @@ elif selected_section == "Topic overview":
 
     st.markdown('<br>', unsafe_allow_html=True) 
 
+    st.divider()
+    st.subheader("2. Topic Development in the Last Decade")
+
+    st.markdown(
+        """
+        This chart tracks how **20 key topics** in **Biomedical Engineering** evolved over the last 10 years.  
+        Topic significance is based on:  
+        - 📚 **Publications** – Number of papers  
+        - ⭐ **Impact factor** – Journal influence  
+        - 🔗 **Interdisciplinarity** – Connections with other fields  
+        """
+    )
+    
+    st.image('datasets/chart/topic_decade.png')
+
+    st.divider()
 
     
     

@@ -12,7 +12,7 @@ import sys
 sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
-from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof
+from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof, topic_profile
 #from help_functions.topic_profile import topic_profile
 
 #--------------------------------------------------------------------------------------------
@@ -551,6 +551,7 @@ elif selected_section == "Topic overview":
             ['Last 3 years', 'Last 5 years', 'Last 10 years'],
             index=0  # Set the default value to 'Last 3 years' (index 0)
         )
-
+    chart = topic_profile(option)
+    st.altair_chart(chart)
     
     

@@ -370,7 +370,7 @@ def find_best_paper(university, name):
     return personal_df 
 
 def find_network(professor):
-    paper_df = pd.read_csv('datasets/tables/co-author.csv')
+    paper_df = pd.read_csv('datasets/tables/co-author-clean.csv')
 
     paper_df['co_authors'] = paper_df['co_authors'].apply(ast.literal_eval)
     mask = []

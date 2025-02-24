@@ -551,7 +551,9 @@ elif selected_section == "Topic overview":
             ['Last 3 years', 'Last 5 years', 'Last 10 years'],
             index=0  # Set the default value to 'Last 3 years' (index 0)
         )
-    chart = topic_profile(option)
-    st.altair_chart(chart)
+    gap1, col1, gap2 = st.columns([1,3,1])
+    with col1:
+        chart = topic_profile(option)
+        st.altair_chart(chart)
     
     

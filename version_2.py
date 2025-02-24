@@ -300,7 +300,7 @@ elif selected_section == "Professor overview":
     with col2:
         df = pd.read_csv('datasets/tables/professor_profile.csv')
         st.table(df)
-        base_chart = create_base_chart(df)
+        base_chart = create_base_chart(df.head())
         st.altair_chart(base_chart)
         #st.image('datasets/chart/academic_metrics_prof.png')
         st.write('hahaha')

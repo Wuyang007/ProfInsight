@@ -298,8 +298,11 @@ elif selected_section == "Professor overview":
     
     col1, col2, col3 = st.columns([0.5,4,1])
     with col2:
-        base_chart = create_base_chart()
+        df = pd.read_csv('datasets/tables/professor_profile.csv')
+        st.table(df)
+        base_chart = create_base_chart(df)
         st.altair_chart(base_chart)
+        #st.image('datasets/chart/academic_metrics_prof.png')
         st.write('hahaha')
 
     # Spacer for better page layout

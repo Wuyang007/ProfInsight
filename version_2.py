@@ -359,6 +359,12 @@ elif selected_section == "Professor overview":
     st.write('\n')
 
     st.subheader('🧐 Research Expertise')
+    st.markdown(
+        """
+        This radar chart visualizes the **top 8 research expertise areas** of the selected professor,  
+        based on their publications, citations, and interdisciplinary reach.  
+        """
+    )
     col1, col2 = st.columns([2,1])
     with col1:
         fig = profile_individual(str(selected_university), str(professor_name_input))

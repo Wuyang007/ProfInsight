@@ -494,6 +494,27 @@ elif selected_section == "Topic overview":
 
         """
     )
+    st.write('\n')
+    
+    image_folder = 'datasets/topics'
+    image_files = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.endswith(('png', 'jpg', 'jpeg'))]
+
+    gap1, col1, gap2, = st.columns([0.25,5,0.25])
+    with col1:
+        cols = st.columns(5)  # Create 5 columns
+        
+        
+        # Loop through images and display them
+        for idx, img_file in enumerate(image_files):
+            if idx % 5 == 0 and idx != 0:
+                cols = st.columns(5)  # Create new row
+            with cols[idx % 5]:
+                image = Image.open(img_file)
+                st.image(image, use_column_width=True)
+                st.write("")
+
+    st.markdown('<br>', unsafe_allow_html=True) 
+
 
     
     

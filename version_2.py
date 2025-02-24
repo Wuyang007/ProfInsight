@@ -13,7 +13,7 @@ sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
 from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof
-from help_functions.topic_profile import topic_profile
+#from help_functions.topic_profile import topic_profile
 
 #--------------------------------------------------------------------------------------------
 st.set_page_config(page_title="Prof-Insight", layout="wide")
@@ -496,52 +496,4 @@ elif selected_section == "Topic overview":
     )
 
     
-    st.write('\n')
-    
-    image_folder = 'datasets/topics'
-    image_files = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.endswith(('png', 'jpg', 'jpeg'))]
-
-    gap1, col1, gap2, = st.columns([0.25,5,0.25])
-    with col1:
-        cols = st.columns(5)  # Create 5 columns
-        
-        
-        # Loop through images and display them
-        for idx, img_file in enumerate(image_files):
-            if idx % 5 == 0 and idx != 0:
-                cols = st.columns(5)  # Create new row
-            with cols[idx % 5]:
-                image = Image.open(img_file)
-                st.image(image, use_column_width=True)
-                st.write("")
-
-    st.markdown('<br>', unsafe_allow_html=True) 
-
-    st.divider()
-    st.subheader("2. Topic Development in the Last Decade")
-
-    st.markdown(
-        """
-        This chart tracks how **20 key topics** in **Biomedical Engineering** evolved over the last 10 years.  
-        Topic significance is based on:  
-        - 📚 **Publications** – Number of papers  
-        - ⭐ **Impact factor** – Journal influence  
-        - 🔗 **Interdisciplinarity** – Connections with other fields  
-        """
-    )
-    
-    st.image('datasets/chart/topic_decade.png')
-
-    st.divider()
-    st.subheader("3. Along the time")
-    col1, col2 = st.columns([1,2])
-    with col1:
-        option = st.selectbox(
-            "Select the time period:",
-            ['Last 3 years', 'Last 5 years', 'Last 10 years'],
-            index=0  # Set the default value to 'Last 3 years' (index 0)
-        )
-    chart = topic_profile(option)
-    st.altair_chart(chart)
-
     

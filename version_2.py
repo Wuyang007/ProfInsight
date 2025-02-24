@@ -544,6 +544,18 @@ elif selected_section == "Topic overview":
     st.divider()
 
     st.subheader("3. Along the time")
+
+
+    st.markdown(
+        """
+        This chart tracks how **Biomedical Engineering subfields** have evolved over time.  
+        Select a time range (Last 3, 5, or 10 years) to see:  
+
+        - **📊 Significance Ratio** – Importance based on publications, impact factor, and interdisciplinarity.  
+        - **📈 Growth Rate** – Whether a subfield is expanding or declining.  
+        """
+    )
+
     col1, col2 = st.columns([1,2])
     with col1:
         option = st.selectbox(

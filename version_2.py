@@ -305,7 +305,7 @@ elif selected_section == "Professor overview":
         #base_chart = create_base_chart(df)
         #st.altair_chart(base_chart)
         st.image('datasets/chart/academic_metrics_prof.png')
-        st.write('hahaha')
+
 
     # Spacer for better page layout
     st.markdown('<br>', unsafe_allow_html=True)

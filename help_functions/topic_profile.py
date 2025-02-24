@@ -18,7 +18,7 @@ def topic_profile(option):
         df_growth = df_growth.iloc[1:,:]
 
     # Process data for the distribution chart
-    df_dist = df.sum(axis=0).to_frame()
+    df_dist = df.iloc[:, 1:].sum(axis=0).to_frame()
     df_dist = df_dist.reset_index()
     df_dist.columns = ['topic', 'significance']
 

@@ -12,7 +12,7 @@ import sys
 sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
-from help_functions.professor_profile import create_base_chart
+from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof
 
 
 #--------------------------------------------------------------------------------------------
@@ -274,6 +274,8 @@ elif selected_section == "Professor overview":
     st.image('datasets/chart/professor_university_network.png', caption='')
     st.write('Interactive version could be found in github 🔍')
 
+    st.divider()
+
     st.header("2. Academic Metrics Overview")
 
     st.subheader("📏 Publication Frequency vs Impact Factor")
@@ -298,16 +300,185 @@ elif selected_section == "Professor overview":
     
     col1, col2, col3 = st.columns([0.5,4,1])
     with col2:
-        df = pd.read_csv('datasets/tables/professor_profile.csv')
-        st.table(df.head())
-        base_chart = create_base_chart(df)
-        st.altair_chart(base_chart)
-        #st.image('datasets/chart/academic_metrics_prof.png')
+        #df = pd.read_csv('datasets/tables/professor_profile.csv')
+        #st.table(df.head())
+        #base_chart = create_base_chart(df)
+        #st.altair_chart(base_chart)
+        st.image('datasets/chart/academic_metrics_prof.png')
         st.write('hahaha')
 
     # Spacer for better page layout
     st.markdown('<br>', unsafe_allow_html=True)
 
     st.divider() 
+
+    st.header("3. Check your professor")
+    # University selection
+    col1, col2, col3 = st.columns([1,1,1])
+    with col1:
+        default_university = "University of Toronto"
+        default_professor = "Axel Gunther"
+
+        # Filter professor list based on the selected university
+        df = pd.read_csv('datasets/tables/professor_profile.csv')
+        professor_list = df[df['university_name'] == default_university]['professor_name'].unique()
+
+        # Create selectbox for university with default value
+        selected_university = st.selectbox("Select University", options=df['university_name'].unique(), index=df['university_name'].unique().tolist().index(default_university))
+
+        # Filter professor list based on the selected university
+        professor_list = df[df['university_name'] == selected_university]['professor_name'].unique()
+
+        # Create selectbox for professor with default value
+        professor_name_input = st.selectbox("Select Professor", options=professor_list, index=professor_list.tolist().index(default_professor))
+        st.write('Please bear with us for a moment while we fetch the data!')
+        st.markdown('---')
+    st.subheader('📜Basic Info')
+    image_url, prof_df, prof_chart, pub_df = prof_info(professor_name_input)
+    col2, gap2, col3, gap3, col4 = st.columns([0.4,0.1, 1.2, 0.1, 1])
+
+    with col2:
+        st.write('\n')
+        st.image(image_url, use_column_width=True)
+    with col3:
+        st.write('\n')
+        st.write('\n')
+        st.dataframe(prof_df)
+    with col4:
+        st.write('\n')
+        st.write('\n')
+        st.write('\n')
+        st.write('\n')
+        st.write('\n')
+        st.altair_chart(prof_chart)
+    
+
+    st.subheader("📝 Most Cited Publications")
+    st.write("Here are some of the most influential papers authored by this professor.")
+    st.dataframe(pub_df)
+    st.write('\n')
+
+    st.subheader('🧐 Research Expertise')
+    col1, col2 = st.columns([2,1])
+    with col1:
+        fig = profile_individual(str(selected_university), str(professor_name_input))
+        st.plotly_chart(fig, use_container_width=True)
+
+    
+    st.subheader("👨🏼‍🤝‍👨🏽 Academic Collaborations")
+    col1, col2 = st.columns([2,1])
+    with col1:
+        chart = find_network(professor_name_input)
+        st.altair_chart(chart, use_container_width=True)
+
+    st.subheader("Summary: ")
+    st.write("""Dr. Axel Guenther is a Full Professor in the Department of Mechanical and Industrial Engineering at the University of Toronto, with a cross-appointment at the Institute of Biomedical Engineering. He earned his doctoral degree from the Swiss Federal Institute of Technology (ETH) in Zurich and conducted postdoctoral research at the Massachusetts Institute of Technology (MIT). 
+OQCORE.CA
+
+Dr. Guenther's research focuses on microfluidics, biofabrication, and the development of micro/nanosystems for biomedical applications. His work includes the creation of organs-on-chips and the 2D and 3D printing of organized soft materials, such as engineered human tissue substitutes.
+CRAFTMICROFLUIDICS.CA
+
+Throughout his career, Dr. Guenther has received several prestigious awards, including the ETH Silver Medal (2002), the Ontario Early Researcher Award (2009), and the I.W. Smith Award from the Canadian Society of Mechanical Engineers (2010). He currently holds the Wallace G. Chalmers Chair of Engineering Design (2012–present). 
+OQCORE.CA
+
+In addition to his academic achievements, Dr. Guenther has published over 30 scientific papers and holds patents for three licensed technologies. He co-organizes the annual "Ontario-on-a-Chip" event, which focuses on microfluidics, microreactors, and labs-on-a-chip, fostering collaboration between university researchers and industry professionals in chemical, pharmaceutical, biotechnology, advanced materials, and analytical device sectors. 
+OQCORE.CA
+
+Dr. Guenther also serves as the Scientific Director of the Centre for Microfluidic Systems in Chemistry and Biology in Toronto, further advancing research in this field. """)
+
+    
+    st.markdown('<br>', unsafe_allow_html=True) 
+
+    
+    st.divider() 
+    st.title("4. Compare the professor")
+
+
+    col1, gap1, col2, gap2 = st.columns([1, 0.1, 2, 0.1])
+    with col1:
+        default_university_a_1 = "University of Toronto"
+        default_professor_a_1 = "Axel Gunther"
+
+        # Create selectbox for university with default value
+        st.write('\n')
+        st.write('\n')
+        st.write('\n')
+        st.write('\n')
+        selected_university_a_1 = st.selectbox(
+            "Select the First University", 
+            options=df['university_name'].unique(), 
+            index=df['university_name'].unique().tolist().index(default_university_a_1),
+            key='search_a_u1'
+            )
+
+        professor_list_a_1 = df[df['university_name'] == selected_university_a_1]['professor_name'].unique()
+
+        # Create selectbox for professor with default value
+        professor_name_input_a_1 = st.selectbox(
+            "Select the First Professor", 
+            options=professor_list_a_1, 
+            index=professor_list.tolist().index(default_professor_a_1),
+            key='search_a_p1'
+            )
+        st.write('\n')
+        st.markdown('---')
+        st.write('\n')
+        default_university_a_2 = "University of Toronto"
+        default_professor_a_2 = "Edmond Young"
+
+        # Create selectbox for university with default value
+        selected_university_a_2 = st.selectbox(
+            "Select the Second University", 
+            options=df['university_name'].unique(), 
+            index=df['university_name'].unique().tolist().index(default_university_a_2),
+            key='search_u2'
+            )
+
+        professor_list_a_2 = df[df['university_name'] == selected_university_a_2]['professor_name'].unique()
+
+        # Create selectbox for professor with default value
+        professor_name_input_a_2 = st.selectbox(
+            "Select the First Professor", 
+            options=professor_list_a_2, 
+            index=professor_list.tolist().index(default_professor_a_2),
+            key='search_a_p2',
+        )
+    
+    with col2:
+        fig_compare = compare_prof(
+                selected_university_a_1, 
+                professor_name_input_a_1, 
+                selected_university_a_2, 
+                professor_name_input_a_2)
+        
+        st.plotly_chart(fig_compare, use_container_width=True)
+
+    st.divider()
+    st.subheader("Ask about professors:")
+
+    # Set up the input box for the user to ask questions
+    user_question = st.text_input("Ask me anything about professors:")
+
+    # Add a submit button
+    if st.button("Submit"):
+        # Simulated response (can be replaced with actual logic once RAG is implemented)
+        if user_question:
+            st.write(f"**You asked:** {user_question}")
+            st.write("**Chatbot's response:**")
+            
+            # Here, you can add logic for predefined responses based on keywords
+            # or placeholders while you work on implementing the RAG system.
+            
+            # Example responses:
+            if "university ranking" in user_question.lower():
+                st.write("The top universities vary by field of research. For example, 'University of Tokyo' excels in engineering.")
+            elif "faculty size" in user_question.lower():
+                st.write("Faculty sizes can vary across universities, depending on their research community size.")
+            elif "publications" in user_question.lower():
+                st.write("Publications per year often depend on the university's faculty research output.")
+            else:
+                st.write("I am currently gathering more information. Please check back soon!")
+        else:
+            st.write("Please enter a question to ask.")
 
     

@@ -1,7 +1,7 @@
 import altair as alt
 import pandas as pd
 
-# import plotly.graph_objects as go
+import plotly.graph_objects as go
 
 from scholarly import scholarly
 from itertools import combinations
@@ -164,7 +164,7 @@ def univ_bar(selected_university, df):
 
 
 def profile_individual(university, name):
-    df = pd.read_csv('datasets/prof_topic.csv')
+    df = pd.read_csv('datasets/tables/prof_topic.csv')
     unique_name = university+'--'+name
     person_info = df[df['Unnamed: 0']==unique_name]
 
@@ -293,7 +293,7 @@ def draw_network():
 
 def compare_prof(uni_1, prof_1, uni_2, prof_2):
 
-    df = pd.read_csv('datasets/prof_topic.csv')
+    df = pd.read_csv('datasets/tables/prof_topic.csv')
     unique_name_1 = uni_1+'--'+prof_1
     unique_name_2 = uni_2+'--'+prof_2
 
@@ -344,7 +344,7 @@ def compare_prof(uni_1, prof_1, uni_2, prof_2):
         plot_bgcolor="white",  # Remove background color
         paper_bgcolor="white",  # Remove full background color
         showlegend=True,
-        height=400,  # Increase height to make the figure taller
+        height=600,  # Increase height to make the figure taller
         width=250  # Decrease width to make the figure narrower
     )
 
@@ -370,7 +370,7 @@ def find_best_paper(university, name):
     return personal_df 
 
 def find_network(professor):
-    paper_df = pd.read_csv('datasets/numeric_table/co-author.csv')
+    paper_df = pd.read_csv('datasets/tables/co-author.csv')
 
     paper_df['co_authors'] = paper_df['co_authors'].apply(ast.literal_eval)
     mask = []
@@ -423,10 +423,10 @@ def find_network(professor):
     edge_df = prof_df.merge(nodes_df, left_on='Core_prof', right_on='name', suffixes=('', '_source'))
     edge_df = edge_df.merge(nodes_df, left_on='Co_prof', right_on='name', suffixes = ('', '_target'))
     
-    prof_df = pd.read_csv('datasets/professor_profile.csv')
+    prof_df = pd.read_csv('datasets/tables/professor_profile.csv')
     prof_df = prof_df[['university_name', 'professor_name','overall_impact']]
 
-    prof_label_df = pd.read_csv('datasets/numeric_table/prof_label.csv')
+    prof_label_df = pd.read_csv('datasets/tables/prof_label.csv')
 
     nodes_df = nodes_df.merge(prof_df, left_on='name', right_on='professor_name')
     nodes_df = nodes_df.merge(prof_label_df, left_on='name', right_on='professor')

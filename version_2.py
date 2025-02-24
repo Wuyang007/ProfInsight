@@ -543,5 +543,14 @@ elif selected_section == "Topic overview":
 
     st.divider()
 
+    st.subheader("3. Along the time")
+    col1, col2 = st.columns([1,2])
+    with col1:
+        option = st.selectbox(
+            "Select the time period:",
+            ['Last 3 years', 'Last 5 years', 'Last 10 years'],
+            index=0  # Set the default value to 'Last 3 years' (index 0)
+        )
+
     
     

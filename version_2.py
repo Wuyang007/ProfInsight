@@ -374,6 +374,7 @@ elif selected_section == "Professor overview":
     st.subheader("👨🏼‍🤝‍👨🏽 Academic Collaborations")
     col1, col2 = st.columns([2,1])
     with col1:
+        st.write('\n')
         chart = find_network(professor_name_input)
         st.altair_chart(chart, use_container_width=True)
 
@@ -573,5 +574,19 @@ elif selected_section == "Topic overview":
     with col1:
         chart = topic_profile(option)
         st.altair_chart(chart)
+
+elif selected_section == "Find your professors":
+    st.header("Find your professors:")
+    user_input = st.chat_input("Type your message...")
+
+
+elif selected_section == "About this project":
+    st.header("Pipeline Schematic")
+
+#    st.write("Add any additional information or visualizations here.")
+    st.image('datasets/images/pipeline_schematic_1.png', caption='Pipeline for data analysis', use_column_width=True)
+
+    st.write("Author: Wuyang Gao")
+    st.write("Last updated: Feb 24, 2025")
     
     

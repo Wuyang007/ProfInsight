@@ -1,6 +1,6 @@
 import altair as alt
 import pandas as pd
-import pandas as pd
+
 # import plotly.graph_objects as go
 
 from scholarly import scholarly
@@ -18,6 +18,7 @@ def extract_words(text):
 
 def create_base_chart():
     df = pd.read_csv('datasets/tables/professor_profile.csv')
+
     df = df[['university_name', 'professor_name', 'ave_if', 'num_of_pub', 'overall_impact', 'impact_level','Community Contribution']]
     log_scale = alt.Scale(type='log', domain=[0.5, 100])
     base_chart = alt.Chart(df).mark_circle(size=25).encode(

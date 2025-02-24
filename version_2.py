@@ -529,6 +529,17 @@ elif selected_section == "Topic overview":
     )
     
     st.image('datasets/chart/topic_decade.png')
+    st.markdown(
+        """
+        ### Key Observations  
+
+        - 📈 **Steady Growth**: Most subfields in **Biomedical Engineering** have shown a consistent increase in significance over the past decade.  
+        - ⚖️ **Stable Trends**: Some subfields have maintained a steady level of importance, with little to no significant growth (e.g., Tissue Engineering, Medical Imaging, Bone Marrow Regeneration).  
+        - 🔥 **Pandemic-Driven Surge**: **COVID-related research** saw a sharp rise in 2020 and 2021, reflecting the global response to the pandemic.  
+        - 📉 **Post-Pandemic Decline**: Since 2022, the significance of COVID-related subfields has gradually decreased, suggesting a shift back to pre-pandemic research priorities.  
+        """
+    )
+
 
     st.divider()
 

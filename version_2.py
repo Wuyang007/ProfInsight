@@ -576,12 +576,15 @@ elif selected_section == "Topic overview":
         st.altair_chart(chart)
 
 elif selected_section == "Find your professors":
-    st.header("Find your professors:")
+    st.header("Find Your Professors in Biomedical Engineering:")
+    st.divider()
     user_input = st.chat_input("Type your message...")
 
 
 elif selected_section == "About this project":
-    st.header("Pipeline Schematic")
+    
+    st.header("About this project")
+    st.divider()
 
 #    st.write("Add any additional information or visualizations here.")
     gap1, col1, gap2 = st.columns([1,8,2])

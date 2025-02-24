@@ -339,7 +339,7 @@ elif selected_section == "Professor overview":
 
     with col2:
         st.write('\n')
-        st.image(image_url, use_column_width=True)
+        st.image(image_url, use_container_width=True)
     with col3:
         st.write('\n')
         st.write('\n')
@@ -510,7 +510,7 @@ elif selected_section == "Topic overview":
                 cols = st.columns(5)  # Create new row
             with cols[idx % 5]:
                 image = Image.open(img_file)
-                st.image(image, use_column_width=True)
+                st.image(image, use_container_width=True)
                 st.write("")
 
     st.markdown('<br>', unsafe_allow_html=True) 

@@ -262,7 +262,6 @@ elif selected_section == "University overview":
 
     # Page Title
     st.title("🌍 Top Universities in Biomedical Engineering")
-    st.markdown("##### Explore key insights about leading institutions in biomedical research.")
 
     # Custom styling for the navigation
     st.markdown(

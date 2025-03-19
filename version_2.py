@@ -249,10 +249,10 @@ elif selected_section == "University overview":
                 st.write("Please enter a question to ask.")
         #---
     sections = {
-        "University Research Community": lambda: show_university_research_community(),
-        "Impact Factors vs Publication Frequency": lambda: show_impact_vs_publication(),
-        "Overview of Biomedical Engineering Subfields": lambda: show_subfield_overview(),
-        "University Research Comparison": lambda: show_research_comparison(),
+        "Research Community": lambda: show_university_research_community(),
+        "Publication Metrics": lambda: show_impact_vs_publication(),
+        "Research Profile": lambda: show_subfield_overview(),
+        "University  Comparison": lambda: show_research_comparison(),
         "Questions?": lambda: show_questions()
     }
 

@@ -284,7 +284,7 @@ elif selected_section == "University overview":
     )
 
     # Section Selection Buttons
-    st.divider()
+    # st.divider()
     cols = st.columns(len(sections))
     for i, section in enumerate(sections.keys()):
         if cols[i].button(section, use_container_width=True):

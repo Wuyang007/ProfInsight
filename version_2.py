@@ -93,30 +93,6 @@ elif selected_section == "University overview":
         st.image('datasets/chart/university_treemap.png',  caption='interactive version is available on the github')
         st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
 
-    sections = {
-        "University Research Community": lambda: show_university_research_community(),
-        "Impact Factors vs Publication Frequency": lambda: show_impact_vs_publication(),
-        "Overview of Biomedical Engineering Subfields": lambda: show_subfield_overview(),
-        "University Research Comparison": lambda: show_research_comparison(),
-        "Questions?": lambda: show_questions()
-    }
-
-    # Initialize session state
-    if "selected_section" not in st.session_state:
-        st.session_state.selected_section = list(sections.keys())[0]
-    
-    st.title("🌍  Top Universities in Biomedical Engineering")
-    st.divider()  
-
-    cols = st.columns(len(sections))
-    for i, section in enumerate(sections.keys()):
-        if cols[i].button(section, use_container_width=True):
-            st.session_state.selected_section = section
-
-    st.divider()
-    sections[st.session_state.selected_section]()
-    # Section: University Research Community
-    # --- Section Functions ---
 
     def show_impact_vs_publication():
         st.subheader("2. Impact Factors vs Publication Frequency")
@@ -272,6 +248,29 @@ elif selected_section == "University overview":
             else:
                 st.write("Please enter a question to ask.")
         #---
+    sections = {
+        "University Research Community": lambda: show_university_research_community(),
+        "Impact Factors vs Publication Frequency": lambda: show_impact_vs_publication(),
+        "Overview of Biomedical Engineering Subfields": lambda: show_subfield_overview(),
+        "University Research Comparison": lambda: show_research_comparison(),
+        "Questions?": lambda: show_questions()
+    }
+
+    # Initialize session state
+    if "selected_section" not in st.session_state:
+        st.session_state.selected_section = list(sections.keys())[0]
+    
+    st.title("🌍  Top Universities in Biomedical Engineering")
+    st.divider()  
+
+    cols = st.columns(len(sections))
+    for i, section in enumerate(sections.keys()):
+        if cols[i].button(section, use_container_width=True):
+            st.session_state.selected_section = section
+
+    st.divider()
+    sections[st.session_state.selected_section]()
+
 
 elif selected_section == "Professor overview":
     st.title("🧑🏻‍🎓 **Top Professors in Biomedical Engineering**")

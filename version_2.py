@@ -249,20 +249,43 @@ elif selected_section == "University overview":
                 st.write("Please enter a question to ask.")
         #---
     sections = {
-        "Research Community": lambda: show_university_research_community(),
-        "Publication Metrics": lambda: show_impact_vs_publication(),
-        "Research Profile": lambda: show_subfield_overview(),
-        "University  Comparison": lambda: show_research_comparison(),
-        "Questions?": lambda: show_questions()
+        "🏛️ Research Community": lambda: show_university_research_community(),
+        "📊 Publication Metrics": lambda: show_impact_vs_publication(),
+        "🔬 Research Profile": lambda: show_subfield_overview(),
+        "📑 University Comparison": lambda: show_research_comparison(),
+        "❓ Questions?": lambda: show_questions()
     }
 
     # Initialize session state
     if "selected_section" not in st.session_state:
         st.session_state.selected_section = list(sections.keys())[0]
-    
-    st.title("🌍  Top Universities in Biomedical Engineering")
-    st.divider()  
 
+    # Page Title
+    st.title("🌍 Top Universities in Biomedical Engineering")
+    st.markdown("##### Explore key insights about leading institutions in biomedical research.")
+
+    # Custom styling for the navigation
+    st.markdown(
+        """
+        <style>
+            .stButton>button {
+                width: 100%;
+                background-color: #004080;
+                color: white;
+                font-weight: bold;
+                border-radius: 10px;
+                padding: 10px;
+            }
+            .stButton>button:hover {
+                background-color: #0059b3;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    # Section Selection Buttons
+    st.divider()
     cols = st.columns(len(sections))
     for i, section in enumerate(sections.keys()):
         if cols[i].button(section, use_container_width=True):

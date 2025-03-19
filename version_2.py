@@ -264,28 +264,20 @@ elif selected_section == "University overview":
     st.title("🌍 Top Universities in Biomedical Engineering")
     st.markdown("##### Explore key insights about leading institutions in biomedical research.")
 
-    # Custom CSS to make buttons transparent before selection and styled after
+    # Custom styling for the navigation
     st.markdown(
         """
         <style>
             .stButton>button {
                 width: 100%;
-                background-color: transparent;
-                color: black;
+                background-color: #004080;
+                color: white;
                 font-weight: bold;
                 border-radius: 10px;
                 padding: 10px;
-                border: 2px solid transparent;
-                transition: 0.3s;
             }
             .stButton>button:hover {
-                background-color: rgba(0, 72, 128, 0.2);
-                border: 2px solid #004080;
-            }
-            .selected-button {
-                background-color: #004080 !important;
-                color: white !important;
-                border: 2px solid #004080 !important;
+                background-color: #0059b3;
             }
         </style>
         """,
@@ -295,16 +287,8 @@ elif selected_section == "University overview":
     # Section Selection Buttons
     st.divider()
     cols = st.columns(len(sections))
-
     for i, section in enumerate(sections.keys()):
-        is_selected = st.session_state.selected_section == section
-        button_key = f"button_{i}"
-        
-        # Custom HTML for selected state
-        if is_selected:
-            st.markdown(f"""<style>div[data-testid="{button_key}"] button {{ background-color: #004080 !important; color: white !important; }}</style>""", unsafe_allow_html=True)
-
-        if cols[i].button(section, key=button_key, use_container_width=True):
+        if cols[i].button(section, use_container_width=True):
             st.session_state.selected_section = section
 
     st.divider()

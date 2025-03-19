@@ -87,6 +87,12 @@ elif selected_section == "University overview":
     university_topic_df = pd.read_csv('datasets/tables/university_topic_profile.csv')
     topic_list = university_topic_df.columns.tolist()[1:]
     
+    def show_university_research_community():
+        st.subheader("1. University Research Community Size")
+        st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
+        st.image('datasets/chart/university_treemap.png',  caption='interactive version is available on the github')
+        st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
+
     sections = {
         "University Research Community": lambda: show_university_research_community(),
         "Impact Factors vs Publication Frequency": lambda: show_impact_vs_publication(),
@@ -111,11 +117,6 @@ elif selected_section == "University overview":
     sections[st.session_state.selected_section]()
     # Section: University Research Community
     # --- Section Functions ---
-    def show_university_research_community():
-        st.subheader("1. University Research Community Size")
-        st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
-        st.image('datasets/chart/university_treemap.png',  caption='interactive version is available on the github')
-        st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
 
     def show_impact_vs_publication():
         st.subheader("2. Impact Factors vs Publication Frequency")

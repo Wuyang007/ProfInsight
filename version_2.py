@@ -249,11 +249,11 @@ elif selected_section == "University overview":
                 st.write("Please enter a question to ask.")
         #---
     sections = {
-        "🏛️ Research Community": lambda: show_university_research_community(),
-        "📊 Publication Metrics": lambda: show_impact_vs_publication(),
-        "🔬 Research Profile": lambda: show_subfield_overview(),
-        "📑 University Comparison": lambda: show_research_comparison(),
-        "❓ Questions?": lambda: show_questions()
+        "🏛️  Research Community": lambda: show_university_research_community(),
+        "📊  Publication Metrics": lambda: show_impact_vs_publication(),
+        "🔬  Research Profile": lambda: show_subfield_overview(),
+        "📑  University Comparison": lambda: show_research_comparison(),
+        "❓  Questions?": lambda: show_questions()
     }
 
     # Initialize session state

@@ -252,7 +252,7 @@ elif selected_section == "University overview":
         "🏛️  Research Community": lambda: show_university_research_community(),
         "📊  Publication Metrics": lambda: show_impact_vs_publication(),
         "🔬  Research Profile": lambda: show_subfield_overview(),
-        "📑  University Comparison": lambda: show_research_comparison(),
+        "📑  Comparison": lambda: show_research_comparison(),
         "❓  Questions?": lambda: show_questions()
     }
 

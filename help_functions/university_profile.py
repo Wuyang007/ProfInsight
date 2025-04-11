@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import altair as alt
+import plotly.express as px
+from sklearn.preprocessing import MinMaxScaler
 
 
 def draw_university_profile(university_df):
@@ -257,3 +259,23 @@ def draw_university_given_topic(topic):
         titleFontSize=16  # Adjusts font size for axis title
     )
     return chart
+
+def treemap():
+        
+    university_summary_df = pd.read_csv('datasets/tables/university_bubble.csv')
+    fig = px.treemap(
+        university_summary_df,
+        path=[px.Constant("world"), 'Country', 'university_name'],
+        values='community size',
+        color='impact factor',
+        color_continuous_scale='RdBu',
+        color_continuous_midpoint=np.average(
+            university_summary_df['impact factor'],
+            weights=university_summary_df['community size']
+        )
+    )
+
+    #fig.update_layout(margin=dict(t=5, l=5, r=5, b=5))
+
+    # Display in Streamlit
+    return fig

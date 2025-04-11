@@ -141,9 +141,9 @@ elif selected_section == "University overview":
 
         col1, gap1, col2, gap2= st.columns([5,0.75,3, 0.25])
         with col1:
-            st.markdown('\n')
-            st.markdown('\n')
-            st.markdown('\n')
+            #st.markdown('\n')
+            #st.markdown('\n')
+            #st.markdown('\n')
             st.markdown('\n')
             st.markdown('\n')
 

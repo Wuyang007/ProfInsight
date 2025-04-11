@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import altair as alt
 import plotly.express as px
-from sklearn.preprocessing import MinMaxScaler
+# from sklearn.preprocessing import MinMaxScaler
 
 
 def draw_university_profile(university_df):
@@ -203,7 +203,7 @@ def draw_university_comparison(university_list):
 
 
 
-
+'''
 def draw_university_given_topic(topic):
     # Read and preprocess the data
     df = pd.read_csv('datasets/numeric_table/university_topic_profile.csv')
@@ -259,7 +259,7 @@ def draw_university_given_topic(topic):
         titleFontSize=16  # Adjusts font size for axis title
     )
     return chart
-
+'''
 def treemap():
         
     university_summary_df = pd.read_csv('datasets/tables/university_bubble.csv')

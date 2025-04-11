@@ -125,14 +125,14 @@ elif selected_section == "University overview":
             st.dataframe(top_publication_frequency)
 
     def show_subfield_overview():
-        st.subheader("3. Overview of Biomedical Engineering Subfields")
-        st.markdown(
-            """
-            This dashboard compares **35 universities** across **20 research subfields** in Biomedical Engineering.
-            - Explore an overall heatmap of research intensity.
-            - Select a subfield to see which universities specialize in that area.
-            """
-        )
+        #st.subheader("3. Overview of Biomedical Engineering Subfields")
+        #st.markdown(
+        #    """
+        #    This dashboard compares **35 universities** across **20 research subfields** in Biomedical Engineering.
+        #    - Explore an overall heatmap of research intensity.
+        #    - Select a subfield to see which universities specialize in that area.
+        #    """
+        #)
         #---
         
         #---

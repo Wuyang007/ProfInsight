@@ -11,7 +11,7 @@ from PIL import Image
 import sys
 sys.path.append('help_functions')
 
-from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison
+from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison, treemap
 from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof, topic_profile
 #from help_functions.topic_profile import topic_profile
 
@@ -90,7 +90,9 @@ elif selected_section == "University overview":
     def show_university_research_community():
         #st.subheader("1. University Research Community Size")
         #st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
-        st.image('datasets/chart/university_treemap.png',  caption='interactive version is available on the github')
+        #st.image('datasets/chart/university_treemap.png',  caption='interactive version is available on the github')
+        plotly_fig = treemap()
+        st.plotly_chart(plotly_fig, use_container_width=True)
         st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
 
 

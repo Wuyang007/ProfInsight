@@ -88,8 +88,8 @@ elif selected_section == "University overview":
     topic_list = university_topic_df.columns.tolist()[1:]
     
     def show_university_research_community():
-        st.subheader("1. University Research Community Size")
-        st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
+        #st.subheader("1. University Research Community Size")
+        #st.markdown("Explore the size of each university's faculty (number of professors) and their impact in the field of biomedical engineering.")
         st.image('datasets/chart/university_treemap.png',  caption='interactive version is available on the github')
         st.caption("🔍 The size of each rectangle represents the tenure-track faculty community, while the color reflects research impact (impact factor).")
 
@@ -249,7 +249,7 @@ elif selected_section == "University overview":
                 st.write("Please enter a question to ask.")
         #---
     sections = {
-        "🏛️  Research Community": lambda: show_university_research_community(),
+        "🏛️  Community": lambda: show_university_research_community(),
         "📊  Publication Metrics": lambda: show_impact_vs_publication(),
         "🔬  Research Profile": lambda: show_subfield_overview(),
         "📑  Comparison": lambda: show_research_comparison(),
@@ -293,7 +293,7 @@ elif selected_section == "University overview":
     st.divider()
     sections[st.session_state.selected_section]()
 
-
+#-----------------------------------------------------------------------------------------
 elif selected_section == "Professor overview":
     st.title("🧑🏻‍🎓 **Top Professors in Biomedical Engineering**")
     

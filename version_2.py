@@ -193,6 +193,8 @@ elif selected_section == "University overview":
             st.altair_chart(comparison_chart, use_container_width=True)
         
         with col2:
+            st.write('\n')
+            st.write('\n')
             st.write(compare_df)
             st.write('\n')
 

@@ -183,8 +183,8 @@ elif selected_section == "University overview":
         selected_list = [selected_university_1, selected_university_2, selected_university_3, selected_university_4]
         compare_df = university_df[university_df['university_name'].isin(selected_list)]
         st.write('\n')
-        st.markdown('- Academic metrics: ')
-        st.markdown('- Subfields comparison: ')
+        #st.markdown('- Academic metrics: ')
+        #st.markdown('- Subfields comparison: ')
         filtered_list = [university for university in selected_list if university]
 
         gap1, col1, gap2 = st.columns([0.2, 4,0.2])

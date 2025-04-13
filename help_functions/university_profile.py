@@ -87,7 +87,7 @@ def draw_distribution(university_df):
         filled=True    # Fill the circles with color
     ).properties(
         width=1000,  # Width of the chart
-        height=400
+        height=600
     )
 
     return chart

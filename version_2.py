@@ -139,10 +139,10 @@ elif selected_section == "University overview":
             #st.markdown('\n')
             #st.markdown('\n')
             #st.markdown('\n')
-            st.markdown('\n')
+            
             st.markdown('\n')
 
-            st.markdown('**35 universities across 20 sub fields**')
+            st.write('35 universities across 20 sub fields')
             st.altair_chart(topic_university_chart, use_container_width=True)
         
         with col2:

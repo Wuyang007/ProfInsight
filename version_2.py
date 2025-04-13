@@ -100,7 +100,7 @@ elif selected_section == "University overview":
         col1, gap1, col2 = st.columns([2,0.2,1])
         #st.subheader("2. Impact Factors vs Publication Frequency")
         with col1:
-        
+            st.write('\n')
             distribution_chart = draw_distribution(university_df)
             st.altair_chart(distribution_chart, use_container_width=True)
             st.markdown("""
@@ -114,17 +114,10 @@ elif selected_section == "University overview":
             # Top 5 Impact Factors
             st.markdown("**Top 5 Universities by Impact Factor**")
             st.dataframe(top_impact_factors)
-        gap1, col1, gap2, col2 = st.columns([0.1,1, 0.1, 1])
-
-        with col1:
-            # Top 5 Impact Factors
-            st.markdown("**Top 5 Universities by Impact Factor**")
-            st.dataframe(top_impact_factors)
-
-        with col2:
-            # Top 5 Publication Frequency
+            st.markdown('---')
             st.markdown("**Top 5 Universities by Publication Frequency**")
             st.dataframe(top_publication_frequency)
+
 
     def show_subfield_overview():
         #st.subheader("3. Overview of Biomedical Engineering Subfields")

@@ -187,7 +187,7 @@ elif selected_section == "University overview":
         #st.markdown('- Subfields comparison: ')
         filtered_list = [university for university in selected_list if university]
 
-        gap1, col1, gap2 = st.columns([0.2, 4,0.2])
+        gap1, col1, gap2, col2 = st.columns([0.2, 4,0.2, 2])
         with col1:
             comparison_chart = draw_university_comparison(filtered_list)
             st.altair_chart(comparison_chart, use_container_width=True)

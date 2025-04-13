@@ -97,7 +97,7 @@ elif selected_section == "University overview":
 
 
     def show_impact_vs_publication():
-        col1, gap1, col2 = st.columns([3,0.2,1])
+        col1, gap1, col2 = st.columns([2,0.2,1])
         #st.subheader("2. Impact Factors vs Publication Frequency")
         with col1:
         

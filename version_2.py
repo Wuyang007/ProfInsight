@@ -149,15 +149,6 @@ elif selected_section == "University overview":
     
     def show_research_comparison():
         # st.subheader("4. University Research Comparison:")
-        st.markdown("""
-        Compare research metrics across three universities:
-
-        - **Faculty Size**: Number of tenure-track professors.
-        - **Publication Frequency**: Publications per professor per year.
-        - **Average Impact Factor**: Average impact factor of publications.
-        - **Subfield Expertise**: Expertise Profile in biomedical Engineering.
-
-        """)
 
         col1, col2, col3, col4 = st.columns([1,1,1,1])
         with col1:

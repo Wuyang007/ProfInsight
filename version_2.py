@@ -275,7 +275,7 @@ elif selected_section == "University overview":
                 color: white;
                 font-weight: bold;
                 border-radius: 10px;
-                padding: 10px;
+                padding: 5px;
             }
             .stButton>button:hover {
                 background-color: #0059b3;
@@ -292,7 +292,7 @@ elif selected_section == "University overview":
         if cols[i].button(section, use_container_width=True):
             st.session_state.selected_section = section
 
-    # st.divider()
+    st.divider()
     sections[st.session_state.selected_section]()
 
 #-----------------------------------------------------------------------------------------

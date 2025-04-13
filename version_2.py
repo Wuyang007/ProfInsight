@@ -120,17 +120,6 @@ elif selected_section == "University overview":
 
 
     def show_subfield_overview():
-        #st.subheader("3. Overview of Biomedical Engineering Subfields")
-        #st.markdown(
-        #    """
-        #    This dashboard compares **35 universities** across **20 research subfields** in Biomedical Engineering.
-        #    - Explore an overall heatmap of research intensity.
-        #    - Select a subfield to see which universities specialize in that area.
-        #    """
-        #)
-        #---
-        
-        #---
 
         topic_university_chart = draw_university_topic_profile()
 
@@ -159,16 +148,7 @@ elif selected_section == "University overview":
             st.image(image_file_png, use_container_width=True, caption=caption)
     
     def show_research_comparison():
-        st.subheader("4. University Research Comparison:")
-        st.markdown("""
-        Compare research metrics across three universities:
-
-        - **Faculty Size**: Number of tenure-track professors.
-        - **Publication Frequency**: Publications per professor per year.
-        - **Average Impact Factor**: Average impact factor of publications.
-        - **Subfield Expertise**: Expertise Profile in biomedical Engineering.
-
-        """)
+        # st.subheader("4. University Research Comparison:")
 
         col1, col2, col3, col4 = st.columns([1,1,1,1])
         with col1:
@@ -204,17 +184,19 @@ elif selected_section == "University overview":
         compare_df = university_df[university_df['university_name'].isin(selected_list)]
         st.write('\n')
         st.markdown('- Academic metrics: ')
+
+
+        gap1, col1, gap2 = st.columns([0.2, 4,0.2])
+        with col1:
+            comparison_chart = draw_university_comparison(filtered_list)
+            st.altair_chart(comparison_chart, use_container_width=True)
+        
         gap1, col1, gap2 = st.columns([0.2, 4,0.2])
         with col1:
             st.write(compare_df)
         st.write('\n')
         st.markdown('- Subfields comparison: ')
         filtered_list = [university for university in selected_list if university]
-
-        gap1, col1, gap2 = st.columns([0.2, 4,0.2])
-        with col1:
-            comparison_chart = draw_university_comparison(filtered_list)
-            st.altair_chart(comparison_chart, use_container_width=True)
 
     def show_questions():
         st.subheader('5. Questions?')

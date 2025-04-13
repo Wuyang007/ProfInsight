@@ -192,10 +192,9 @@ elif selected_section == "University overview":
             comparison_chart = draw_university_comparison(filtered_list)
             st.altair_chart(comparison_chart, use_container_width=True)
         
-        gap1, col1, gap2 = st.columns([0.2, 4,0.2])
-        with col1:
+        with col2:
             st.write(compare_df)
-        st.write('\n')
+            st.write('\n')
 
 
     def show_questions():

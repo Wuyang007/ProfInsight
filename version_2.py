@@ -97,19 +97,23 @@ elif selected_section == "University overview":
 
 
     def show_impact_vs_publication():
+        col1, gap1, col2 = st.columns([3,0.2,1])
         #st.subheader("2. Impact Factors vs Publication Frequency")
+        with col1:
         
-    
-        distribution_chart = draw_distribution(university_df)
-        st.altair_chart(distribution_chart, use_container_width=True)
-        st.markdown("""
-        - **📚 Publication Frequency**: How often professors publish their research
-        - **🌟 Average Impact Factor**: The influence and quality of their research
-        """)
-        st.write("\n")
+            distribution_chart = draw_distribution(university_df)
+            st.altair_chart(distribution_chart, use_container_width=True)
+            st.markdown("""
+            - **📚 Publication Frequency**: How often professors publish their research
+            - **🌟 Average Impact Factor**: The influence and quality of their research
+            """)
+            st.write("\n")
         top_impact_factors = university_df[['university_name', 'average impact factor']].sort_values(by='average impact factor', ascending=False).head(5)
         top_publication_frequency = university_df[['university_name', 'professor publications per year']].sort_values(by='professor publications per year', ascending=False).head(5)
-
+        with col2:
+            # Top 5 Impact Factors
+            st.markdown("**Top 5 Universities by Impact Factor**")
+            st.dataframe(top_impact_factors)
         gap1, col1, gap2, col2 = st.columns([0.1,1, 0.1, 1])
 
         with col1:

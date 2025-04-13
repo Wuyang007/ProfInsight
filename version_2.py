@@ -169,14 +169,14 @@ elif selected_section == "University overview":
             selected_university_3 = st.selectbox(
                 "Select University", 
                 options=[""] + university_df['university_name'].unique().tolist(),  # Add an empty string at the beginning
-                index=0,  # Default to the empty selection
+                index=2,  # Default to the empty selection
                 key='uni_3'
             )
         with col4:
             selected_university_4 = st.selectbox(
                 "Select University", 
                 options=[""] + university_df['university_name'].unique().tolist(),  # Add an empty string at the beginning
-                index=0,  # Default to the empty selection
+                index=3,  # Default to the empty selection
                 key='uni_4'
             )
 
@@ -187,7 +187,7 @@ elif selected_section == "University overview":
         #st.markdown('- Subfields comparison: ')
         filtered_list = [university for university in selected_list if university]
 
-        gap1, col1, gap2, col2 = st.columns([0.2, 4,0.2, 2])
+        col1, gap2, col2 = st.columns([4,0.2, 2])
         with col1:
             comparison_chart = draw_university_comparison(filtered_list)
             st.altair_chart(comparison_chart, use_container_width=True)

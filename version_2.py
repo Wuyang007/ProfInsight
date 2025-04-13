@@ -97,19 +97,15 @@ elif selected_section == "University overview":
 
 
     def show_impact_vs_publication():
-        st.subheader("2. Impact Factors vs Publication Frequency")
-        st.markdown("""
-        In this section, we examine two key metrics that drive academic success across universities:
-        - **📚 Publication Frequency**: How often professors publish their research
-        - **🌟 Average Impact Factor**: The influence and quality of their research
-
-        By visualizing these factors, we can uncover patterns linking higher publication activity with research quality. 
-        This allows us to explore the dynamic relationship between academic output and influence at top institutions.
-        """)
-        st.write("\n")
+        #st.subheader("2. Impact Factors vs Publication Frequency")
+        
     
         distribution_chart = draw_distribution(university_df)
         st.altair_chart(distribution_chart, use_container_width=True)
+        st.markdown("""
+        - **📚 Publication Frequency**: How often professors publish their research
+        - **🌟 Average Impact Factor**: The influence and quality of their research
+        """)
         st.write("\n")
         top_impact_factors = university_df[['university_name', 'average impact factor']].sort_values(by='average impact factor', ascending=False).head(5)
         top_publication_frequency = university_df[['university_name', 'professor publications per year']].sort_values(by='professor publications per year', ascending=False).head(5)

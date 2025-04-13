@@ -195,6 +195,8 @@ elif selected_section == "University overview":
         with col2:
             st.write('\n')
             st.write('\n')
+            st.write('\n')
+            st.write('\n')
             st.write(compare_df)
             st.write('\n')
 

@@ -12,7 +12,7 @@ import sys
 sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison, treemap
-from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof, topic_profile, draw_network
+from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof, topic_profile
 #from help_functions.topic_profile import topic_profile
 
 #--------------------------------------------------------------------------------------------
@@ -278,8 +278,7 @@ elif selected_section == "Professor overview":
 
     def universal_network():
         #with open("datasets/chart/professor_network_summary.html", "r", encoding="utf-8") as f:
-        network_chart = draw_network()
-        st.altair_chart(network_chart, use_container_width=True)
+        
         st.image('datasets/chart/professor_university_network.png', caption='')
         st.write('Interactive version could be found in github 🔍')
 

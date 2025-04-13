@@ -168,14 +168,14 @@ elif selected_section == "University overview":
         with col3:
             selected_university_3 = st.selectbox(
                 "Select University", 
-                options=[""] + university_df['university_name'].unique().tolist(),  # Add an empty string at the beginning
+                options=["None"] + university_df['university_name'].unique().tolist(),  # Add an empty string at the beginning
                 index=2,  # Default to the empty selection
                 key='uni_3'
             )
         with col4:
             selected_university_4 = st.selectbox(
                 "Select University", 
-                options=[""] + university_df['university_name'].unique().tolist(),  # Add an empty string at the beginning
+                options=["None"] + university_df['university_name'].unique().tolist(),  # Add an empty string at the beginning
                 index=3,  # Default to the empty selection
                 key='uni_4'
             )

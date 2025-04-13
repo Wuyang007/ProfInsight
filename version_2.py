@@ -134,7 +134,7 @@ elif selected_section == "University overview":
 
         topic_university_chart = draw_university_topic_profile()
 
-        col1, gap1, col2, gap2= st.columns([5.5,0.5,3, 0.25])
+        col1, gap1, col2, gap2= st.columns([5.5,0.5,3, 0.5])
         with col1:
             #st.markdown('\n')
             #st.markdown('\n')

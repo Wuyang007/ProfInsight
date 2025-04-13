@@ -292,7 +292,7 @@ elif selected_section == "University overview":
         if cols[i].button(section, use_container_width=True):
             st.session_state.selected_section = section
 
-    st.divider()
+    # st.divider()
     sections[st.session_state.selected_section]()
 
 #-----------------------------------------------------------------------------------------

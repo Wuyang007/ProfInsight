@@ -12,7 +12,7 @@ import sys
 sys.path.append('help_functions')
 
 from help_functions.university_profile import draw_distribution, draw_university_topic_profile, draw_university_comparison, treemap
-from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof, topic_profile
+from help_functions.professor_profile import prof_info, profile_individual, find_network, compare_prof, topic_profile, create_base_chart
 #from help_functions.topic_profile import topic_profile
 
 #--------------------------------------------------------------------------------------------
@@ -284,14 +284,16 @@ elif selected_section == "Professor overview":
 
     
     def academic_metrics():
-        st.write('hahaha')
+        #st.write('hahaha')
         col1, col2, col3 = st.columns([0.5,4,1])
         with col2:
-            #df = pd.read_csv('datasets/tables/professor_profile.csv')
+            df = pd.read_csv('datasets/tables/professor_profile.csv')
             #st.table(df.head())
-            #base_chart = create_base_chart(df)
-            #st.altair_chart(base_chart)
-            st.image('datasets/chart/academic_metrics_prof.png')
+            base_chart = create_base_chart(df)
+            st.altair_chart(base_chart)
+            #st.image('datasets/chart/academic_metrics_prof.png')
+            
+        
 
     def research_profile():
         st.write('hehehe')

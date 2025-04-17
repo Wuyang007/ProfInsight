@@ -405,7 +405,7 @@ elif selected_section == "Professor overview":
             professor_name_input_a_1 = st.selectbox(
                 "Select the First Professor", 
                 options=professor_list_a_1, 
-                index=professor_list.tolist().index(default_professor_a_1),
+                #index=professor_list.tolist().index(default_professor_a_1),
                 key='search_a_p1'
                 )
             st.write('\n')
@@ -428,7 +428,7 @@ elif selected_section == "Professor overview":
             professor_name_input_a_2 = st.selectbox(
                 "Select the First Professor", 
                 options=professor_list_a_2, 
-                index=professor_list.tolist().index(default_professor_a_2),
+                #index=professor_list.tolist().index(default_professor_a_2),
                 key='search_a_p2',
             )
         

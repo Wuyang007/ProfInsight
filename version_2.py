@@ -379,7 +379,64 @@ elif selected_section == "Professor overview":
 
 
     def comparison():
-        st.write('ohohoh')
+        col1, gap1, col2, gap2 = st.columns([1, 0.1, 2, 0.1])
+        with col1:
+            default_university_a_1 = "University of Toronto"
+            default_professor_a_1 = "Axel Gunther"
+
+            # Create selectbox for university with default value
+            st.write('\n')
+            st.write('\n')
+            st.write('\n')
+            st.write('\n')
+            selected_university_a_1 = st.selectbox(
+                "Select the First University", 
+                options=df['university_name'].unique(), 
+                index=df['university_name'].unique().tolist().index(default_university_a_1),
+                key='search_a_u1'
+                )
+
+            professor_list_a_1 = df[df['university_name'] == selected_university_a_1]['professor_name'].unique()
+
+            # Create selectbox for professor with default value
+            professor_name_input_a_1 = st.selectbox(
+                "Select the First Professor", 
+                options=professor_list_a_1, 
+                index=professor_list.tolist().index(default_professor_a_1),
+                key='search_a_p1'
+                )
+            st.write('\n')
+            st.markdown('---')
+            st.write('\n')
+            default_university_a_2 = "University of Toronto"
+            default_professor_a_2 = "Edmond Young"
+
+            # Create selectbox for university with default value
+            selected_university_a_2 = st.selectbox(
+                "Select the Second University", 
+                options=df['university_name'].unique(), 
+                index=df['university_name'].unique().tolist().index(default_university_a_2),
+                key='search_u2'
+                )
+
+            professor_list_a_2 = df[df['university_name'] == selected_university_a_2]['professor_name'].unique()
+
+            # Create selectbox for professor with default value
+            professor_name_input_a_2 = st.selectbox(
+                "Select the First Professor", 
+                options=professor_list_a_2, 
+                index=professor_list.tolist().index(default_professor_a_2),
+                key='search_a_p2',
+            )
+        
+        with col2:
+            fig_compare = compare_prof(
+                    selected_university_a_1, 
+                    professor_name_input_a_1, 
+                    selected_university_a_2, 
+                    professor_name_input_a_2)
+            
+            st.plotly_chart(fig_compare, use_container_width=True)
     
     def questions():
         st.write('question')

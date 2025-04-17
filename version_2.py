@@ -350,22 +350,15 @@ elif selected_section == "Professor overview":
         st.dataframe(pub_df)
         st.write('\n')
 
-        st.subheader('🧐 Research Expertise')
-        st.markdown(
-            """
-            This radar chart visualizes the **top 8 research expertise areas** of the selected professor,  
-            based on their publications, citations, and interdisciplinary reach.  
-            """
-        )
-        col1, col2 = st.columns([2,1])
+        
+        
+        col1, col2, col3 = st.columns([2,0.25,2])
         with col1:
+            st.subheader('🧐 Research Expertise')
             fig = profile_individual(str(selected_university), str(professor_name_input))
             st.plotly_chart(fig, use_container_width=True)
-        
-        st.subheader("👨🏼‍🤝‍👨🏽 Academic Collaborations")
-        col1, col2 = st.columns([2,1])
-        with col1:
-            st.write('\n')
+        with col3:
+            st.subheader("👨🏼‍🤝‍👨🏽 Academic Collaborations")
             chart = find_network(professor_name_input)
             st.altair_chart(chart, use_container_width=True)
 

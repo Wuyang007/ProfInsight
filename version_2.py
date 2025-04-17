@@ -306,6 +306,7 @@ elif selected_section == "Professor overview":
         
 
     def research_profile():
+        df = pd.read_csv('datasets/tables/professor_profile.csv')
         col1, col2, col3 = st.columns([1,1,1])
         with col1:
             default_university = "University of Toronto"

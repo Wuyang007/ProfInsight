@@ -362,6 +362,21 @@ elif selected_section == "Professor overview":
             chart = find_network(professor_name_input)
             st.altair_chart(chart, use_container_width=True)
 
+        st.subheader("Summary: ")
+        st.write("""Dr. Axel Guenther is a Full Professor in the Department of Mechanical and Industrial Engineering at the University of Toronto, with a cross-appointment at the Institute of Biomedical Engineering. He earned his doctoral degree from the Swiss Federal Institute of Technology (ETH) in Zurich and conducted postdoctoral research at the Massachusetts Institute of Technology (MIT). 
+    OQCORE.CA
+
+    Dr. Guenther's research focuses on microfluidics, biofabrication, and the development of micro/nanosystems for biomedical applications. His work includes the creation of organs-on-chips and the 2D and 3D printing of organized soft materials, such as engineered human tissue substitutes.
+    CRAFTMICROFLUIDICS.CA
+
+    Throughout his career, Dr. Guenther has received several prestigious awards, including the ETH Silver Medal (2002), the Ontario Early Researcher Award (2009), and the I.W. Smith Award from the Canadian Society of Mechanical Engineers (2010). He currently holds the Wallace G. Chalmers Chair of Engineering Design (2012–present). 
+    OQCORE.CA
+
+    In addition to his academic achievements, Dr. Guenther has published over 30 scientific papers and holds patents for three licensed technologies. He co-organizes the annual "Ontario-on-a-Chip" event, which focuses on microfluidics, microreactors, and labs-on-a-chip, fostering collaboration between university researchers and industry professionals in chemical, pharmaceutical, biotechnology, advanced materials, and analytical device sectors. 
+    OQCORE.CA
+
+    Dr. Guenther also serves as the Scientific Director of the Centre for Microfluidic Systems in Chemistry and Biology in Toronto, further advancing research in this field. """)
+
 
     def comparison():
         st.write('ohohoh')

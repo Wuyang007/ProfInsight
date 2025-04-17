@@ -381,7 +381,7 @@ elif selected_section == "Professor overview":
 
     def comparison():
         df = pd.read_csv('datasets/tables/professor_profile.csv')
-        professor_list = df[df['university_name'] == selected_university]['professor_name'].unique()
+        #professor_list = df[df['university_name'] == selected_university]['professor_name'].unique()
         col1, gap1, col2, gap2 = st.columns([1, 0.1, 2, 0.1])
         with col1:
             default_university_a_1 = "University of Toronto"

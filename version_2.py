@@ -361,6 +361,14 @@ elif selected_section == "Professor overview":
         with col1:
             fig = profile_individual(str(selected_university), str(professor_name_input))
             st.plotly_chart(fig, use_container_width=True)
+        
+        st.subheader("👨🏼‍🤝‍👨🏽 Academic Collaborations")
+        col1, col2 = st.columns([2,1])
+        with col1:
+            st.write('\n')
+            chart = find_network(professor_name_input)
+            st.altair_chart(chart, use_container_width=True)
+
 
     def comparison():
         st.write('ohohoh')

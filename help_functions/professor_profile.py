@@ -33,7 +33,7 @@ def create_base_chart(df):
                 alt.Tooltip('impact_level:N', title='Impact Level')],
     ).properties(
         width=800, 
-        height=450,
+        height=400,
     )
     histogram_impact_factor = alt.Chart(df).mark_bar(color='lightgray').encode(
         y=alt.Y('ave_if', bin=alt.Bin(maxbins=100), scale=log_scale, title='', axis=None),

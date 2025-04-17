@@ -285,6 +285,13 @@ elif selected_section == "Professor overview":
     
     def academic_metrics():
         st.write('hahaha')
+        col1, col2, col3 = st.columns([0.5,4,1])
+        with col2:
+            #df = pd.read_csv('datasets/tables/professor_profile.csv')
+            #st.table(df.head())
+            #base_chart = create_base_chart(df)
+            #st.altair_chart(base_chart)
+            st.image('datasets/chart/academic_metrics_prof.png')
 
     def research_profile():
         st.write('hehehe')

@@ -292,6 +292,16 @@ elif selected_section == "Professor overview":
             base_chart = create_base_chart(df)
             st.altair_chart(base_chart)
             #st.image('datasets/chart/academic_metrics_prof.png')
+            st.markdown("""
+                In this section, we display key academic metrics for top Biomedical Engineering professors. 
+                These metrics include:
+                - **Publication frequency**
+                - **Average impact factor**
+                - **Overall contribution to the community**
+                
+                Explore how these factors are connected and how they contribute to the advancement of the field.
+            """)
+
             
         
 

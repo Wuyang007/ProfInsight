@@ -306,7 +306,7 @@ elif selected_section == "Professor overview":
         
 
     def research_profile():
-        df = pd.read_csv('datasets/tables/professor_profile.csv')
+        
         col1, col2, col3 = st.columns([1,1,1])
         with col1:
             default_university = "University of Toronto"
@@ -380,6 +380,7 @@ elif selected_section == "Professor overview":
 
 
     def comparison():
+        df = pd.read_csv('datasets/tables/professor_profile.csv')
         col1, gap1, col2, gap2 = st.columns([1, 0.1, 2, 0.1])
         with col1:
             default_university_a_1 = "University of Toronto"

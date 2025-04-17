@@ -306,7 +306,27 @@ elif selected_section == "Professor overview":
         
 
     def research_profile():
-        st.write('hehehe')
+        col1, col2, col3 = st.columns([1,1,1])
+        with col1:
+            default_university = "University of Toronto"
+            default_professor = "Axel Gunther"
+
+            # Filter professor list based on the selected university
+            df = pd.read_csv('datasets/tables/professor_profile.csv')
+            professor_list = df[df['university_name'] == default_university]['professor_name'].unique()
+
+            # Create selectbox for university with default value
+            selected_university = st.selectbox("Select University", options=df['university_name'].unique(), index=df['university_name'].unique().tolist().index(default_university))
+
+            # Filter professor list based on the selected university
+            professor_list = df[df['university_name'] == selected_university]['professor_name'].unique()
+
+            # Create selectbox for professor with default value
+            professor_name_input = st.selectbox("Select Professor", options=professor_list, index=professor_list.tolist().index(default_professor))
+            st.write('Please bear with us for a moment while we fetch the data!')
+            st.markdown('---')
+        st.subheader('📜Basic Info')
+        image_url, prof_df, prof_chart, pub_df = prof_info(professor_name_input)
 
     def comparison():
         st.write('ohohoh')

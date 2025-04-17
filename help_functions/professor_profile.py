@@ -59,7 +59,7 @@ def create_base_chart(df):
     # Concatenate the scatter plot and the histogram horizontally
     top_chart = alt.hconcat(base_chart, histogram_impact_factor)  # Top row: scatter plot + impact factor histogram
     combined_chart = alt.vconcat(histogram_num_pub, top_chart)
-    return combined_chart
+    return base_chart
 
 
 def prof_info(name):

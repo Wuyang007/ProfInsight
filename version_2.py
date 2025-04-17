@@ -442,7 +442,29 @@ elif selected_section == "Professor overview":
             st.plotly_chart(fig_compare, use_container_width=True)
     
     def questions():
-        st.write('question')
+        user_question = st.text_input("Ask me anything about professors:")
+
+        # Add a submit button
+        if st.button("Submit"):
+            # Simulated response (can be replaced with actual logic once RAG is implemented)
+            if user_question:
+                st.write(f"**You asked:** {user_question}")
+                st.write("**Chatbot's response:**")
+                
+                # Here, you can add logic for predefined responses based on keywords
+                # or placeholders while you work on implementing the RAG system.
+                
+                # Example responses:
+                if "university ranking" in user_question.lower():
+                    st.write("The top universities vary by field of research. For example, 'University of Tokyo' excels in engineering.")
+                elif "faculty size" in user_question.lower():
+                    st.write("Faculty sizes can vary across universities, depending on their research community size.")
+                elif "publications" in user_question.lower():
+                    st.write("Publications per year often depend on the university's faculty research output.")
+                else:
+                    st.write("I am currently gathering more information. Please check back soon!")
+            else:
+                st.write("Please enter a question to ask.")
     
     sections_prof_page = {
         "🏛️  Research Community": lambda: universal_network(),

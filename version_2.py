@@ -328,6 +328,23 @@ elif selected_section == "Professor overview":
         st.subheader('📜Basic Info')
         image_url, prof_df, prof_chart, pub_df = prof_info(professor_name_input)
 
+        col2, gap2, col3, gap3, col4 = st.columns([0.4,0.1, 1.2, 0.1, 1])
+
+        with col2:
+            st.write('\n')
+            st.image(image_url, use_container_width=True)
+        with col3:
+            st.write('\n')
+            st.write('\n')
+            st.dataframe(prof_df)
+        with col4:
+            st.write('\n')
+            st.write('\n')
+            st.write('\n')
+            st.write('\n')
+            st.write('\n')
+            st.altair_chart(prof_chart)
+
     def comparison():
         st.write('ohohoh')
     
